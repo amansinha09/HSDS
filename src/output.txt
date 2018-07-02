@@ -1,0 +1,61 @@
+Length of the dictionary2162
+Length of the dictionary1005
+Length of the dictionary349
+Length of the dictionary2095
+length of initial lexicon: 2095
+Repeated key found :161
+New key found :2001
+length of resultant lexicon: 4096
+Repeated key found :834
+New key found :171
+length of resultant lexicon: 4267
+Repeated key found :95
+New key found :254
+length of resultant lexicon: 4521
+Final 4521
+Length of the dictionary2162
+Length of the dictionary1005
+Length of the dictionary349
+Length of the dictionary2095
+length of initial lexicon: 2095
+Repeated key found :161
+New key found :2001
+length of resultant lexicon: 4096
+Repeated key found :834
+New key found :171
+length of resultant lexicon: 4267
+Repeated key found :95
+New key found :254
+length of resultant lexicon: 4521
+Wrtiting to file....
+Length of the dictionary2162
+Length of the dictionary1005
+Length of the dictionary349
+Length of the dictionary2095
+length of initial lexicon: 2095
+Repeated key found :161
+New key found :2001
+length of resultant lexicon: 4096
+Repeated key found :834
+New key found :171
+length of resultant lexicon: 4267
+Repeated key found :95
+New key found :254
+length of resultant lexicon: 4521
+Wrtiting to file....
+Length of the dictionary2162
+Length of the dictionary1005
+Length of the dictionary349
+Length of the dictionary2095
+length of initial lexicon: 2095
+Repeated key found :161
+New key found :2001
+length of resultant lexicon: 4096
+Repeated key found :834
+New key found :171
+length of resultant lexicon: 4267
+Repeated key found :95
+New key found :254
+length of resultant lexicon: 4521
+Wrtiting to file....
+Lexicon generated.

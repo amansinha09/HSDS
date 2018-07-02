@@ -1,0 +1,4521 @@
+दबदबा	{'noun': ['positive']}
+भ्रूभंग	{'noun': ['negative']}
+जानने_योग्य	{'anypos': ['positive']}
+के_खिलाफ	{'anypos': ['negative']}
+आग्रह	{'noun': ['negative', 'ambiguous']}
+मूर्ख_बनाना	{'verb': ['neutral']}
+अचेत_करना	{'verb': ['ambiguous']}
+सप्रेम	{'adv': ['positive']}
+क्षम्य	{'noun': ['positive']}
+बुझाना	{'verb': ['positive', 'ambiguous']}
+आक्रमण	{'anypos': ['negative'], 'noun': ['negative']}
+निरंतर	{'adv': ['negative'], 'adj': ['neutral']}
+कचरा	{'noun': ['negative']}
+तलाश_में	{'anypos': ['neutral']}
+कैंसर	{'noun': ['negative']}
+धूमिल	{'anypos': ['negative'], 'adj': ['negative']}
+उदारता	{'adj': ['positive'], 'noun': ['positive']}
+गर्भवती	{'adj': ['positive']}
+तेजतर्रार	{'noun': ['negative']}
+आंख_में_धूल_झोंकना	{'verb': ['positive']}
+छीन_लिया	{'adj': ['positive']}
+जोखिम_भरा	{'adj': ['negative']}
+अर्ध_सहयोगी	{'noun': ['positive']}
+थाह_लेना	{'verb': ['positive']}
+सर्वश्रेष्ठ_बिक्री	{'adj': ['positive']}
+महासागर_की_गहराई_या_पाताल-संबंधी	{'adj': ['negative', 'ambiguous']}
+व्याख्या_करना	{'verb': ['neutral']}
+अक्षम्य	{'adv': ['negative'], 'adj': ['negative']}
+बेगुनाह	{'adj': ['positive', 'ambiguous']}
+अस्वीकरणीय	{'adj': ['positive']}
+स्टाइलिश	{'adj': ['positive', 'ambiguous']}
+दरिद्र_बना_दिया	{'adj': ['negative', 'ambiguous']}
+रुकावट	{'anypos': ['negative']}
+तीखा	{'adj': ['negative']}
+प्रतिकारिता	{'noun': ['negative', 'ambiguous']}
+बेजोड़	{'anypos': ['positive'], 'noun': ['positive']}
+वश्य	{'adj': ['negative']}
+विषादपूर्वक	{'adj': ['negative']}
+चकित	{'anypos': ['negative'], 'adj': ['negative', 'ambiguous']}
+सुगंधित	{'adj': ['negative', 'ambiguous']}
+सांत्वना	{'verb': ['positive']}
+समान	{'adj': ['negative'], 'anypos': ['neutral']}
+स्वाभाविक	{'adj': ['positive'], 'anypos': ['positive']}
+तुली_हुई	{'adj': ['negative']}
+परजीवी	{'noun': ['negative']}
+आदाब	{'noun': ['positive']}
+वश_में_करना	{'verb': ['ambiguous']}
+प्रदान_करना	{'verb': ['positive']}
+अमेरिका_परस्त	{'noun': ['positive']}
+छिछोरापन	{'noun': ['positive', 'ambiguous']}
+ल्लचताजनक	{'anypos': ['positive']}
+शुक्र_है	{'anypos': ['positive']}
+ताना_मार	{'anypos': ['ambiguous']}
+बड़ी_मेहनत_से	{'adv': ['positive']}
+हास्यास्पद	{'adj': ['positive'], 'anypos': ['positive']}
+पुनरोदय	{'noun': ['negative', 'ambiguous']}
+अपराजेय	{'anypos': ['positive']}
+औसत_से_ऊपर	{'adj': ['positive']}
+झगड़ालू	{'adj': ['negative', 'ambiguous']}
+तैयार_होकर	{'adj': ['positive']}
+हैरान_करनेवाला	{'anypos': ['ambiguous']}
+घोटाले	{'noun': ['negative']}
+अनुभवी	{'adj': ['positive', 'ambiguous']}
+आतंकित_करना	{'verb': ['positive', 'ambiguous']}
+बेढंगेपन	{'adv': ['negative'], 'anypos': ['positive']}
+शंका	{'verb': ['positive'], 'noun': ['negative', 'ambiguous']}
+चपलता	{'noun': ['positive']}
+वैध_तरीके	{'adv': ['positive']}
+प्रेरित	{'adj': ['positive']}
+भड़कानेवाला_व्यक्ति	{'noun': ['negative']}
+मुक़ाबला	{'noun': ['negative']}
+ध्यान_से_देखने_से	{'anypos': ['positive']}
+नमूना	{'noun': ['ambiguous']}
+कमियों	{'noun': ['negative']}
+भावपूर्ण	{'anypos': ['positive']}
+कटाव	{'noun': ['negative']}
+अवशेष	{'noun': ['negative']}
+शांतिवादी	{'noun': ['positive']}
+सहयोगी	{'adj': ['positive']}
+विनाशकारी	{'adj': ['negative']}
+लूट	{'verb': ['ambiguous']}
+प्रसन्न_करना	{'verb': ['positive', 'ambiguous']}
+कटकट	{'verb': ['positive']}
+पछतावा	{'noun': ['negative', 'ambiguous']}
+निहायत	{'anypos': ['positive']}
+स्फूर्तिदायक	{'anypos': ['positive']}
+नंगा	{'adj': ['ambiguous']}
+बुद्धिमत्ता	{'noun': ['positive']}
+असली	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+सतही	{'adj': ['negative'], 'noun': ['negative']}
+तर्क	{'anypos': ['positive'], 'noun': ['negative']}
+दिलचस्प	{'anypos': ['positive']}
+नीच	{'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+चिह्नित_करना	{'verb': ['positive']}
+जॉर्ज	{'noun': ['negative']}
+हिसात्मक_आचरण	{'verb': ['ambiguous']}
+चापलूसी	{'verb': ['ambiguous']}
+मुमकिन	{'adj': ['positive']}
+लचीला	{'adj': ['negative']}
+विषैला	{'adj': ['negative', 'ambiguous']}
+असत्कारशील	{'adj': ['negative', 'ambiguous']}
+टपका_हुआ	{'adj': ['negative']}
+जिज्ञासु	{'anypos': ['positive'], 'adj': ['negative']}
+खून_खराबा	{'noun': ['negative']}
+बैक-लकड़ी	{'anypos': ['negative']}
+स्मूथस	{'anypos': ['positive']}
+भोला-भाला	{'verb': ['positive']}
+ज़ोरदार	{'anypos': ['positive'], 'adj': ['negative']}
+कल्पनातीत	{'adv': ['negative']}
+गौरवान्वित_करना	{'verb': ['positive']}
+ईश्वर_का_वरदान	{'anypos': ['positive']}
+स्पष्टतापूर्वक	{'adj': ['positive']}
+प्रणय	{'noun': ['positive']}
+लंबरूप_में	{'adv': ['negative']}
+पुरस्कार	{'verb': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+बेअसर	{'verb': ['positive', 'ambiguous'], 'noun': ['negative']}
+घुसपैठियों	{'noun': ['negative']}
+शाही	{'adj': ['negative', 'ambiguous']}
+तोड़_दिया	{'adj': ['negative']}
+युक्तिसंगत	{'verb': ['positive']}
+दिवालिया	{'adj': ['negative']}
+अटल	{'adj': ['negative']}
+काव्यगत	{'adj': ['positive']}
+मोहित_करना	{'verb': ['positive', 'ambiguous']}
+निष्पक्षता	{'noun': ['positive']}
+समर्थक	{'noun': ['positive']}
+समृद्धिशाली	{'adj': ['positive']}
+उर्वर	{'adj': ['positive']}
+भेद्यता	{'noun': ['positive']}
+आराम	{'verb': ['positive'], 'adj': ['negative']}
+राड़	{'anypos': ['negative']}
+ऋणी	{'adj': ['negative']}
+झूठ	{'noun': ['negative']}
+दौड़ना	{'verb': ['positive']}
+अर्हता	{'verb': ['positive']}
+विद्वेष	{'noun': ['negative', 'ambiguous']}
+तेजी_से_बढ़ता	{'adj': ['positive']}
+गंधा	{'adj': ['positive']}
+संकुल	{'adj': ['negative']}
+प्रशंसा	{'verb': ['positive'], 'noun': ['negative']}
+डाल_दिया_गया	{'adj': ['negative']}
+विचार_करना	{'verb': ['neutral']}
+अप्रकाशित	{'adj': ['negative']}
+हालांकि	{'anypos': ['neutral']}
+अन्धकारमय	{'adj': ['negative']}
+विल्स	{'noun': ['negative']}
+उग_आया	{'verb': ['positive']}
+फ़ायदेमंद	{'adj': ['negative']}
+का_विरोध	{'verb': ['positive']}
+बेकारी	{'anypos': ['positive']}
+स्थिर_करना	{'verb': ['positive']}
+आंख_मूंदकर	{'anypos': ['positive']}
+विद्रोह_का	{'adj': ['negative']}
+भाग्यवादी	{'adj': ['negative', 'ambiguous']}
+प्रौढ़	{'adj': ['positive']}
+बढ़ती	{'adj': ['positive']}
+तिरस्कारपूर्ण	{'adj': ['negative', 'ambiguous']}
+फिटिंग	{'adj': ['positive']}
+अनायास	{'adv': ['negative', 'ambiguous'], 'adj': ['positive']}
+एकमत	{'adj': ['positive']}
+वाकपटुता	{'anypos': ['positive']}
+बेगरज	{'adj': ['positive', 'ambiguous']}
+सितारे	{'noun': ['positive']}
+बदबू	{'verb': ['ambiguous']}
+राजनीति	{'anypos': ['positive']}
+उज्जवल	{'anypos': ['positive']}
+रक्त-पिपासु	{'noun': ['positive']}
+पूल	{'noun': ['negative']}
+शोहरत	{'noun': ['positive']}
+मासूम	{'adj': ['negative', 'ambiguous']}
+वयोवृद्ध	{'adj': ['positive']}
+मुआविज़ा	{'verb': ['positive']}
+पृष्ठांकक	{'noun': ['positive']}
+सुखद	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive', 'ambiguous']}
+गहरा	{'adj': ['positive'], 'anypos': ['neutral'], 'noun': ['negative']}
+पंचमेल	{'adj': ['negative', 'ambiguous']}
+विडंबनाओं	{'noun': ['negative']}
+गंदगी	{'noun': ['negative']}
+पद	{'adj': ['negative', 'ambiguous']}
+विधर्म	{'noun': ['negative']}
+यद्ध_के_कार्य	{'noun': ['negative']}
+उदासीन	{'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+गोलंदाज़ी	{'noun': ['negative']}
+भरमार	{'noun': ['negative', 'ambiguous']}
+ताऊन	{'noun': ['negative']}
+संकर्षण	{'anypos': ['positive']}
+मनोरंजक	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+उपहास	{'verb': ['ambiguous'], 'noun': ['negative', 'ambiguous']}
+अराजकता	{'noun': ['negative']}
+प्रभावित_कर	{'verb': ['ambiguous', 'neutral']}
+स्वेच्छाचार	{'anypos': ['negative']}
+रोमांच	{'verb': ['positive'], 'noun': ['positive']}
+बुरा_सपना	{'noun': ['negative', 'ambiguous']}
+स्वादिष्ट	{'adj': ['positive', 'ambiguous']}
+चोट	{'anypos': ['negative'], 'noun': ['negative']}
+असंतुष्टों	{'noun': ['negative']}
+सुनाई_देने_योग्य	{'anypos': ['positive']}
+गौरव	{'noun': ['positive']}
+वियोग	{'noun': ['negative']}
+बहुत	{'adv': ['neutral'], 'anypos': ['neutral']}
+कम_से_कम	{'verb': ['positive']}
+व्यवसाय	{'noun': ['negative']}
+काटा_हुआ_नहीं	{'adj': ['negative']}
+बुराई	{'noun': ['negative']}
+हिमाच्छन्न	{'adj': ['positive']}
+गिरते	{'adj': ['negative']}
+मुख्य	{'adj': ['neutral']}
+अनाड़ी	{'adj': ['negative', 'ambiguous']}
+आवेशपूर्ण	{'adj': ['positive', 'ambiguous']}
+शान_से	{'anypos': ['positive']}
+हटाना	{'verb': ['positive']}
+मज़बूत	{'adj': ['positive'], 'anypos': ['positive']}
+अदम्य	{'adj': ['negative'], 'noun': ['negative']}
+घटिया	{'adj': ['negative']}
+बकाया	{'adj': ['positive']}
+आलोचना	{'noun': ['negative']}
+रहना	{'verb': ['positive'], 'anypos': ['positive']}
+अभूतपूर्व	{'adj': ['positive']}
+खतरनाक	{'adv': ['negative', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+लाइटर	{'anypos': ['positive']}
+कम	{'adv': ['negative'], 'adj': ['negative']}
+धूमधाम	{'noun': ['positive']}
+FTW	{'anypos': ['positive']}
+अक्षांश	{'noun': ['negative']}
+बहु-ध्रुवीकरण	{'noun': ['negative']}
+असंतुष्ट	{'adj': ['negative', 'ambiguous']}
+संसारिक	{'adj': ['ambiguous']}
+गारंटी	{'verb': ['positive']}
+प्रमत्त	{'adj': ['positive']}
+ढांचे_के_रूप_में	{'adj': ['negative', 'ambiguous']}
+दुर्दशा	{'noun': ['negative']}
+लगातार	{'adv': ['positive'], 'anypos': ['positive'], 'adj': ['neutral']}
+चापलूसी_का	{'adj': ['positive']}
+थॉमस	{'noun': ['positive']}
+विश्वासों	{'noun': ['neutral']}
+मित्रों	{'noun': ['positive']}
+नीचा_दिखा	{'adj': ['negative']}
+बढ़ाने	{'verb': ['positive']}
+कोटिंग	{'noun': ['negative']}
+चकमा_दे_रहा_है	{'noun': ['negative']}
+इसलिये	{'anypos': ['neutral']}
+अखंडनीय	{'adj': ['negative']}
+छलनी	{'verb': ['positive']}
+भद्दे	{'adj': ['positive']}
+वाग्मिता	{'noun': ['positive']}
+समझदार	{'adj': ['positive'], 'anypos': ['positive']}
+सम्मिलित	{'adj': ['positive']}
+मीठा	{'adj': ['positive']}
+उपदेश_करना	{'verb': ['positive']}
+पलक	{'noun': ['positive']}
+अब	{'adv': ['negative']}
+मध्यम	{'adj': ['positive']}
+अनियंत्रित	{'adj': ['negative']}
+उपयोगकर्ता_बदली	{'anypos': ['positive']}
+अभिभावक	{'noun': ['positive']}
+अराजक	{'adj': ['negative', 'ambiguous']}
+वकील	{'verb': ['positive']}
+प्रधान	{'adj': ['ambiguous', 'neutral']}
+रक्षा_करना	{'verb': ['positive']}
+अनिर्वचनीय	{'adj': ['positive']}
+भुलक्कड़पन	{'anypos': ['positive']}
+अपराधों	{'noun': ['negative']}
+बिरादराना	{'adj': ['positive']}
+आकर्षक	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive'], 'noun': ['positive']}
+मलिन	{'adj': ['negative']}
+संचालित	{'adj': ['positive']}
+गाढ़ा	{'adj': ['ambiguous']}
+असभ्यता	{'adj': ['negative']}
+प्रच्छन्न	{'adj': ['neutral']}
+जरूरी	{'adj': ['positive']}
+मोटा	{'noun': ['negative', 'ambiguous']}
+कोप	{'noun': ['negative']}
+धनिया	{'noun': ['positive']}
+मतभेद_करनेवाला	{'noun': ['negative', 'ambiguous']}
+कठोर	{'adv': ['negative'], 'anypos': ['positive', 'ambiguous'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+घेराबंदी	{'noun': ['negative']}
+प्रतिरोध	{'noun': ['negative']}
+समानांतर	{'verb': ['positive']}
+संकेतों	{'anypos': ['neutral'], 'noun': ['neutral']}
+हांफी	{'noun': ['negative']}
+अन्यायपूर्ण	{'adj': ['negative', 'ambiguous']}
+स्ट्रोक	{'verb': ['positive']}
+द्वीपीय	{'adj': ['negative']}
+घबड़ाया_हुआ	{'adj': ['negative']}
+संबंधों	{'noun': ['neutral']}
+तुस्र्प	{'verb': ['positive']}
+अधर्म	{'adj': ['negative'], 'noun': ['negative']}
+भ्रष्टाचार	{'noun': ['negative', 'ambiguous']}
+आभास	{'anypos': ['neutral']}
+दृढ़तापूर्वक	{'anypos': ['positive']}
+सौम्यता	{'noun': ['negative']}
+आलस	{'noun': ['negative']}
+शीर्ष_के	{'anypos': ['positive']}
+बुराइयों	{'noun': ['negative']}
+वहशी_बनाना	{'verb': ['ambiguous']}
+सुधार	{'verb': ['positive'], 'anypos': ['positive'], 'noun': ['negative']}
+असंबद्धता	{'noun': ['negative']}
+नालायक	{'adj': ['negative']}
+अल्पज्ञता_से	{'adv': ['negative']}
+सुखद_जीवन_का	{'anypos': ['positive', 'ambiguous']}
+कृषि_योग्य_बनाना	{'verb': ['positive']}
+मेहनती	{'adj': ['positive', 'ambiguous']}
+वैराग्य	{'noun': ['negative', 'ambiguous']}
+सभ्य	{'adj': ['positive']}
+झुका_हुआ	{'noun': ['negative']}
+सेवक	{'adj': ['negative']}
+अचूक	{'adj': ['positive', 'ambiguous']}
+धुंधला	{'anypos': ['negative'], 'adj': ['negative', 'ambiguous']}
+भेद्य	{'noun': ['positive', 'ambiguous']}
+ड्रॉप	{'verb': ['positive']}
+प्रतिकूल	{'anypos': ['negative', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+उत्तर	{'verb': ['ambiguous']}
+नृत्य	{'verb': ['positive']}
+प्रसव	{'noun': ['negative']}
+जयध्वनि	{'noun': ['positive', 'ambiguous']}
+सीखना	{'adj': ['neutral']}
+निकला_हुआ	{'adj': ['negative']}
+अच्छी_तरह_से_बनाया	{'anypos': ['positive']}
+और_भी	{'adv': ['positive'], 'anypos': ['neutral']}
+अप्रथावाला	{'adj': ['positive']}
+रोना	{'verb': ['ambiguous']}
+असफल	{'adv': ['negative'], 'adj': ['negative']}
+सुस्पष्ट	{'adj': ['positive'], 'anypos': ['negative']}
+दुर्घटना_का_शिकार	{'noun': ['negative']}
+प्रयोग_करने_योग्य	{'adj': ['positive']}
+विप्लव_करनेवाला	{'anypos': ['ambiguous']}
+संजोना	{'verb': ['positive']}
+करारापन	{'noun': ['negative']}
+ईश्वरतुल्य	{'anypos': ['positive', 'ambiguous']}
+बढ़ाया	{'adj': ['positive', 'ambiguous']}
+लंबे_समय_तक	{'adj': ['ambiguous']}
+झपकी	{'noun': ['neutral']}
+विरोध_करना	{'verb': ['ambiguous']}
+सस्ते_में	{'anypos': ['negative']}
+के_विचार	{'noun': ['neutral']}
+पोषित	{'adj': ['positive', 'ambiguous']}
+समाधान_करना	{'verb': ['positive']}
+महत्वाकांक्षा	{'anypos': ['positive']}
+वीभत्स	{'adj': ['negative']}
+उम्र_के_अंतर्गत	{'adj': ['negative']}
+विश्व_प्रसिद्ध	{'adj': ['positive']}
+सांड_****	{'anypos': ['negative']}
+धोखेबाज़	{'noun': ['negative']}
+मंत्र	{'noun': ['neutral']}
+थाली	{'noun': ['positive']}
+औचित्य_साबित	{'verb': ['positive']}
+अकुशल	{'adj': ['negative']}
+उल्लासपूर्ण	{'adj': ['positive', 'ambiguous']}
+बीमार_का_इलाज	{'adj': ['negative']}
+अराजकतावादी	{'noun': ['negative']}
+प्रशंसा_करना	{'verb': ['positive']}
+कुंजी	{'adj': ['neutral']}
+सर्वोच्चतापूर्वक	{'adv': ['positive']}
+उपदेश_देना	{'verb': ['positive']}
+मनोहर	{'adj': ['positive', 'ambiguous']}
+प्रसिद्धि_से	{'adj': ['positive']}
+पनपने	{'adj': ['positive']}
+आत्मसमर्पण	{'noun': ['negative', 'ambiguous']}
+ढूढने	{'adj': ['negative']}
+क्रेप्स	{'anypos': ['negative']}
+आगे_निकल	{'anypos': ['positive']}
+गर्भपात	{'anypos': ['negative']}
+ठाठ_का	{'adj': ['positive'], 'anypos': ['positive']}
+रुक-रुक_कर	{'adj': ['negative']}
+अनभ्यस्त	{'adj': ['negative', 'ambiguous']}
+सुप्रीम	{'adj': ['positive']}
+ग़ुस्से_में_लाना	{'verb': ['ambiguous']}
+असावधान	{'adj': ['negative', 'ambiguous']}
+सरगर्मी	{'adj': ['positive']}
+मौलिक	{'anypos': ['positive'], 'adj': ['neutral']}
+मुंहतोड़	{'adj': ['negative']}
+पैठनेवाला	{'noun': ['negative']}
+दृढ़	{'adj': ['negative', 'ambiguous'], 'noun': ['neutral']}
+गरमागरम	{'adj': ['positive']}
+खट्टा	{'adj': ['negative']}
+विस्फोट	{'anypos': ['negative'], 'noun': ['negative']}
+उबाऊ	{'anypos': ['negative']}
+सजीव_करना	{'verb': ['positive']}
+ज़ब्त_करना	{'noun': ['negative']}
+प्रफुल्ल_करना	{'verb': ['positive']}
+गहन	{'adj': ['neutral']}
+बेअदबी	{'noun': ['positive']}
+कृतज्ञता_से	{'anypos': ['positive']}
+अलगाव_की_भावना	{'noun': ['negative', 'ambiguous']}
+धमकी	{'noun': ['negative', 'ambiguous']}
+जला_दिया	{'anypos': ['negative']}
+हंसी_का	{'anypos': ['ambiguous']}
+बीजान्टिन	{'adj': ['negative', 'ambiguous']}
+मोलिकता	{'noun': ['negative']}
+कृपया	{'verb': ['positive'], 'anypos': ['positive']}
+तुष्टि	{'verb': ['positive'], 'noun': ['positive']}
+कुल_भार	{'adj': ['negative']}
+घूरना	{'verb': ['positive']}
+ओलिंपिक	{'adj': ['neutral']}
+आलोचकों	{'noun': ['negative']}
+सारांश	{'adj': ['negative']}
+क्लांत	{'adj': ['negative', 'ambiguous']}
+बूढ़ा	{'adj': ['negative', 'ambiguous']}
+गतिविधि	{'noun': ['negative']}
+धमकाना	{'verb': ['positive']}
+झगड़ा	{'verb': ['positive']}
+बचत	{'anypos': ['positive'], 'noun': ['negative']}
+करामाती	{'anypos': ['positive']}
+पथभ्रष्ट	{'adj': ['negative', 'ambiguous']}
+क्षणभंगुर	{'adj': ['negative']}
+अन्तर	{'noun': ['negative']}
+बहुमुल्य_वस्तु	{'adv': ['positive']}
+स्पष्ट_रूप_से	{'adv': ['positive'], 'anypos': ['neutral']}
+अनाथ	{'adj': ['negative'], 'noun': ['negative']}
+सर्वाधिक	{'adj': ['neutral']}
+सहना	{'verb': ['positive']}
+राजनयिक	{'noun': ['positive']}
+गद्दारों	{'noun': ['negative']}
+अभिमान	{'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+दावा	{'anypos': ['neutral'], 'noun': ['positive']}
+लंबा	{'adj': ['neutral']}
+जोश	{'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+खून_बह_रहा_है	{'anypos': ['negative']}
+शॉट	{'noun': ['positive']}
+परोक्ष	{'adj': ['negative']}
+प्रभाव_से	{'anypos': ['positive']}
+फटकार	{'anypos': ['negative'], 'noun': ['negative']}
+अपूर्ण	{'adv': ['negative'], 'adj': ['negative', 'ambiguous']}
+अचानक_एक_ओर_को_लड़खड़ाहट	{'verb': ['positive']}
+शह	{'noun': ['negative']}
+समझ_में_आ	{'verb': ['positive']}
+उतार-चढ़ाव	{'noun': ['negative', 'ambiguous']}
+निराशावादी	{'adj': ['negative']}
+जीव	{'anypos': ['negative']}
+अधीन	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+चुप	{'adj': ['negative', 'ambiguous']}
+नरम_पड़ना	{'verb': ['positive']}
+दीर्घ	{'adj': ['negative']}
+दरिद्र	{'adj': ['negative', 'ambiguous']}
+अशुद्ध_गणना_करना	{'verb': ['ambiguous']}
+कल्पित_कहानी	{'noun': ['negative']}
+स्वाद_लेना	{'verb': ['positive', 'ambiguous']}
+अंतराल	{'noun': ['positive']}
+अन्तरंग	{'verb': ['neutral']}
+अपरीक्षित	{'adj': ['negative', 'ambiguous']}
+निकटस्थता	{'noun': ['negative']}
+गर्व	{'adj': ['positive', 'ambiguous']}
+तलाकशुदा	{'adj': ['negative']}
+फायदा_हो_रहा_है	{'anypos': ['positive']}
+विनाशक	{'adj': ['negative']}
+शाप	{'noun': ['negative']}
+पुनर्वास	{'adj': ['negative']}
+अहानिकर	{'noun': ['positive', 'ambiguous']}
+अभिनव	{'adj': ['positive']}
+कुख्यात	{'adv': ['negative'], 'adj': ['negative']}
+अमान्य	{'adj': ['negative']}
+सशक्तिकरण	{'noun': ['positive']}
+शोकाकुल	{'adj': ['negative']}
+गुब्बार	{'noun': ['negative']}
+डी_*_एम.एन.	{'anypos': ['negative']}
+पानी_में_गोता_लगाना	{'verb': ['positive']}
+सबसे_अच्छे	{'anypos': ['positive']}
+स्पष्ट	{'verb': ['positive'], 'adj': ['negative'], 'anypos': ['neutral']}
+तारकीय	{'adj': ['positive']}
+सफल	{'adj': ['positive'], 'anypos': ['positive']}
+उन्मादपूर्ण	{'adj': ['positive', 'ambiguous']}
+टूट_जाता_है	{'anypos': ['negative']}
+कोशिश_कर	{'adj': ['negative']}
+अनपेक्षित	{'adj': ['negative']}
+निराशाजनक	{'adj': ['negative'], 'anypos': ['ambiguous']}
+पेरी	{'noun': ['positive']}
+पक्केपन	{'adj': ['positive']}
+उदारतापूर्वक	{'adv': ['positive']}
+निर्मम	{'adj': ['negative', 'ambiguous']}
+हाँ	{'anypos': ['neutral']}
+सुअर_का	{'adj': ['positive']}
+अच्छे	{'anypos': ['positive']}
+ठोस	{'adj': ['neutral'], 'noun': ['positive', 'ambiguous']}
+स्खलित	{'anypos': ['negative']}
+किंगमेकर	{'noun': ['positive']}
+सिद्धांत	{'noun': ['positive']}
+चूतड़	{'noun': ['negative']}
+संस्कृति	{'noun': ['positive']}
+घृणित_रूप	{'adj': ['negative']}
+लुच्चा	{'noun': ['negative']}
+बेतहाशा	{'adv': ['negative'], 'anypos': ['positive']}
+श्रद्धालु	{'adj': ['positive', 'ambiguous'], 'noun': ['positive']}
+घृणा_करना	{'verb': ['ambiguous']}
+नष्ट	{'anypos': ['negative', 'ambiguous']}
+आपा	{'noun': ['negative', 'ambiguous']}
+तारीफ_कर_रही	{'noun': ['positive', 'ambiguous']}
+सूत्र	{'noun': ['negative']}
+कीचड़_में_खींचना	{'verb': ['positive']}
+खरब	{'adj': ['negative']}
+कई	{'adj': ['negative']}
+व्रत	{'verb': ['positive']}
+संप्रदायवादी	{'noun': ['negative']}
+अधिमानतः	{'anypos': ['positive']}
+पापी	{'adj': ['negative']}
+बारीकियों	{'noun': ['neutral']}
+झुंझलाना	{'verb': ['positive']}
+अमिट	{'adj': ['positive']}
+निरर्थकता	{'noun': ['negative', 'ambiguous']}
+टुकड़े_टुकड़े_कर_दिया	{'adj': ['negative']}
+द्वेष	{'noun': ['negative', 'ambiguous']}
+चिकना	{'adj': ['positive']}
+लालच_से_खाना	{'verb': ['positive']}
+असाधारण_ढंग_से	{'anypos': ['positive']}
+मीठा_करना	{'verb': ['positive']}
+नाइत्तिफ़ाक़ी	{'noun': ['negative']}
+परम_अनन्द	{'verb': ['positive']}
+अंधकार	{'anypos': ['ambiguous']}
+स्वयं_परीक्षा	{'noun': ['neutral']}
+कमी	{'verb': ['ambiguous'], 'adj': ['negative'], 'noun': ['negative', 'ambiguous']}
+स्मरण	{'noun': ['positive']}
+करिश्माई	{'adj': ['positive']}
+वैमनस्य	{'noun': ['negative', 'ambiguous']}
+उजड्ड	{'adj': ['negative', 'ambiguous']}
+दोस्ती	{'noun': ['positive']}
+अल्ट्रा_कुरकुरा	{'anypos': ['positive']}
+स्लिम	{'adj': ['negative'], 'noun': ['positive']}
+भौहें	{'noun': ['neutral']}
+राजा_की_तरह	{'adv': ['positive']}
+धीरे-धीरे	{'adv': ['negative']}
+शराबी	{'adj': ['negative'], 'noun': ['negative']}
+टॉम	{'noun': ['positive']}
+तुरत-फुरत_शेर_कहा_हुआ	{'adv': ['negative']}
+कार्यकर्ता	{'noun': ['neutral']}
+मजे_की_बात_है	{'anypos': ['positive']}
+आरोप_लगाया	{'adj': ['negative']}
+भयंकर_रूप_से	{'anypos': ['positive'], 'adj': ['negative']}
+मां	{'adj': ['neutral'], 'noun': ['negative']}
+रोमांचकारी	{'anypos': ['positive']}
+इसी_लायक	{'adj': ['positive']}
+तुला_हुआ	{'anypos': ['positive']}
+विरोधाभासी	{'adj': ['negative', 'ambiguous']}
+शील	{'noun': ['negative', 'ambiguous']}
+जमे_हुए	{'adj': ['negative']}
+प्रतिभावान	{'adj': ['positive']}
+बुला_लिया_हुआ	{'adj': ['ambiguous']}
+अवसर	{'noun': ['positive']}
+उत्सुक	{'adj': ['positive', 'ambiguous']}
+प्रचुर_मात्रा_में	{'adj': ['positive'], 'anypos': ['positive']}
+लाइसेंस	{'noun': ['negative']}
+मिश्रण	{'noun': ['negative']}
+अशांत	{'adj': ['negative']}
+अद्भुत	{'anypos': ['positive', 'ambiguous']}
+नाख़ुश	{'noun': ['negative', 'ambiguous']}
+क्षमताओं	{'noun': ['positive']}
+आजीवन	{'adj': ['positive']}
+निरक्षर	{'adj': ['negative']}
+ताज़ा_करना	{'verb': ['positive']}
+मृत	{'adj': ['negative']}
+नाश	{'noun': ['negative']}
+ड्यूटी	{'noun': ['neutral']}
+विरोधाभासों	{'noun': ['negative']}
+क्लासिक	{'noun': ['positive']}
+खूबसूरत	{'anypos': ['positive']}
+अभंग	{'adj': ['negative']}
+काटू	{'adj': ['negative']}
+परोपकारी	{'adj': ['positive']}
+उबाते	{'adv': ['negative']}
+अलार्म	{'verb': ['ambiguous']}
+कड़वाहट_भरी	{'adj': ['negative', 'ambiguous']}
+के_बराबर	{'adv': ['positive']}
+कुशलतापूर्वक_संचालित	{'adj': ['positive']}
+अलग	{'adj': ['negative']}
+मृत_सस्ता	{'anypos': ['positive']}
+विवादी	{'adj': ['negative']}
+विंटेज	{'adj': ['positive']}
+अनियन्त्रित_शासक	{'noun': ['negative', 'ambiguous']}
+तोड़ना	{'anypos': ['negative']}
+बदलने_के_योग्य	{'adj': ['negative']}
+द्विध्रुवी	{'adj': ['negative']}
+महत्वपूर्ण	{'anypos': ['negative'], 'adj': ['neutral']}
+झंखाड़	{'verb': ['positive']}
+विकृत	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous']}
+मेला	{'adv': ['negative'], 'noun': ['negative']}
+सुबोध	{'adj': ['positive']}
+आकलन	{'verb': ['neutral'], 'noun': ['neutral']}
+सौंपना	{'verb': ['positive']}
+संकरा	{'noun': ['negative']}
+खुला	{'adj': ['negative']}
+आगे_बढ़ें	{'noun': ['positive']}
+पलटा	{'verb': ['ambiguous']}
+पीड़ादायक	{'adj': ['negative'], 'noun': ['negative']}
+ग्रहण_करना	{'verb': ['positive']}
+विचारधारा_वाले	{'adj': ['negative']}
+पड़ाव	{'adj': ['neutral']}
+साफ़	{'adj': ['neutral']}
+नदी	{'verb': ['positive']}
+ताकना	{'verb': ['neutral']}
+वू	{'verb': ['positive']}
+करालता	{'noun': ['negative', 'ambiguous']}
+झलक	{'noun': ['positive']}
+ज़ब्त	{'noun': ['negative']}
+वादा_किया	{'anypos': ['positive']}
+कैस्युइस्ट्री	{'noun': ['negative']}
+बेअदब	{'adj': ['negative', 'ambiguous']}
+निर्विवाद	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+दृष्टिकोण	{'noun': ['neutral']}
+हितों	{'noun': ['positive']}
+जोखिम	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+अस्वीकार	{'noun': ['negative']}
+ड्रेगन	{'noun': ['negative']}
+धोखा	{'verb': ['ambiguous'], 'noun': ['negative']}
+अत्युक्ति_करना	{'verb': ['ambiguous']}
+प्रतीक	{'noun': ['positive']}
+हठीलेपन	{'adv': ['negative']}
+दीप्ति	{'anypos': ['positive']}
+व्यामोह	{'noun': ['negative']}
+सुशिक्षित	{'adj': ['positive']}
+लघु_परिपथ	{'noun': ['negative']}
+विपाटन	{'noun': ['positive']}
+चमत्कार	{'verb': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+कृतघ्न	{'noun': ['negative']}
+कष्टदायी	{'anypos': ['ambiguous']}
+रुचि	{'adj': ['negative']}
+अपुष्ट	{'adj': ['negative']}
+का_शोषण	{'verb': ['positive']}
+पीड़ित	{'adj': ['negative'], 'noun': ['negative']}
+सीमित	{'anypos': ['negative'], 'adj': ['negative']}
+दासता	{'noun': ['negative']}
+लागू_करना	{'verb': ['positive']}
+क्षत	{'adj': ['negative']}
+संशय	{'noun': ['negative']}
+नशेड़ी	{'anypos': ['negative']}
+आभार	{'noun': ['positive', 'ambiguous']}
+प्रतिज्ञा	{'verb': ['positive'], 'noun': ['negative']}
+टॉप	{'adj': ['positive', 'ambiguous']}
+मुरझाना	{'verb': ['ambiguous']}
+बाधा	{'noun': ['negative']}
+उबलनेवाला	{'adj': ['positive', 'ambiguous']}
+प्रतिभा	{'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+बकवास	{'verb': ['positive'], 'anypos': ['negative'], 'noun': ['negative']}
+समर्थन_करता_है	{'anypos': ['positive']}
+मालूम_होता_है	{'anypos': ['neutral']}
+अहंभाव	{'noun': ['negative', 'ambiguous']}
+गोलमाल	{'anypos': ['negative'], 'noun': ['negative']}
+वकालत_की	{'anypos': ['positive']}
+मुक्त	{'adj': ['negative']}
+नृशंसता	{'adv': ['negative']}
+उतरना	{'verb': ['positive']}
+अहिंस	{'noun': ['positive']}
+किसी_का_ध्यान_नहीं	{'adj': ['negative']}
+पैदल_यात्री	{'adj': ['negative']}
+उज्ज्वल	{'adj': ['positive', 'ambiguous']}
+वैधता	{'noun': ['positive']}
+रहस्यमय_तरीके	{'adv': ['negative']}
+अमूल्य	{'adj': ['positive', 'ambiguous']}
+राजपूत_का	{'adj': ['positive', 'ambiguous']}
+नशा	{'verb': ['positive'], 'noun': ['negative']}
+भव्यता_से	{'anypos': ['positive']}
+विश्राम_लेना	{'verb': ['ambiguous']}
+गूंगा	{'noun': ['negative']}
+प्रचलित	{'adj': ['neutral']}
+बर्बाद	{'adj': ['negative']}
+नामुनासिब	{'adj': ['negative', 'ambiguous']}
+प्रति_असम्मान	{'noun': ['negative', 'ambiguous']}
+सुदर्शन	{'adj': ['positive']}
+आरोप_लगाते	{'verb': ['positive']}
+समर्पित	{'verb': ['positive'], 'adj': ['positive']}
+एकाएक	{'anypos': ['negative']}
+ज़ाहिर	{'adj': ['positive'], 'anypos': ['positive'], 'noun': ['neutral']}
+पागल_कर_देना	{'verb': ['positive']}
+शर्मीला	{'adj': ['negative']}
+परेशान_करनेवाला	{'adj': ['negative']}
+मैक्सी_अवमूल्यन	{'noun': ['negative']}
+फंसाने	{'noun': ['negative']}
+बिगाड़ना	{'verb': ['ambiguous']}
+रूपांतरण	{'noun': ['negative']}
+आशा	{'verb': ['positive'], 'noun': ['ambiguous']}
+कुंठित	{'adj': ['negative']}
+उत्साह	{'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+चापलूसी_करना	{'verb': ['positive']}
+देखकर_पकड़_में_आने_वाला	{'anypos': ['positive']}
+तुरत-फुरत_कहना	{'verb': ['neutral']}
+गुणगान	{'noun': ['positive']}
+अकाल	{'noun': ['negative', 'ambiguous']}
+फूला_हुआ	{'adj': ['negative', 'ambiguous']}
+संवेदन-शून्य	{'adj': ['negative']}
+साँस_लेना	{'verb': ['positive']}
+हमेशा_जानेवाला	{'adj': ['negative', 'ambiguous']}
+माफ_कर_दिया	{'verb': ['positive']}
+मनोहन	{'adj': ['positive']}
+वापसी	{'verb': ['ambiguous'], 'noun': ['negative']}
+अल्हड़	{'adj': ['negative']}
+शर्मिंदा	{'adj': ['negative']}
+विकराल_रुप	{'adv': ['positive'], 'anypos': ['positive']}
+सट्टा	{'noun': ['neutral']}
+गुमराह	{'adj': ['negative']}
+असजीला	{'adj': ['negative', 'ambiguous']}
+आसपास	{'anypos': ['positive']}
+थोड़ा	{'adv': ['negative'], 'adj': ['negative']}
+गालियाँ	{'noun': ['negative']}
+शैली	{'anypos': ['positive']}
+स्वीकार्य	{'adj': ['positive']}
+व्यसनी	{'anypos': ['negative'], 'noun': ['negative']}
+संयमी	{'adj': ['negative']}
+छोटी_गाड़ी	{'anypos': ['negative']}
+विस्तार	{'verb': ['positive'], 'adv': ['positive']}
+मुक्त_करना	{'verb': ['positive']}
+निराधार	{'adj': ['negative']}
+सच	{'anypos': ['positive']}
+ट्रांसपोर्ट	{'verb': ['neutral']}
+कलम	{'noun': ['negative']}
+बेहतर_प्रदर्शन	{'anypos': ['positive']}
+रूढ़िवादी	{'anypos': ['negative']}
+इस्तीफा_दे_दिया	{'adj': ['negative']}
+बाहर	{'adj': ['positive']}
+उचित_रूप_में	{'anypos': ['positive']}
+गोलमाल_करनेवाला	{'anypos': ['negative']}
+अशुद्धता	{'noun': ['negative', 'ambiguous']}
+भाग्यशाली	{'anypos': ['positive'], 'noun': ['positive']}
+सुझाव_है	{'anypos': ['positive']}
+आसानी_से	{'adv': ['positive'], 'anypos': ['positive']}
+साहसिक	{'adj': ['positive', 'ambiguous']}
+इच्छा_का_अभाव	{'noun': ['negative', 'ambiguous']}
+सम्मोहन	{'anypos': ['positive']}
+याद_दिलानेवाला	{'noun': ['negative']}
+पीसना	{'noun': ['negative']}
+ईमानदारी	{'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+सिर_दर्द	{'noun': ['negative']}
+स्वस्थ	{'noun': ['positive']}
+प्रदूषक	{'noun': ['negative']}
+निविदा	{'adj': ['positive']}
+चिड़चिड़ा	{'anypos': ['negative', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+जानबूझकर	{'adj': ['positive']}
+प्रकट_करनेवाला	{'noun': ['negative']}
+भ्रामक	{'anypos': ['negative', 'ambiguous']}
+शिष्टता	{'noun': ['positive']}
+चिंता	{'verb': ['positive'], 'noun': ['negative']}
+शरारत_से	{'anypos': ['positive']}
+व्यवस्थापत्र	{'noun': ['negative']}
+पूरा_करना	{'verb': ['positive']}
+बड़ा	{'adv': ['positive'], 'adj': ['neutral']}
+डाह_खाना	{'verb': ['positive']}
+जर्द	{'adj': ['negative']}
+दिखावटी	{'verb': ['positive'], 'adj': ['negative']}
+कौतुक	{'noun': ['positive', 'ambiguous']}
+नेतृत्व	{'anypos': ['positive']}
+यथेष्ट	{'adj': ['positive']}
+सवारी	{'verb': ['positive']}
+ललचाना	{'verb': ['positive']}
+खंडहर_वाला	{'adj': ['negative']}
+चेतना	{'noun': ['neutral']}
+विक्षुब्ध	{'adj': ['negative']}
+नवसिखुआ	{'anypos': ['positive']}
+लेना	{'verb': ['positive']}
+जवाबी_हमले	{'anypos': ['positive']}
+सुनसान	{'adj': ['negative']}
+फ़्लैश	{'noun': ['negative']}
+धिक्कारना	{'verb': ['positive']}
+आपदा	{'noun': ['negative']}
+जहरीलेपन	{'anypos': ['positive']}
+सुखपूर्वक	{'adv': ['positive']}
+दिल_में_घर_कर_लेना	{'verb': ['positive']}
+बैठ_जाता_है	{'anypos': ['negative']}
+घूस_देना	{'verb': ['positive'], 'anypos': ['positive']}
+एहतियात_से	{'adv': ['negative']}
+आजादी	{'noun': ['positive']}
+दंडात्मक	{'noun': ['negative']}
+कष्टप्रद	{'anypos': ['negative']}
+आनंदमय	{'adj': ['positive', 'ambiguous']}
+अपवादात्मक	{'adj': ['negative']}
+चेस्र्ब	{'noun': ['positive', 'ambiguous']}
+विनीत	{'adj': ['positive', 'ambiguous']}
+अस्पष्ट_विचार	{'anypos': ['positive']}
+दोस्त	{'noun': ['negative']}
+वैभव	{'noun': ['negative', 'ambiguous']}
+मंदबुद्धि	{'adj': ['negative']}
+मार्मिक	{'adj': ['positive', 'ambiguous']}
+शिकायतों	{'noun': ['negative']}
+इस्तीफा	{'noun': ['negative', 'ambiguous']}
+वादा	{'noun': ['positive', 'ambiguous']}
+सुरक्षित_रूप_से	{'adv': ['positive'], 'anypos': ['positive']}
+हिस्टीरिया	{'noun': ['negative']}
+कुचल	{'anypos': ['negative']}
+ग़लती_से	{'anypos': ['positive']}
+पीला	{'noun': ['negative']}
+साक्षर	{'adj': ['positive']}
+घिनौना	{'adj': ['negative'], 'anypos': ['ambiguous']}
+मान_लेना	{'verb': ['positive']}
+अलंघनीय	{'adv': ['negative']}
+एक_प्रकार_की_मछली	{'noun': ['negative', 'ambiguous']}
+छापों	{'noun': ['positive']}
+उन्मत्त	{'adj': ['negative', 'ambiguous']}
+फायदे	{'noun': ['positive']}
+एकता_का_अभाव	{'noun': ['negative', 'ambiguous']}
+तरह	{'adj': ['positive']}
+क्षतिग्रस्त	{'anypos': ['negative']}
+भीख_माँग	{'noun': ['negative']}
+प्रतियोगी	{'noun': ['positive', 'ambiguous']}
+दुर्लभ_वस्तु	{'noun': ['negative']}
+प्राणघातक_रूप_से	{'adv': ['negative']}
+विनाश	{'noun': ['negative']}
+निराश	{'anypos': ['positive'], 'adj': ['negative']}
+गुलाम	{'noun': ['negative']}
+ध्यान_भंग	{'adj': ['negative']}
+भयानक	{'anypos': ['positive', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+काम	{'verb': ['positive'], 'anypos': ['positive']}
+रेंगना	{'anypos': ['negative']}
+जड़ता	{'noun': ['negative']}
+अति_उत्साहित_करना	{'verb': ['positive', 'ambiguous']}
+अनिच्छुक	{'adj': ['negative', 'ambiguous']}
+ऊँची	{'anypos': ['positive']}
+ऊटपटांग	{'adj': ['negative']}
+अकथनीय	{'adj': ['negative']}
+मैला	{'adj': ['negative']}
+अप्रत्याशित	{'adj': ['negative', 'ambiguous']}
+विस्तृत	{'adj': ['neutral']}
+सही_मायने_में	{'adv': ['negative'], 'anypos': ['positive']}
+भड़काने	{'noun': ['negative']}
+पागल_मनुष्य	{'noun': ['negative']}
+लेक	{'noun': ['negative']}
+दानव	{'noun': ['negative']}
+अस्पताल	{'noun': ['negative', 'ambiguous']}
+शिक्षा	{'noun': ['positive']}
+निष्ठाहीनता	{'noun': ['negative', 'ambiguous']}
+पथ्य	{'adj': ['positive', 'ambiguous']}
+टोस्ट	{'verb': ['positive']}
+अकादमी	{'noun': ['negative']}
+लटकना	{'verb': ['positive']}
+मानसिकता	{'noun': ['neutral']}
+अकेलापन	{'noun': ['negative']}
+प्रतीत	{'anypos': ['neutral']}
+शांति_समर्थक	{'noun': ['positive']}
+ड्राइव	{'noun': ['positive']}
+निधि	{'verb': ['positive']}
+एकतरफा	{'noun': ['negative']}
+विजयी_होकर	{'anypos': ['positive']}
+स्क्रीन	{'verb': ['positive']}
+अराजकतावाद	{'noun': ['negative']}
+हाथ_नीचे	{'anypos': ['positive']}
+तय_है	{'verb': ['neutral']}
+जोड़_तोड़	{'adj': ['negative']}
+त्रुटिपूर्ण	{'noun': ['negative']}
+धोखाधड़ी	{'adj': ['negative'], 'noun': ['negative']}
+अविवेकी	{'adj': ['negative', 'ambiguous']}
+शोकहारा	{'adj': ['positive']}
+दुर्घटनाओं	{'anypos': ['negative']}
+आवेग	{'adj': ['negative']}
+जाहिरा	{'anypos': ['neutral']}
+आदरपूर्वक	{'anypos': ['positive']}
+आला_दर्जे_का	{'adj': ['positive']}
+फैशनेबल	{'adj': ['positive', 'ambiguous']}
+विभाजित	{'adj': ['negative']}
+संक्षारक	{'adj': ['negative']}
+विरोधी_प्रसार	{'noun': ['negative']}
+आनंदोत्सव	{'noun': ['positive', 'ambiguous']}
+कुल	{'adj': ['negative']}
+समानाधिकारवादी	{'adj': ['positive']}
+निश्चित	{'adj': ['positive'], 'anypos': ['positive']}
+देर_से	{'adj': ['ambiguous']}
+जेल	{'noun': ['negative']}
+रत्नों	{'noun': ['positive']}
+अनियमित	{'adj': ['negative']}
+बीहड़	{'adj': ['negative']}
+शैक्षिक	{'adj': ['positive']}
+सहमत	{'anypos': ['positive']}
+सम्मोहित	{'verb': ['neutral']}
+कामातुर	{'adj': ['negative', 'ambiguous']}
+दबाना	{'verb': ['positive']}
+टोल	{'noun': ['negative']}
+अक्षमता	{'noun': ['negative']}
+जगाना	{'verb': ['positive']}
+आर्कषण	{'noun': ['positive']}
+पराजय	{'noun': ['negative']}
+मानहानि	{'noun': ['negative']}
+हंसी-उत्तेजक_अभी_तक	{'adj': ['negative']}
+बेक़ायदा	{'adj': ['negative']}
+शरारत	{'noun': ['negative']}
+ध्यान	{'verb': ['positive'], 'noun': ['neutral']}
+कुछ	{'anypos': ['neutral']}
+विचारशून्य	{'adj': ['negative', 'ambiguous']}
+सबसे_आसान	{'anypos': ['positive']}
+अनिच्छापूर्वक	{'anypos': ['positive']}
+विरूपण	{'noun': ['negative']}
+बर्बर	{'anypos': ['negative']}
+चतुराई	{'adv': ['positive'], 'noun': ['negative']}
+विरोधी_इजरायल	{'anypos': ['negative'], 'noun': ['negative']}
+कारावास	{'noun': ['negative']}
+झालरदार	{'adj': ['positive']}
+अपमानजनक	{'adj': ['negative', 'ambiguous']}
+आग_लगानेवाला	{'adj': ['positive'], 'anypos': ['positive']}
+भिक्षावृति	{'noun': ['negative', 'ambiguous']}
+मणि	{'noun': ['positive']}
+परिहार	{'noun': ['negative']}
+नए_सिरे_से	{'anypos': ['positive']}
+विशिष्ट	{'adj': ['neutral'], 'noun': ['negative']}
+मंत्री	{'verb': ['positive']}
+अज्ञान	{'noun': ['negative']}
+कोशिश	{'verb': ['positive']}
+समीर	{'anypos': ['positive']}
+ध्वनि	{'adj': ['positive']}
+विश्वसनीयता	{'noun': ['positive']}
+चिढ़	{'noun': ['negative']}
+गहराई	{'noun': ['positive']}
+लाल_चकत्ते	{'adj': ['negative']}
+चाहता_है	{'anypos': ['positive']}
+मात्र	{'adv': ['negative'], 'anypos': ['negative']}
+पृथक	{'adj': ['negative']}
+महानता	{'noun': ['positive']}
+पूछताछ	{'adj': ['ambiguous']}
+प्रतिकार	{'noun': ['positive']}
+ऐतिहासिक	{'adj': ['positive']}
+कीड़े	{'anypos': ['negative']}
+यथोचित	{'adv': ['positive']}
+हुक्म_देना	{'verb': ['positive']}
+प्रहार	{'verb': ['positive']}
+खुलेआम	{'anypos': ['positive']}
+सिंड्रोम	{'noun': ['negative', 'ambiguous']}
+आसान	{'anypos': ['positive'], 'adj': ['negative']}
+ठाठ_से	{'anypos': ['positive']}
+सरल	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous']}
+गरीब	{'adj': ['negative']}
+अविचलित	{'adj': ['positive']}
+सहयोग	{'verb': ['positive'], 'noun': ['positive']}
+लालसे_से	{'adv': ['negative']}
+पुनरावास_देना	{'verb': ['positive']}
+भाव_उत्पन्न_करना	{'verb': ['positive']}
+नकारना	{'verb': ['ambiguous']}
+शक्ति_से	{'adv': ['positive']}
+ओवर-वैल्यूएशन	{'noun': ['negative']}
+कृपा	{'noun': ['positive']}
+अनिच्छा	{'noun': ['negative']}
+प्ले	{'verb': ['positive']}
+आश्वस्त	{'verb': ['positive'], 'adj': ['positive'], 'anypos': ['positive']}
+बेचैन	{'adj': ['negative', 'ambiguous']}
+हार्दिक	{'adj': ['positive']}
+हानि	{'noun': ['negative']}
+सफलता	{'noun': ['positive']}
+मुक्त_कर_दिया	{'anypos': ['positive']}
+वहशी	{'adj': ['negative', 'ambiguous']}
+मंदी	{'verb': ['ambiguous'], 'adj': ['negative'], 'noun': ['negative']}
+सबसे_तेजी_से_बढ़ती	{'adj': ['positive']}
+बदबूदार	{'adj': ['negative']}
+बधाई	{'verb': ['positive'], 'anypos': ['positive']}
+बोली_में_हेराफेरी	{'adj': ['negative']}
+चिल्लाना	{'verb': ['positive']}
+गुलाबी	{'adj': ['positive']}
+उत्पादकता	{'anypos': ['positive']}
+कुशल_ऊर्जा	{'anypos': ['positive']}
+दुर्भाग्य_से	{'anypos': ['positive']}
+शरारतपूर्ण	{'anypos': ['ambiguous']}
+विशालता	{'noun': ['neutral']}
+जंगली	{'adj': ['negative'], 'noun': ['negative']}
+धक्का_दें	{'verb': ['ambiguous']}
+अकल्पनीय	{'adj': ['negative', 'ambiguous']}
+असमर्थ	{'adj': ['negative', 'ambiguous']}
+मजीठ	{'noun': ['negative']}
+लाभकारी	{'anypos': ['positive']}
+कसम_खाता	{'verb': ['positive']}
+उन्नत	{'adj': ['positive']}
+असमानता	{'noun': ['negative']}
+रंग	{'noun': ['negative']}
+स्मरणशक्ति	{'noun': ['positive']}
+कविता_का_रूप_देना	{'verb': ['positive']}
+नरभक्षक	{'noun': ['negative']}
+समर्थन_किया	{'anypos': ['positive']}
+दोषपूर्ण	{'adj': ['negative']}
+सिर_पर	{'adv': ['negative']}
+ख़ारिज	{'noun': ['negative']}
+वियोज्य	{'anypos': ['positive']}
+नकारात्मक_पहलू	{'noun': ['negative']}
+तात्कालिकता	{'noun': ['negative']}
+अपरंपरागत	{'adj': ['negative']}
+दृढ़ता_से_कहना	{'verb': ['positive']}
+अवतार	{'noun': ['neutral']}
+की_हिम्मत	{'verb': ['positive']}
+ढीठपन	{'noun': ['negative', 'ambiguous']}
+बेचैनी	{'noun': ['negative']}
+शक्ति	{'noun': ['neutral']}
+पछताना	{'verb': ['positive']}
+ग़फ़लत	{'noun': ['negative', 'ambiguous']}
+अशुद्धियों	{'noun': ['negative']}
+शहादत	{'noun': ['negative']}
+गलत	{'verb': ['ambiguous'], 'adv': ['negative']}
+कोड़ा	{'verb': ['positive'], 'noun': ['negative']}
+ठिठुराने	{'adj': ['negative', 'ambiguous']}
+सहानुभूति_प्रकट_करना	{'verb': ['ambiguous']}
+को_सुविधाजनक_बनाने_के	{'verb': ['positive']}
+प्रीमियम	{'adj': ['positive']}
+डरावना	{'anypos': ['negative'], 'adj': ['negative']}
+कठिन_परिस्थिति	{'noun': ['negative']}
+आशाओं	{'noun': ['positive']}
+अंकुड़ा	{'noun': ['negative']}
+ऋषि	{'adj': ['positive']}
+विचित्र_रूप_से	{'anypos': ['positive']}
+विचार	{'noun': ['neutral']}
+परिचित	{'anypos': ['neutral']}
+दुखी	{'adj': ['negative']}
+पंगु	{'anypos': ['negative']}
+क्लिष्ट	{'adj': ['negative']}
+महत्वहीन	{'adj': ['negative', 'ambiguous']}
+सम्मोहक	{'noun': ['positive']}
+उदास	{'anypos': ['negative'], 'adj': ['negative', 'ambiguous']}
+लवा	{'verb': ['positive']}
+अंतिम_खाई	{'noun': ['negative']}
+बदगुमान	{'adj': ['negative', 'ambiguous']}
+पंडितों	{'noun': ['positive']}
+डंडे	{'noun': ['neutral']}
+सलाह	{'noun': ['positive']}
+उदासी	{'adj': ['negative'], 'noun': ['negative', 'ambiguous']}
+असुरक्षित	{'adj': ['negative']}
+आग_लगना	{'verb': ['neutral']}
+अनैतिकता	{'noun': ['negative', 'ambiguous']}
+अनुमति	{'verb': ['positive']}
+अड़चन	{'verb': ['positive']}
+खून_का_प्यासा	{'adj': ['negative']}
+भलमनसी_की_तरह	{'adv': ['positive']}
+सवालों_से_बात_काटना	{'verb': ['positive']}
+धन	{'noun': ['positive']}
+निहितार्थ	{'noun': ['negative']}
+तीव्रता	{'noun': ['negative']}
+पूर्वाग्रहों	{'noun': ['negative']}
+मिठाइयां	{'adj': ['ambiguous']}
+संन्यास	{'noun': ['negative']}
+अदूरदर्शिता	{'anypos': ['ambiguous']}
+अबल	{'adj': ['negative', 'ambiguous']}
+को_मंजूरी	{'verb': ['positive']}
+कँटिया	{'noun': ['positive']}
+आनंद_से	{'anypos': ['positive']}
+उपलब्धि	{'anypos': ['positive'], 'noun': ['positive']}
+निर्धन	{'adj': ['negative']}
+अनुल्लंघनीय	{'adj': ['positive']}
+लालित्य	{'noun': ['positive']}
+काटना	{'verb': ['ambiguous']}
+ठंडा	{'anypos': ['positive'], 'adj': ['negative']}
+हत्यारा	{'noun': ['negative']}
+न्यून	{'adj': ['negative', 'ambiguous']}
+भौतिकवादी	{'noun': ['positive']}
+अपूर्व	{'anypos': ['positive']}
+शानदार	{'anypos': ['positive', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+बंदी_बनाना	{'verb': ['positive']}
+दर्दनाक	{'adj': ['negative', 'ambiguous']}
+जानवर	{'noun': ['negative']}
+दरियादिली_से	{'anypos': ['positive']}
+स्वांग	{'noun': ['negative', 'ambiguous']}
+जुनून	{'noun': ['negative']}
+वितरित_करना	{'verb': ['positive']}
+सही_ठहराया	{'verb': ['positive']}
+विश्रंभी	{'adj': ['negative']}
+गिरने	{'adj': ['negative']}
+उत्तेजना_का	{'adj': ['positive']}
+मनुहार	{'anypos': ['positive', 'ambiguous']}
+सामाजिक_सिद्धान्तों_के_विस्र्द्ध	{'adj': ['positive']}
+चौकसी_के_साथ	{'anypos': ['positive']}
+लाड़_प्यार	{'anypos': ['positive']}
+सनी	{'adj': ['positive']}
+का_आनंद_ले_रहे	{'anypos': ['positive']}
+बलात्कार	{'noun': ['negative']}
+स्वीकर_करना	{'verb': ['positive']}
+औसत_दर्जे_का	{'adj': ['negative', 'ambiguous']}
+नीचता_से	{'adv': ['negative']}
+मंद_होना	{'adj': ['negative']}
+समर्थन	{'verb': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+मौजूदा	{'adj': ['negative']}
+चाहिए	{'anypos': ['neutral'], 'noun': ['positive']}
+कांटेदार	{'noun': ['negative']}
+अवसरवादी	{'adj': ['negative']}
+गीला	{'adj': ['positive']}
+चिरस्थायी	{'adj': ['negative']}
+कामरेड	{'noun': ['positive']}
+कालकोठरी	{'noun': ['negative']}
+स्वाधीन	{'adj': ['positive']}
+अनुशासन	{'noun': ['positive']}
+बेतकल्लुफ़	{'adv': ['negative']}
+प्रतिबंधक	{'adj': ['negative']}
+आनंद_लिया	{'anypos': ['positive']}
+अल्पभाषी	{'adj': ['negative']}
+हल्का_करना	{'verb': ['positive']}
+भगदड़	{'noun': ['negative']}
+वार्मर	{'anypos': ['positive']}
+बर्फानी_तूफान	{'noun': ['positive']}
+स्तब्ध	{'adj': ['negative']}
+तोड़ा-मरोड़ा	{'adj': ['negative']}
+समाप्त	{'adj': ['negative']}
+प्रत्यय	{'noun': ['positive', 'ambiguous']}
+रिझाना	{'verb': ['positive']}
+एश	{'verb': ['positive']}
+दुराराध्य	{'adj': ['negative']}
+एलर्जी	{'anypos': ['negative'], 'adj': ['negative']}
+अनौपचारिक	{'adj': ['positive']}
+अपरोक्ष	{'adj': ['neutral']}
+निष्ठावान	{'adj': ['positive']}
+कुदाल	{'noun': ['negative']}
+धारणा	{'noun': ['neutral']}
+अति_सुंदर	{'adj': ['positive', 'ambiguous']}
+मायूस	{'adj': ['negative']}
+निष्कपट	{'adj': ['ambiguous', 'neutral']}
+पौधा-घर	{'noun': ['negative', 'ambiguous']}
+कोसने	{'anypos': ['negative']}
+कल्पनाशील	{'adj': ['positive']}
+ILU	{'anypos': ['positive']}
+प्रारंभ	{'noun': ['ambiguous']}
+गुदगुदाना	{'verb': ['positive']}
+आत्मविश्वास	{'noun': ['positive']}
+राय	{'verb': ['neutral'], 'noun': ['neutral']}
+सुख_देना	{'verb': ['positive']}
+प्रयोग_करने_में_आसान	{'anypos': ['positive']}
+नापसंदगी	{'noun': ['negative', 'ambiguous']}
+छलकपट	{'verb': ['positive']}
+तर्कसंगत	{'adj': ['positive']}
+उत्सुकतापूर्वक	{'anypos': ['positive']}
+भद्दापन	{'noun': ['negative']}
+प्रचार_करना	{'verb': ['positive']}
+मोमी	{'adj': ['negative']}
+अग्रिम	{'adj': ['positive']}
+हलचल	{'verb': ['ambiguous', 'neutral'], 'noun': ['negative']}
+कैनन_का	{'adj': ['negative']}
+कृतज्ञ	{'anypos': ['positive', 'ambiguous']}
+का_पोषण	{'verb': ['positive']}
+नीचे	{'verb': ['positive'], 'noun': ['negative']}
+व्यापक	{'adj': ['neutral'], 'noun': ['negative']}
+आसमान_छू	{'adj': ['negative']}
+की_सराहना	{'anypos': ['positive']}
+ताने	{'noun': ['negative']}
+मतलब	{'verb': ['ambiguous', 'neutral']}
+बधाई_का	{'anypos': ['positive', 'ambiguous']}
+तेवर	{'noun': ['negative']}
+सुविधाजनक	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive', 'ambiguous']}
+उत्सुकता	{'noun': ['positive', 'ambiguous']}
+कुशलतापूर्वक	{'anypos': ['positive']}
+पैर_जमाने	{'verb': ['positive']}
+रूखापन	{'noun': ['negative', 'ambiguous']}
+थोड़े_थोड़े_गरम	{'adj': ['negative', 'ambiguous']}
+लेकिन	{'anypos': ['neutral']}
+भारी	{'adv': ['negative'], 'adj': ['ambiguous', 'neutral']}
+रसदार	{'adj': ['positive']}
+साम्राज्यवादी	{'noun': ['negative']}
+दुश्मन	{'noun': ['negative']}
+विभाजन	{'verb': ['ambiguous'], 'noun': ['negative']}
+प्रेरक	{'anypos': ['positive'], 'noun': ['positive']}
+आशंका	{'noun': ['negative']}
+भयावह	{'adj': ['negative', 'ambiguous']}
+चतुरता_में_मात_देना	{'verb': ['positive']}
+विशुद्ध	{'adj': ['positive', 'ambiguous']}
+पीड़ा	{'noun': ['negative']}
+गुनगुना	{'adj': ['negative', 'ambiguous']}
+सबसे_बड़ा	{'adj': ['positive']}
+सुरम्य	{'adj': ['positive', 'ambiguous']}
+बेसब्री_से	{'adv': ['negative'], 'anypos': ['positive']}
+घुमक्कड़	{'noun': ['negative']}
+बाहरी	{'adj': ['negative']}
+भोलेपन	{'adv': ['negative']}
+पूरी_भावना	{'anypos': ['positive', 'ambiguous']}
+अविस्मरणीय	{'adj': ['positive', 'ambiguous']}
+निन्दनीय	{'anypos': ['negative', 'ambiguous'], 'adj': ['negative']}
+सत्य_के_प्रति_निष्ठा	{'noun': ['positive', 'ambiguous']}
+मांग	{'verb': ['ambiguous'], 'noun': ['negative']}
+चारपाई	{'noun': ['negative', 'ambiguous']}
+अध्ययनशील	{'adj': ['positive']}
+निर्लज्ज	{'adj': ['negative', 'ambiguous']}
+भरोसे_का	{'adj': ['positive']}
+प्रभुत्व	{'noun': ['negative']}
+व्यथित	{'adj': ['negative', 'ambiguous']}
+सुझावों_को	{'noun': ['positive']}
+की_इच्छा	{'noun': ['positive', 'ambiguous']}
+झेंप	{'verb': ['positive'], 'adv': ['negative']}
+विस्मयकारी	{'anypos': ['negative']}
+दुर्गम	{'adj': ['negative']}
+अशुद्ध	{'adj': ['negative']}
+नवीकरण	{'noun': ['positive']}
+लाभदायक	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+थकावट	{'noun': ['negative', 'ambiguous']}
+सुरक्षित	{'adj': ['negative'], 'noun': ['negative']}
+जोड़-तोड़	{'noun': ['negative']}
+कोलाहल	{'noun': ['negative']}
+सहायता_देना	{'verb': ['ambiguous']}
+तानाशाह_का	{'adj': ['negative', 'ambiguous']}
+बेईमान	{'anypos': ['negative'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+कट्टरवाद	{'noun': ['negative']}
+जलाना	{'verb': ['ambiguous']}
+घृणा	{'noun': ['negative', 'ambiguous']}
+दोष_देना	{'verb': ['ambiguous']}
+धर्मयुद्ध	{'noun': ['positive']}
+विलासी	{'adj': ['positive'], 'anypos': ['positive']}
+रसातल	{'noun': ['negative']}
+अघुलनशील	{'adj': ['negative']}
+यत्न	{'adv': ['positive']}
+मधुरता_से	{'adv': ['positive']}
+पूर्वप्रतिष्ठित	{'adj': ['positive', 'ambiguous']}
+अपरिहार्यता	{'noun': ['positive']}
+आकर्षण	{'verb': ['positive'], 'noun': ['positive', 'ambiguous']}
+मुद्रा	{'noun': ['neutral']}
+षड़यंत्रपूर्ण	{'anypos': ['negative']}
+सम्मानित_करना	{'verb': ['positive']}
+वसा	{'adj': ['negative']}
+खतरा	{'noun': ['negative']}
+जोड़नेवाला	{'adj': ['positive', 'ambiguous']}
+प्रभुता	{'noun': ['neutral']}
+टूटा	{'adj': ['positive'], 'anypos': ['negative']}
+ग़लतापना	{'noun': ['negative', 'ambiguous']}
+परेशानी_से_मुक्त	{'anypos': ['positive']}
+जागरूक	{'adj': ['negative'], 'noun': ['positive']}
+सादगी	{'noun': ['positive', 'ambiguous']}
+टिमटिमाना	{'anypos': ['positive']}
+पूर्वचिन्तित	{'adj': ['negative', 'ambiguous']}
+तपस्या	{'noun': ['negative']}
+अयोग्य	{'adj': ['negative', 'ambiguous']}
+ईर्षापूर्ण	{'adj': ['negative', 'ambiguous']}
+काउंटर	{'noun': ['negative']}
+सेवा_कर	{'verb': ['positive']}
+भगवान_भद्दा	{'anypos': ['ambiguous']}
+तनावपूर्ण	{'adj': ['negative']}
+समय_सम्मानित	{'adj': ['positive']}
+जंग	{'noun': ['negative']}
+सुशील	{'adj': ['positive']}
+बेरहम	{'adj': ['negative', 'ambiguous']}
+मूल्यवान	{'anypos': ['positive']}
+भंग_करनेवाला	{'noun': ['negative']}
+खोया	{'adj': ['negative']}
+राज्य	{'noun': ['negative']}
+जीर्ण	{'adj': ['negative']}
+दिखावट	{'noun': ['neutral']}
+प्रतिकार_का	{'adj': ['negative']}
+आरक्षण	{'noun': ['negative']}
+संघर्ष	{'anypos': ['negative'], 'noun': ['negative']}
+याद_ताजा	{'noun': ['positive']}
+शर्म	{'noun': ['negative']}
+निरर्थक	{'adj': ['negative']}
+तिरस्कार	{'anypos': ['positive']}
+अव्यवहारिक	{'noun': ['negative', 'ambiguous']}
+संबंध_विच्छेद	{'anypos': ['negative']}
+मगन	{'verb': ['positive', 'ambiguous'], 'adj': ['positive', 'ambiguous']}
+महाकाय	{'adj': ['negative']}
+चीखते_हुए	{'anypos': ['positive']}
+साज़िश	{'verb': ['neutral']}
+अदभुत	{'anypos': ['positive', 'ambiguous']}
+सनक_से	{'anypos': ['positive']}
+व्यर्थ	{'adj': ['negative', 'ambiguous']}
+मुस्कराते_हुए	{'anypos': ['positive']}
+हिम्मत_से	{'anypos': ['positive']}
+मूसलधार	{'adj': ['positive']}
+मैदान	{'adj': ['positive']}
+क्रांतिकारी	{'anypos': ['positive'], 'adj': ['negative']}
+लाड़_प्यार_करना	{'verb': ['positive']}
+तृप्त_करना	{'verb': ['positive']}
+स्वच्छता	{'noun': ['positive']}
+बीमार_उपयोग	{'noun': ['negative', 'ambiguous']}
+अव्यवस्था	{'noun': ['negative', 'ambiguous']}
+अपरिपक्वता	{'noun': ['positive']}
+उपवास	{'adj': ['neutral'], 'noun': ['negative']}
+सुलगना	{'verb': ['positive']}
+अशांति	{'noun': ['negative', 'ambiguous']}
+उपाय	{'noun': ['positive']}
+चुंबक_बनाने_की_क्रिया	{'noun': ['negative']}
+दबावों	{'noun': ['neutral']}
+सिरदर्द	{'noun': ['negative']}
+सुंदर	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive', 'ambiguous']}
+तुरही	{'verb': ['positive']}
+शिक्षित	{'adj': ['positive']}
+पड़ना	{'verb': ['positive']}
+दोहराती	{'noun': ['neutral']}
+अधिवक्ताओं	{'anypos': ['positive']}
+स्वीकार_किया	{'anypos': ['negative']}
+बेजोड़ता	{'noun': ['negative']}
+मैत्रीभाव	{'noun': ['positive']}
+क्रियात्मक	{'anypos': ['positive']}
+अनमना	{'adj': ['negative', 'ambiguous']}
+लचीलापन	{'anypos': ['positive']}
+अनजान	{'noun': ['negative']}
+खिलाड़ी	{'noun': ['neutral']}
+ध्यान_करना	{'verb': ['neutral']}
+ढहते	{'anypos': ['negative']}
+व्यावहारिक_बुद्धि	{'noun': ['positive']}
+काटने_की_क्रिया	{'noun': ['negative']}
+होशियार	{'adj': ['positive'], 'anypos': ['positive']}
+उदासी_से	{'anypos': ['positive']}
+सोच	{'verb': ['neutral'], 'noun': ['neutral']}
+उतावलापन	{'noun': ['negative', 'ambiguous']}
+हिम्मती	{'adj': ['positive']}
+आकस्मिक_धन-प्राप्ति	{'anypos': ['positive']}
+सहायता	{'noun': ['negative']}
+मानवतावादियों	{'noun': ['positive']}
+क्षमा_की_प्रार्थना_करनेवाला	{'noun': ['negative']}
+बरकरार	{'adj': ['positive']}
+बाँध	{'verb': ['positive']}
+असत	{'adj': ['negative']}
+गठबंधन	{'anypos': ['neutral']}
+आलोचना_की	{'anypos': ['negative']}
+चंदा	{'noun': ['negative']}
+युक्ति	{'noun': ['negative']}
+बाल_खड़े_करना	{'verb': ['positive']}
+की_निंदा	{'verb': ['positive']}
+रूखा	{'adj': ['negative', 'ambiguous']}
+दुर्भाग्य	{'noun': ['negative']}
+आघात	{'adj': ['negative'], 'noun': ['negative']}
+शुभचिंतकों	{'noun': ['positive']}
+उत्तम_दर्जे_का	{'anypos': ['positive']}
+छेड़ना	{'verb': ['positive']}
+परेशान	{'verb': ['ambiguous'], 'anypos': ['negative'], 'adj': ['negative', 'ambiguous']}
+पालन	{'noun': ['positive']}
+पागल	{'adv': ['positive'], 'anypos': ['negative'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+मोहित	{'anypos': ['positive'], 'adj': ['negative']}
+परंपरा	{'noun': ['positive']}
+कुपित	{'adj': ['negative']}
+असहमत	{'verb': ['positive']}
+व्याधिग्रस्त	{'adj': ['negative']}
+सामान्य	{'adj': ['negative']}
+नम्रता_से	{'adv': ['positive']}
+सही-सही	{'adj': ['positive']}
+बिल्कुल	{'adj': ['neutral']}
+जुटना	{'verb': ['positive'], 'noun': ['positive']}
+प्रेरणा	{'verb': ['positive'], 'adj': ['negative'], 'noun': ['neutral']}
+लीन	{'verb': ['neutral']}
+हानिरहित	{'adj': ['positive', 'ambiguous']}
+कोमल	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous']}
+हैरत_की_बात_है	{'anypos': ['neutral']}
+सानंद	{'adv': ['positive']}
+परिधीय	{'adj': ['negative']}
+घुलनशील	{'adj': ['negative']}
+रिश्वतखोरी	{'anypos': ['negative']}
+कील	{'noun': ['negative']}
+भयंकर_रूप	{'anypos': ['negative']}
+सताना	{'verb': ['ambiguous']}
+अविश्वास्य	{'adv': ['positive']}
+क्लीषे	{'anypos': ['negative']}
+असंतोष	{'noun': ['negative', 'ambiguous']}
+सकता_है	{'anypos': ['neutral']}
+दुर्गंन्धयुक्त	{'adj': ['negative']}
+अत्याचार	{'adj': ['negative'], 'noun': ['negative', 'ambiguous']}
+अंगूठा	{'verb': ['positive']}
+स्वयं_सेवा	{'noun': ['negative']}
+मृगतृष्णा	{'noun': ['negative', 'ambiguous']}
+निर्दोषिता	{'anypos': ['positive']}
+जोकर	{'noun': ['negative']}
+भगदड़_का	{'adj': ['negative']}
+सहमतता	{'anypos': ['positive']}
+कल्पना	{'verb': ['neutral'], 'noun': ['neutral']}
+लाभहीन	{'adj': ['negative']}
+संदूषण	{'noun': ['negative']}
+शाबाशी	{'anypos': ['positive']}
+गुस्सा	{'adj': ['negative']}
+आशावाद	{'noun': ['positive', 'ambiguous']}
+हिलनेवाला	{'adj': ['negative', 'ambiguous']}
+खगोलीय	{'adj': ['neutral']}
+विजेताओं	{'noun': ['positive']}
+प्रतिक्रियावादी	{'adj': ['negative']}
+विश्वसनीय	{'adj': ['positive']}
+अहा	{'anypos': ['neutral']}
+यथायोग्य	{'adv': ['positive']}
+पैसे_की_बचत	{'adj': ['positive']}
+अनंत_काल	{'noun': ['positive']}
+मोह_का	{'adj': ['negative', 'ambiguous']}
+अधम	{'adj': ['negative', 'ambiguous']}
+डूब	{'verb': ['ambiguous'], 'noun': ['negative', 'ambiguous']}
+कट्टर	{'adj': ['negative', 'ambiguous']}
+प्रमुदित	{'adj': ['positive', 'ambiguous']}
+ईर्ष्या	{'anypos': ['positive'], 'adj': ['negative']}
+टिप्पणी	{'noun': ['neutral']}
+खत्म	{'adj': ['negative']}
+कल्पना_करना	{'verb': ['neutral']}
+बुतपरस्त	{'noun': ['negative']}
+अतिदेय	{'adj': ['negative']}
+अनुमान	{'verb': ['neutral'], 'noun': ['neutral']}
+बड़ी_मुसीबत	{'noun': ['negative']}
+रहस्यमय	{'adj': ['negative', 'ambiguous']}
+मज़ाक	{'verb': ['positive']}
+विनोदपूर्वक	{'anypos': ['positive']}
+वसूली	{'anypos': ['positive']}
+आगे_बढ़ने_की_अनुमति	{'noun': ['negative']}
+कार्य	{'noun': ['negative']}
+प्रतिस्पर्धा	{'anypos': ['positive']}
+आतंकवाद	{'noun': ['negative']}
+वोन	{'anypos': ['positive']}
+किले	{'noun': ['neutral']}
+गरम	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous']}
+सदाचार	{'noun': ['positive']}
+गतिरोध	{'noun': ['negative']}
+आशावादी	{'adj': ['positive', 'ambiguous']}
+जागृत_होना	{'noun': ['negative']}
+बेशर्मी	{'noun': ['negative', 'ambiguous']}
+शत्रु	{'noun': ['negative']}
+पाखंड	{'noun': ['negative', 'ambiguous']}
+असामान्य	{'adj': ['negative', 'ambiguous'], 'anypos': ['ambiguous']}
+आत्म-आलोचना	{'noun': ['negative']}
+नफरत	{'noun': ['negative']}
+अस्वस्थता	{'noun': ['negative']}
+एक्सेल	{'verb': ['positive']}
+झूठा	{'anypos': ['positive'], 'noun': ['negative']}
+बिना_निंदा	{'adj': ['positive', 'ambiguous']}
+धूप	{'verb': ['ambiguous']}
+अवैध_रूप_से	{'adv': ['negative']}
+पाखंडी	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+भक्ति_दिखलाना	{'verb': ['positive']}
+आसन	{'noun': ['neutral']}
+कराहना	{'verb': ['positive']}
+तत्काल	{'adv': ['negative']}
+उत्तेजकता	{'noun': ['positive']}
+भविष्य_बतलाना	{'verb': ['neutral']}
+ताना	{'noun': ['negative']}
+पसंद_आया	{'anypos': ['positive']}
+बिल्कुल_नया	{'anypos': ['positive']}
+अशुद्ध_गणना	{'noun': ['negative', 'ambiguous']}
+कारण	{'noun': ['positive']}
+अगाध	{'anypos': ['negative'], 'adj': ['negative']}
+उत्कृष्ट_प्रदर्शन	{'anypos': ['positive']}
+होगा	{'anypos': ['neutral'], 'noun': ['positive']}
+परिपक्व	{'adj': ['positive']}
+काट_दिया	{'adj': ['ambiguous']}
+फ़ैसिस्टवाद	{'noun': ['negative']}
+परिमार्जन	{'verb': ['positive']}
+गलत_कह	{'adj': ['negative']}
+दयनीयता	{'adv': ['positive'], 'anypos': ['positive']}
+प्रयोजनपूर्वक	{'adv': ['positive']}
+बैर	{'noun': ['negative', 'ambiguous']}
+कूटनीति	{'noun': ['neutral']}
+आंधी	{'noun': ['negative']}
+धीरा	{'adj': ['positive']}
+खराब	{'adj': ['negative']}
+निहित	{'noun': ['neutral']}
+गौर	{'anypos': ['positive']}
+चुकाना	{'verb': ['positive']}
+प्राणघातक	{'adj': ['negative']}
+देवदूत_सदृश	{'adj': ['positive']}
+सबसे_अच्छा	{'anypos': ['positive']}
+गांठदार	{'adj': ['positive']}
+गरज	{'verb': ['ambiguous']}
+आमोद	{'noun': ['positive']}
+स्वयं_को_हराने	{'adj': ['negative']}
+थोड़ी_देर_में	{'adv': ['positive']}
+लाजि़मी	{'adv': ['neutral']}
+कोलाहलमय	{'adj': ['negative']}
+उद्वेग_उत्पन्न_करनेवाला_मनुष्य	{'noun': ['negative']}
+बर्बाद_कर	{'noun': ['positive']}
+कम_करना	{'verb': ['positive']}
+मनोरंजन	{'anypos': ['positive'], 'noun': ['positive']}
+यादगार_बनाना	{'verb': ['positive']}
+दुर्घटनाग्रस्त_होने	{'anypos': ['negative']}
+विचारोत्तेजक	{'adj': ['positive']}
+उछाल	{'noun': ['negative']}
+अंतर्दृष्टि	{'anypos': ['neutral'], 'noun': ['positive']}
+असंयत	{'adj': ['positive', 'ambiguous']}
+महान	{'adj': ['negative', 'ambiguous']}
+हंगामा	{'noun': ['negative']}
+पतन	{'verb': ['positive'], 'noun': ['negative', 'ambiguous']}
+अविच्छेद्य	{'adj': ['negative']}
+सक्रिय	{'adj': ['negative'], 'noun': ['positive']}
+निपुणता	{'noun': ['positive']}
+नजाकत_से	{'adv': ['positive']}
+सदा_एकसां	{'adj': ['negative']}
+सदोष	{'adj': ['negative']}
+विनीत_करनेवाला	{'adj': ['negative']}
+अधीर	{'adj': ['negative']}
+संकट	{'noun': ['negative', 'ambiguous']}
+गूदा	{'noun': ['negative']}
+चक्राकार	{'adj': ['negative']}
+दोहराव	{'adj': ['negative']}
+मितव्ययिती	{'noun': ['positive']}
+बेहतर	{'adj': ['positive'], 'anypos': ['positive']}
+चमत्कारपूर्ण	{'adj': ['positive', 'ambiguous']}
+दलीलों	{'noun': ['negative']}
+अलग_दिखना	{'anypos': ['positive']}
+कृपालु	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous']}
+झुका	{'adj': ['positive']}
+शर्मिंदगी	{'noun': ['negative', 'ambiguous']}
+निर्बाध	{'adj': ['negative']}
+यानतोड़क_तोपें	{'noun': ['negative', 'ambiguous']}
+विह्वल	{'adj': ['negative']}
+मुक्ति	{'adj': ['positive'], 'noun': ['positive']}
+उपहासपूर्वक	{'anypos': ['positive']}
+रोमांस	{'anypos': ['positive']}
+शिथिलता	{'verb': ['positive'], 'noun': ['negative', 'ambiguous']}
+ठीक	{'verb': ['positive'], 'adv': ['positive'], 'anypos': ['positive'], 'adj': ['neutral']}
+शायद_ही_कभी	{'adv': ['neutral']}
+उजागर_करना	{'verb': ['positive']}
+उल्लासपूर्वक	{'anypos': ['positive']}
+अमंगल	{'adj': ['negative']}
+कोसते	{'anypos': ['negative']}
+कटाक्ष	{'noun': ['negative']}
+चंचल	{'adj': ['negative', 'ambiguous']}
+कृतियों	{'noun': ['positive']}
+मजबूती_से_पकड़े	{'anypos': ['positive']}
+विलुप्त_होने	{'noun': ['negative']}
+समस्या	{'noun': ['negative']}
+थका	{'verb': ['positive'], 'adj': ['ambiguous']}
+पागलों	{'anypos': ['positive']}
+आज्ञाकारी	{'adv': ['positive'], 'adj': ['positive']}
+भीड़-भाड़	{'noun': ['negative']}
+विचित्र	{'anypos': ['negative'], 'adj': ['negative']}
+मनहूस	{'adj': ['negative', 'ambiguous']}
+खाली	{'adj': ['negative']}
+लालसा	{'verb': ['positive'], 'noun': ['negative', 'ambiguous']}
+कातनेवाली	{'noun': ['negative']}
+मंत्र_मुग्ध	{'anypos': ['positive']}
+चिल्ला	{'adj': ['neutral']}
+कापी	{'noun': ['positive']}
+विरल	{'adj': ['ambiguous', 'neutral']}
+अचंभे_में_डालना	{'verb': ['ambiguous']}
+यूजर_फ्रेंडली	{'anypos': ['positive']}
+नक़ली	{'adj': ['negative', 'ambiguous']}
+अति_विशाल	{'adj': ['positive', 'ambiguous']}
+रंगीन	{'adj': ['positive']}
+टकसाली	{'anypos': ['ambiguous'], 'noun': ['negative']}
+ज़िंदादिल	{'anypos': ['positive', 'ambiguous'], 'adj': ['negative']}
+चलती	{'adj': ['positive']}
+स्वर	{'noun': ['neutral']}
+नम्र	{'verb': ['positive'], 'adj': ['positive']}
+प्रशस्त	{'adj': ['positive']}
+नीचता	{'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+क्रोध_से	{'anypos': ['negative']}
+यादें	{'noun': ['neutral']}
+क्रोध	{'noun': ['negative']}
+ख़ासकर	{'anypos': ['positive']}
+इलाज_सभी	{'noun': ['negative']}
+बदनाम_करना	{'verb': ['ambiguous']}
+हिचकिचाहट_में	{'adj': ['negative']}
+उल्टा	{'adj': ['negative', 'ambiguous'], 'noun': ['positive']}
+मनोचिकित्सा	{'noun': ['positive']}
+ध्वस्त_करना	{'verb': ['ambiguous']}
+अदूरदर्शा	{'anypos': ['ambiguous']}
+ठीक_दिखने	{'anypos': ['positive']}
+बिना_लाइसेंस	{'adj': ['negative']}
+पीटा_गया	{'verb': ['positive'], 'adj': ['positive']}
+प्रतिकूलता	{'noun': ['negative']}
+कल्याण	{'noun': ['positive']}
+बेदर्द	{'adj': ['negative']}
+चालाकी	{'anypos': ['positive']}
+2-चेहरे	{'anypos': ['negative']}
+फालतूपन	{'noun': ['negative']}
+अद्वितीय	{'adj': ['positive']}
+संत_जैसी	{'adv': ['positive']}
+चुंगी_का	{'anypos': ['ambiguous']}
+अहंकृति	{'noun': ['negative', 'ambiguous']}
+अत्याचार_करनेवाला	{'adj': ['negative']}
+जीभ	{'noun': ['negative']}
+निराश्रित	{'adj': ['negative', 'ambiguous']}
+ऊबड़	{'adj': ['negative']}
+उत्तरदायित्व	{'noun': ['positive']}
+रियायत	{'noun': ['negative']}
+खोखला	{'adj': ['negative']}
+संतुष्टि	{'noun': ['positive', 'ambiguous']}
+गंभीर	{'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+रिलीवर	{'noun': ['positive']}
+आनेवाला	{'adj': ['negative', 'ambiguous']}
+पाली	{'noun': ['ambiguous']}
+तृप्त	{'verb': ['ambiguous']}
+इस_बात_से_सहमत	{'verb': ['positive']}
+चुड़ैल	{'noun': ['negative']}
+गंभीरता_से	{'adv': ['negative']}
+चखने	{'noun': ['positive']}
+ज्वलंत	{'adj': ['positive']}
+मार्गदर्शन	{'noun': ['positive']}
+यथार्थ	{'adj': ['positive']}
+सभ्यता	{'noun': ['positive']}
+घिसा_होना	{'verb': ['ambiguous']}
+षड्यंत्रकारियों	{'noun': ['negative']}
+अनिमेष	{'noun': ['negative']}
+रिहा_करना	{'verb': ['positive']}
+योनी	{'anypos': ['negative'], 'noun': ['positive']}
+दूषण	{'noun': ['negative', 'ambiguous']}
+पहली_दर	{'adj': ['positive']}
+लंगड़ा	{'adj': ['negative', 'ambiguous']}
+मिसाल	{'noun': ['positive']}
+राहत	{'noun': ['positive']}
+व्यवधान	{'noun': ['negative']}
+आकांक्षाओं	{'noun': ['positive']}
+में_सुधार	{'verb': ['positive'], 'adj': ['positive']}
+हार्ड_लाइन	{'adj': ['negative']}
+ऊंचा	{'adj': ['positive']}
+निष्पक्ष	{'adv': ['positive'], 'adj': ['positive', 'ambiguous']}
+परीक्षण	{'noun': ['negative']}
+अजेयता	{'anypos': ['positive']}
+चरमराहट	{'anypos': ['negative']}
+उत्तेजित	{'verb': ['positive', 'ambiguous'], 'anypos': ['positive'], 'adj': ['negative', 'ambiguous']}
+अवर	{'adj': ['negative']}
+समझाना	{'verb': ['positive']}
+पाजामा	{'noun': ['positive']}
+रोशन	{'anypos': ['positive']}
+आग्रहपूर्ण	{'adj': ['positive']}
+असत्यवत	{'adj': ['negative', 'ambiguous']}
+सोच_समझकर	{'adv': ['positive']}
+मिलावट	{'noun': ['negative']}
+अंतरात्मा_की_आवाज	{'noun': ['positive']}
+निर्दयता	{'adv': ['negative'], 'noun': ['negative', 'ambiguous']}
+नाग	{'noun': ['negative']}
+प्रख्यात	{'adj': ['ambiguous', 'neutral']}
+मायूसी	{'noun': ['negative', 'ambiguous']}
+नियति	{'noun': ['positive']}
+कंगाल	{'noun': ['negative']}
+जलता	{'anypos': ['negative']}
+मोहना	{'verb': ['positive']}
+कब्जा	{'verb': ['positive']}
+चिपचिपा	{'adj': ['negative']}
+अजीब	{'adv': ['negative'], 'adj': ['negative', 'ambiguous'], 'anypos': ['ambiguous'], 'noun': ['negative']}
+विविध	{'adj': ['positive']}
+तानाशाही	{'adj': ['positive'], 'noun': ['negative']}
+अफवाह	{'noun': ['negative']}
+संवेदनशील	{'adj': ['ambiguous'], 'noun': ['positive', 'ambiguous']}
+अक्षम	{'adj': ['negative']}
+अफवाहें	{'noun': ['negative']}
+ओथडोक्सी	{'noun': ['neutral']}
+मानसिक_स्वास्थ्य	{'noun': ['positive']}
+स्वीकारात्मक	{'adj': ['positive']}
+भीख_मांगना	{'noun': ['negative']}
+बौछाड़	{'verb': ['positive']}
+बहरा	{'adj': ['negative']}
+सस्ता_करना	{'verb': ['ambiguous']}
+ऐयाशी	{'noun': ['negative']}
+लड़का	{'noun': ['positive']}
+द्रऋह	{'noun': ['negative']}
+अस्वीकृति	{'noun': ['negative', 'ambiguous']}
+सड़ा_हुआ	{'adj': ['negative']}
+बेलगाम	{'adj': ['negative', 'ambiguous']}
+उन्नत_बनाया	{'anypos': ['positive']}
+अनुकरणीय	{'adj': ['positive']}
+शोख़ी	{'noun': ['positive']}
+शोभायमान	{'adj': ['positive']}
+खुजली	{'verb': ['positive']}
+कलंक	{'verb': ['positive', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+मज़ा	{'adj': ['negative'], 'noun': ['negative']}
+छलाँग	{'noun': ['positive']}
+मनोरंजन_करना	{'verb': ['positive']}
+आधे_रास्ते	{'noun': ['neutral']}
+सम्मान	{'verb': ['neutral'], 'anypos': ['positive', 'ambiguous'], 'noun': ['positive']}
+नकली	{'adj': ['negative']}
+खड़ी	{'adj': ['negative']}
+मजेदार	{'anypos': ['positive'], 'adj': ['negative']}
+बाध्यता	{'noun': ['negative']}
+जगहंसाई	{'noun': ['negative']}
+कम_ज्ञात	{'adj': ['negative']}
+पूरा	{'verb': ['positive', 'ambiguous'], 'adj': ['neutral']}
+आधिकारिक	{'adj': ['positive', 'ambiguous']}
+भलाई	{'noun': ['positive']}
+कुशलता_के_साथ	{'adj': ['positive']}
+मोहभंग	{'adj': ['negative', 'ambiguous']}
+बीमार	{'adv': ['negative'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+उधम_मचाते	{'adj': ['positive'], 'anypos': ['positive']}
+सज्जन	{'adj': ['positive']}
+संवेदनशीलता	{'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+चतुर	{'adj': ['negative', 'ambiguous']}
+इशारों	{'noun': ['neutral']}
+प्रतिक्रियाओं	{'noun': ['neutral']}
+खेदजनक	{'anypos': ['ambiguous']}
+शक्तिहीन	{'adj': ['negative', 'ambiguous']}
+हतोत्साहित	{'verb': ['ambiguous'], 'anypos': ['positive']}
+प्रलय	{'noun': ['negative']}
+चेतावनी_देना	{'verb': ['positive']}
+कीचड़	{'noun': ['negative', 'ambiguous']}
+अंधा	{'anypos': ['negative']}
+प्रभावी_ढंग_से	{'adv': ['neutral']}
+मूक	{'anypos': ['positive'], 'adj': ['ambiguous']}
+अहिंसात्मक	{'adj': ['positive']}
+वेग	{'noun': ['positive']}
+जाना	{'verb': ['positive']}
+इंगित	{'anypos': ['positive']}
+हैरत	{'adj': ['negative']}
+पहचान	{'anypos': ['positive']}
+आनंदपूर्ण	{'adj': ['positive', 'ambiguous']}
+सही_ढंग_से	{'anypos': ['positive']}
+बावजूद	{'noun': ['negative']}
+क्रूर	{'adj': ['negative', 'ambiguous']}
+निष्प्राण	{'adj': ['negative']}
+मुहासेवाला	{'adj': ['positive'], 'anypos': ['negative']}
+को_राहत	{'verb': ['positive']}
+उद्वेग_सहित	{'anypos': ['positive']}
+उत्साही	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous']}
+मक्खियों_द्वारा_गंदा_कर_दिया_गया	{'adj': ['negative']}
+खस्ताहाल	{'adj': ['negative']}
+जबड़े_छोड़ने	{'anypos': ['positive']}
+मान्यता	{'noun': ['positive']}
+अजगर	{'noun': ['negative']}
+मूल	{'adj': ['positive']}
+जंभाई	{'verb': ['positive']}
+उमड़ना	{'adj': ['positive']}
+साख	{'noun': ['positive', 'ambiguous']}
+मिलावटी	{'anypos': ['negative']}
+सुस्ती	{'noun': ['negative', 'ambiguous']}
+अभेद्य	{'adj': ['negative', 'ambiguous'], 'noun': ['positive']}
+पहले_से_कह_देना	{'verb': ['neutral']}
+की_प्रशंसा	{'verb': ['positive']}
+दावे	{'noun': ['positive']}
+पता_लगाने_का	{'adj': ['positive']}
+प्रतिपादन	{'noun': ['positive']}
+सच्चा	{'adj': ['positive', 'ambiguous']}
+अनन्य	{'adj': ['negative']}
+कोसना	{'verb': ['ambiguous']}
+आना	{'verb': ['positive']}
+उदार	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+विधिवत्	{'adv': ['positive']}
+दुविधा	{'noun': ['negative']}
+आशीर्वाद	{'noun': ['positive']}
+बिगड़ा_हुआ	{'adj': ['negative', 'ambiguous']}
+चिंतनशील	{'adj': ['neutral']}
+संदेहवाद	{'noun': ['negative']}
+समृद्धि	{'noun': ['positive']}
+रहस्य	{'noun': ['negative']}
+दरिद्रता	{'noun': ['negative', 'ambiguous']}
+केंद्रीय	{'adj': ['neutral']}
+निरर्थकता_से	{'adv': ['negative']}
+अपील	{'verb': ['positive'], 'adj': ['positive']}
+धमकी_देना	{'verb': ['ambiguous']}
+फूल_का_खिलना	{'verb': ['positive']}
+परेशान-चलो	{'noun': ['negative']}
+भेद	{'noun': ['positive']}
+स्वच्छ	{'adj': ['negative']}
+भयंकरता	{'noun': ['negative', 'ambiguous']}
+वीरानी	{'noun': ['negative']}
+बचकाना	{'adj': ['negative']}
+शांतिदायक	{'anypos': ['positive']}
+दोषी_ठहराना	{'verb': ['positive']}
+जाम	{'noun': ['negative', 'ambiguous']}
+आसन्न	{'adj': ['negative'], 'noun': ['negative']}
+ठनी	{'adj': ['negative']}
+वंचित	{'adj': ['negative', 'ambiguous']}
+तेज़ी_से	{'adv': ['negative']}
+बहाना	{'verb': ['positive']}
+कामोत्तेजना	{'anypos': ['positive']}
+भ्रष्ट	{'anypos': ['negative'], 'adj': ['negative']}
+आत्म_तख्तापलट	{'noun': ['negative']}
+बिल्ली	{'noun': ['negative']}
+रसिक	{'anypos': ['positive']}
+कुशल	{'adj': ['positive', 'ambiguous']}
+अप्रचलित	{'adj': ['negative']}
+किरकिरा	{'adj': ['negative', 'ambiguous']}
+रैक	{'verb': ['positive']}
+दुबकना	{'verb': ['positive']}
+अपराधी	{'anypos': ['negative'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+भयावहता	{'noun': ['negative']}
+कुरूप	{'adj': ['negative']}
+खट्टा_और_तीता_करना	{'verb': ['ambiguous']}
+अस्थिर_करना	{'verb': ['positive']}
+वरीयताओं	{'noun': ['positive']}
+मौज-मस्ती	{'noun': ['positive']}
+ठहराव	{'noun': ['negative']}
+संयम	{'noun': ['negative']}
+दृढ़_संकल्प	{'noun': ['positive']}
+जर्जर	{'adj': ['negative', 'ambiguous']}
+जीवन_के_लिए_खतरा	{'adj': ['negative']}
+लोमड़ी	{'noun': ['negative']}
+चकरा_देना	{'verb': ['ambiguous']}
+प्रभावी	{'adj': ['positive']}
+खुलासा	{'adj': ['neutral']}
+काला_कौआ	{'verb': ['positive']}
+यूनिवर्सल	{'adj': ['positive']}
+प्रलय_का_दिन	{'noun': ['negative']}
+भीड़	{'adj': ['negative'], 'noun': ['negative']}
+नमकीन	{'adj': ['negative']}
+चोरी	{'noun': ['negative']}
+उन्नयन	{'verb': ['positive'], 'anypos': ['positive']}
+निष्ठाहीन	{'adj': ['negative', 'ambiguous']}
+इनायत_से	{'adv': ['positive']}
+उपलब्धियों	{'anypos': ['positive'], 'noun': ['positive']}
+क्रूरतापूर्ण	{'adj': ['negative']}
+नजरिए	{'noun': ['neutral']}
+हुड़कना	{'verb': ['positive']}
+लालची	{'adj': ['negative', 'ambiguous']}
+संभाषण_करना	{'verb': ['positive']}
+तप	{'noun': ['positive', 'ambiguous']}
+लकीर	{'noun': ['negative']}
+अनुग्रहभाजन	{'verb': ['positive']}
+समीक्षा	{'noun': ['neutral']}
+अपार	{'adj': ['negative']}
+दिखाई_देते_हैं	{'anypos': ['neutral']}
+मुकाबला	{'noun': ['negative']}
+स्पष्टवादिता	{'noun': ['positive']}
+टोल_फ्री	{'anypos': ['positive']}
+धावा	{'noun': ['negative']}
+बाहर_निकलने_देना	{'noun': ['negative']}
+कुबुद्धि	{'adj': ['negative']}
+तानाशाह	{'noun': ['negative', 'ambiguous']}
+रूपहीन	{'adj': ['negative', 'ambiguous']}
+विषमताएं	{'noun': ['negative']}
+पसंद	{'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+हत्या_करना	{'verb': ['positive']}
+वही	{'adj': ['ambiguous']}
+गालियां_बकने_की_क्रिया	{'noun': ['negative']}
+अत्याचारों	{'noun': ['negative']}
+प्रणाली	{'noun': ['negative']}
+सफ़ाई	{'adj': ['positive', 'ambiguous']}
+सुचारू_रूप_से	{'anypos': ['positive']}
+चौड़ा	{'adj': ['positive', 'ambiguous']}
+दोषसिद्धि	{'noun': ['negative']}
+मिथक	{'noun': ['negative']}
+समस्या_से_मुक्त	{'anypos': ['positive']}
+अनिवार्य_रूप_से	{'adv': ['negative']}
+उत्साहित	{'adj': ['positive', 'ambiguous']}
+दैवीय	{'anypos': ['positive']}
+जोखिम_मुक्त	{'adj': ['negative']}
+अवधारण	{'noun': ['positive']}
+कंकाल	{'noun': ['negative']}
+भाग्य	{'noun': ['neutral']}
+दबाव	{'noun': ['ambiguous', 'neutral']}
+नवीनता	{'anypos': ['positive']}
+न_मादा_न_नर	{'adj': ['negative']}
+घिनौने_रूप_में	{'anypos': ['negative']}
+उम्मीद_है_कि	{'anypos': ['positive']}
+यहूदी_बस्ती	{'noun': ['negative']}
+धौंसिया	{'noun': ['negative']}
+बनिया	{'noun': ['negative']}
+सुदृढ़	{'verb': ['positive']}
+सठिया	{'adj': ['negative']}
+दृढ़_रहना	{'verb': ['positive']}
+ललक	{'noun': ['positive']}
+मज़ाक_के_तौर_पर	{'anypos': ['positive']}
+मुरझाया_हुआ	{'adj': ['negative', 'ambiguous']}
+विभिन्न	{'adj': ['negative', 'ambiguous']}
+घर्षण	{'noun': ['negative']}
+मित्रता	{'noun': ['positive']}
+सनसनी	{'noun': ['positive']}
+दयालुता	{'noun': ['positive', 'ambiguous']}
+स्वीकार_करना	{'verb': ['positive']}
+अच्छी_तरह_से_प्रबंधित	{'adj': ['positive']}
+डांट-डपट	{'noun': ['negative']}
+अप्रत्याशित_रूप_से	{'adv': ['negative']}
+भूखंड	{'verb': ['positive']}
+अनुपात_में	{'adv': ['neutral']}
+बुरा_प्रबंध	{'noun': ['negative']}
+जहाज़ों_के_चलने_योग्य	{'adj': ['positive']}
+सीमांत	{'adv': ['negative', 'ambiguous'], 'adj': ['negative']}
+वसायुक्त	{'adj': ['negative']}
+किशोर	{'adj': ['negative']}
+माना_जाता	{'adj': ['negative']}
+स्थान	{'verb': ['positive'], 'adj': ['negative'], 'noun': ['neutral']}
+आधुनिक	{'adj': ['positive']}
+ज़ोर_से_मारना	{'noun': ['negative']}
+हीनता	{'noun': ['negative', 'ambiguous']}
+ऐयाश	{'noun': ['negative']}
+दख़लंदाज़ी	{'noun': ['negative']}
+भुलावा	{'noun': ['negative']}
+अनुकूल	{'adj': ['positive'], 'anypos': ['positive', 'ambiguous'], 'noun': ['positive']}
+दिलासा_देनेवाला	{'noun': ['negative']}
+सत्तावादी	{'adj': ['negative', 'ambiguous']}
+सबसे_ताज़ी	{'anypos': ['positive']}
+मन_बहलाना	{'verb': ['positive']}
+कलंक_लगाना	{'verb': ['ambiguous']}
+चिकनाई_से	{'adv': ['negative']}
+जोश_में	{'anypos': ['positive']}
+फलदायक	{'adj': ['positive']}
+कृपण	{'anypos': ['ambiguous']}
+शुद्धता	{'noun': ['positive']}
+कनिष्ठ	{'noun': ['positive']}
+प्रतिमाएं	{'anypos': ['negative']}
+अपमानित	{'adj': ['negative']}
+आश्चर्यजनक	{'anypos': ['positive', 'ambiguous']}
+प्रगतिशील	{'adj': ['positive']}
+साहसिक_कार्य	{'noun': ['positive']}
+असमंजस	{'noun': ['negative', 'ambiguous']}
+बचना	{'verb': ['ambiguous']}
+शून्य	{'noun': ['negative']}
+समझ_से_बाहर	{'adj': ['negative', 'ambiguous']}
+सीसे_का	{'adj': ['positive']}
+खून	{'noun': ['negative']}
+अवांछित	{'adj': ['negative']}
+मन_की_तरंग	{'noun': ['positive', 'ambiguous']}
+टक्कर	{'anypos': ['negative']}
+ग़ुस्सैल	{'adj': ['negative']}
+अस्पष्टता	{'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+उम्मीद_के_मुताबिक	{'adj': ['neutral']}
+रिकॉर्ड_सेटिंग	{'adj': ['positive']}
+अंत_में	{'anypos': ['neutral']}
+लड़खड़ाना	{'verb': ['ambiguous']}
+हानिकर	{'noun': ['negative', 'ambiguous']}
+घातक	{'adj': ['negative', 'ambiguous']}
+अभी	{'noun': ['positive']}
+भाषण	{'verb': ['positive']}
+की_ओर_अग्रसर	{'adj': ['positive', 'ambiguous']}
+नुक़सानदेह	{'verb': ['ambiguous'], 'adj': ['negative']}
+निर्विकार	{'anypos': ['positive']}
+एकाकार	{'adj': ['negative']}
+औपचारिक	{'adj': ['positive']}
+धार	{'adj': ['negative'], 'noun': ['negative']}
+नख़लिस्तान	{'noun': ['positive']}
+तंग_करती_है	{'anypos': ['negative']}
+अनावश्यक	{'adj': ['negative', 'ambiguous']}
+आशा_से	{'anypos': ['positive']}
+अवाक	{'adj': ['positive', 'ambiguous']}
+झबरा	{'adj': ['positive']}
+अचंभे_में_डाल_देना	{'verb': ['ambiguous']}
+नुकीला	{'adj': ['negative']}
+अपवाद	{'noun': ['negative']}
+कठोरता	{'noun': ['negative']}
+तेज	{'adj': ['positive'], 'anypos': ['positive']}
+आक्रामकता	{'noun': ['negative']}
+निष्क्रियता	{'noun': ['negative']}
+हाय	{'anypos': ['negative']}
+पागलों_की_तरह	{'anypos': ['ambiguous']}
+टपकन	{'noun': ['negative']}
+बुरी_बात	{'anypos': ['positive']}
+सूचनात्मक	{'adj': ['neutral']}
+आज्ञाकारिता	{'noun': ['positive']}
+घृणा_का_अनुभव_करना	{'verb': ['ambiguous']}
+सफल_होने_के_लिए	{'verb': ['positive']}
+दूसरी_श्रेणी	{'adj': ['negative']}
+हेत्वाभास	{'noun': ['negative', 'ambiguous']}
+तेज़	{'anypos': ['positive'], 'adj': ['negative']}
+प्रतिक्रिया	{'verb': ['neutral'], 'noun': ['neutral']}
+स्थापित	{'adj': ['positive']}
+परतंत्रता	{'noun': ['positive']}
+भगोड़ा	{'adj': ['negative']}
+हासिल	{'verb': ['positive']}
+धन_वापसी	{'anypos': ['positive']}
+विशेषज्ञ	{'adj': ['positive']}
+तीव्र	{'anypos': ['positive'], 'adj': ['neutral'], 'noun': ['ambiguous', 'neutral']}
+सावधानियां	{'noun': ['positive']}
+गला_घोंटनेवाला	{'noun': ['negative']}
+उपेक्षा_से	{'anypos': ['positive']}
+पवित्रता	{'noun': ['negative', 'ambiguous']}
+बेजान	{'adj': ['negative']}
+दुख	{'adv': ['negative'], 'noun': ['negative']}
+सुधारात्मक	{'adj': ['ambiguous', 'neutral']}
+ज़बरदस्त	{'adj': ['negative']}
+अपाहिज_होना	{'noun': ['negative', 'ambiguous']}
+मान्यवर	{'noun': ['positive']}
+सरलीकृत	{'adj': ['positive', 'ambiguous'], 'noun': ['negative']}
+बचाव	{'verb': ['positive'], 'adj': ['negative']}
+घमंडी	{'adj': ['negative'], 'noun': ['negative', 'ambiguous']}
+पुरस्कार_देना	{'verb': ['positive']}
+क्रिस्टल	{'noun': ['positive']}
+अत्यधिक_टिकाऊ	{'adj': ['neutral']}
+कच्चा	{'adj': ['negative', 'ambiguous']}
+हास्य	{'verb': ['positive'], 'noun': ['positive']}
+जागरूकता	{'noun': ['ambiguous', 'neutral']}
+घूरते_से	{'adv': ['negative']}
+विस्मृति	{'noun': ['negative']}
+अनैतिक	{'adj': ['negative', 'ambiguous']}
+कार्यात्मक	{'adj': ['positive']}
+असंभवता	{'noun': ['negative', 'ambiguous']}
+विवादपूर्ण	{'anypos': ['negative', 'ambiguous']}
+को_परिष्कृत	{'verb': ['positive']}
+लालायित_होना	{'verb': ['positive']}
+मात_करना	{'anypos': ['positive']}
+खुशी	{'adv': ['positive', 'ambiguous']}
+सक्षम	{'verb': ['positive'], 'adj': ['negative']}
+चिकनी	{'anypos': ['positive']}
+बाधाओं	{'noun': ['negative']}
+स्वराज्य	{'noun': ['positive']}
+परिपूर्ण	{'adj': ['neutral']}
+परस्पर-विरोधी	{'anypos': ['negative'], 'adj': ['negative']}
+फिर_भी	{'anypos': ['neutral']}
+चयनात्मक	{'adj': ['positive', 'ambiguous']}
+सोना	{'noun': ['negative']}
+हद_से_अधिक	{'adj': ['negative']}
+कोर्ट	{'verb': ['positive']}
+अनमेलता	{'noun': ['negative']}
+बेकार_में	{'adv': ['negative']}
+कांप	{'adj': ['negative']}
+आदर्शवादी	{'anypos': ['positive'], 'noun': ['positive']}
+विश्लेषणात्मक	{'adj': ['neutral']}
+उन्नति	{'noun': ['positive']}
+धरा	{'anypos': ['positive']}
+सपने	{'noun': ['positive']}
+पत्ते_के_रूप_में	{'adj': ['negative']}
+संतप्त	{'adj': ['negative', 'ambiguous']}
+बोझल	{'anypos': ['negative', 'ambiguous'], 'adj': ['negative']}
+तीव्र_गति	{'noun': ['positive']}
+दिमाग	{'noun': ['positive']}
+बेगुनाही	{'noun': ['positive']}
+सांत्वना_देना	{'verb': ['positive']}
+समस्यात्मक	{'noun': ['negative']}
+ऐसा	{'anypos': ['neutral']}
+प्रतिमा	{'noun': ['negative']}
+दंभ	{'noun': ['negative', 'ambiguous']}
+बदनाम	{'adj': ['negative']}
+अकाटता	{'noun': ['positive']}
+स्टेनलेस	{'adj': ['positive']}
+उपेक्षा_करनेवाला	{'adj': ['negative']}
+सुलह	{'noun': ['positive', 'ambiguous']}
+रक्षात्मक	{'adj': ['negative']}
+बेहतर_बनाता_है	{'anypos': ['positive']}
+अप्रिय	{'anypos': ['positive', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+रौंद	{'verb': ['ambiguous']}
+स्थूलता	{'anypos': ['negative']}
+लायक	{'verb': ['positive'], 'noun': ['positive']}
+व्याकुलता	{'noun': ['negative']}
+खरोज	{'verb': ['positive']}
+सहायक	{'adj': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+फिर_से_युवा_करना	{'anypos': ['positive']}
+असमान	{'anypos': ['ambiguous']}
+मंज़िल	{'verb': ['neutral']}
+मदद	{'verb': ['positive'], 'anypos': ['positive']}
+व्यापक_आधार	{'adj': ['neutral']}
+बेखटके	{'anypos': ['positive']}
+जुनूनी	{'adj': ['negative', 'ambiguous']}
+पसंद_करते_हैं	{'verb': ['positive']}
+दुस्साहस	{'noun': ['positive']}
+सपना	{'verb': ['positive']}
+आसान_बनाता_है	{'anypos': ['positive']}
+भावुकता	{'anypos': ['positive']}
+उत्तरजीवी	{'noun': ['negative']}
+खड़ा	{'verb': ['positive', 'ambiguous'], 'noun': ['neutral']}
+अतिरिक्त_मतलाब_रखना	{'verb': ['positive']}
+हँसी_से	{'anypos': ['positive']}
+की_वसूली	{'verb': ['positive']}
+प्रवाह	{'noun': ['negative']}
+लौ	{'noun': ['positive']}
+मृदु_भाषी	{'adj': ['positive']}
+अच्छा	{'adj': ['positive'], 'anypos': ['positive']}
+श्रेष्ठता	{'noun': ['negative']}
+बल्कि	{'adv': ['positive'], 'anypos': ['neutral']}
+जानलेवा	{'adj': ['negative']}
+पेचीदा	{'adj': ['negative', 'ambiguous']}
+गरमाना	{'verb': ['positive']}
+विष	{'noun': ['negative']}
+राज-द्रोह	{'noun': ['negative', 'ambiguous']}
+व्यस्त	{'adj': ['negative', 'ambiguous']}
+असीम	{'adj': ['positive'], 'noun': ['neutral']}
+उत्कृष्ट	{'anypos': ['positive']}
+कोमलता	{'noun': ['positive', 'ambiguous']}
+पर्यावरणवाद	{'noun': ['positive']}
+चिंतित	{'anypos': ['negative', 'ambiguous'], 'adj': ['negative']}
+नीरस	{'adj': ['negative', 'ambiguous']}
+आमना-सामना	{'noun': ['negative', 'ambiguous']}
+देर_में_आया_हुआ	{'adj': ['negative', 'ambiguous']}
+दरारें	{'anypos': ['negative'], 'noun': ['negative']}
+लापरवाह	{'adj': ['negative', 'ambiguous']}
+घृणास्पद	{'adj': ['negative', 'ambiguous']}
+शमन	{'noun': ['positive']}
+चिल्लाहट	{'noun': ['negative', 'ambiguous']}
+विचार_शक्ति_हर_लिया	{'adj': ['negative']}
+मेंड	{'verb': ['ambiguous']}
+ढोंग_करना	{'verb': ['positive']}
+उत्तेजित_करता_है	{'anypos': ['positive']}
+व्यथा	{'noun': ['negative']}
+ख़ामोश_रहना	{'verb': ['positive']}
+बड़बड़ाना	{'verb': ['positive'], 'noun': ['negative']}
+अनुकूलनीय	{'adj': ['positive']}
+बेधड़क	{'adv': ['positive']}
+लक्ष्य	{'adj': ['positive']}
+शांत	{'verb': ['positive', 'ambiguous'], 'adj': ['ambiguous', 'neutral']}
+दिखावा	{'adj': ['negative'], 'noun': ['negative']}
+प्रभावहीन	{'verb': ['ambiguous']}
+असुरूपता	{'noun': ['negative', 'ambiguous']}
+गैर-विश्वास	{'noun': ['negative']}
+किफ़ायती	{'adj': ['negative']}
+शांतिप्रिय	{'adj': ['positive'], 'noun': ['positive']}
+बदकिस्मत	{'adj': ['negative', 'ambiguous']}
+भविष्य-ज्ञान	{'adj': ['negative', 'ambiguous']}
+निषिद्ध	{'adj': ['negative']}
+पाप	{'noun': ['negative']}
+बुखार	{'noun': ['negative', 'ambiguous']}
+वर्णनातीत	{'adv': ['positive']}
+व्यवस्थित	{'adj': ['neutral']}
+उड़ाऊ	{'adj': ['negative']}
+कम_लागत	{'adj': ['positive']}
+अवैध	{'adv': ['negative'], 'adj': ['negative', 'ambiguous']}
+टकराव	{'adj': ['negative'], 'noun': ['negative']}
+फैशन	{'adv': ['positive']}
+पिछड़ेपन	{'noun': ['negative']}
+पैग़ंबर	{'noun': ['negative']}
+कहानी	{'noun': ['neutral']}
+ज़्यादा	{'verb': ['ambiguous']}
+परिष्कृत	{'adj': ['positive']}
+हंगामों	{'anypos': ['negative']}
+कोई_खबर_नहीं	{'anypos': ['negative']}
+वैरी	{'noun': ['negative']}
+मुस्करा	{'adv': ['positive']}
+अनुपालन	{'noun': ['negative']}
+धृष्टता	{'noun': ['negative', 'ambiguous']}
+मुलायम	{'anypos': ['positive']}
+झुकाव	{'noun': ['positive']}
+गगनभेदी	{'adj': ['negative']}
+एकीकृत	{'anypos': ['positive']}
+दंडनीय	{'adj': ['negative', 'ambiguous']}
+बंदी	{'adj': ['negative'], 'noun': ['negative']}
+कामुक	{'adj': ['negative', 'ambiguous']}
+भट्ठी	{'verb': ['ambiguous']}
+विधर्मी	{'noun': ['negative']}
+प्रभावित	{'anypos': ['positive'], 'adj': ['neutral']}
+कड़ाई_से	{'adv': ['negative']}
+घायल	{'adj': ['negative', 'ambiguous']}
+सूचना_देना	{'anypos': ['positive']}
+मैत्री	{'noun': ['positive']}
+कटाव_का	{'adj': ['negative']}
+डिमाग_धोना	{'verb': ['positive']}
+खूबसूरती	{'anypos': ['positive']}
+ताजा	{'anypos': ['positive']}
+भद्दा	{'anypos': ['negative'], 'adj': ['negative', 'ambiguous']}
+भालू	{'verb': ['positive']}
+देवता_मानना	{'verb': ['positive', 'ambiguous']}
+आरामदायक	{'adj': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+जोशीला_रूप_से	{'anypos': ['positive']}
+पुष्टि_करना	{'noun': ['positive']}
+सहजता	{'anypos': ['positive']}
+उद्योगी	{'noun': ['negative']}
+सर्वाधिक_जानकार	{'adj': ['negative']}
+निकटता	{'noun': ['positive']}
+भक्त	{'adj': ['positive'], 'noun': ['positive']}
+मानव_जाति	{'noun': ['positive']}
+अधीरता	{'noun': ['negative']}
+बेहतर_ज्ञात	{'adj': ['negative']}
+ऊपर_उठाना	{'verb': ['positive']}
+-अप_को_तोड़ने	{'anypos': ['negative']}
+तारतम्यहीन	{'adj': ['negative']}
+धर्म_का_उपदेश_देना	{'verb': ['positive']}
+स्वास्थ	{'adj': ['positive']}
+अर्थदंड	{'verb': ['ambiguous'], 'noun': ['ambiguous']}
+नाज़ुक_हालत	{'noun': ['negative']}
+जोर_देते_हैं	{'verb': ['positive']}
+दोष	{'noun': ['negative']}
+सफाई_से	{'anypos': ['positive']}
+उजाड़ना	{'anypos': ['positive']}
+अभिराम	{'noun': ['positive']}
+उपेक्षाजनक	{'anypos': ['positive']}
+क़बूल	{'noun': ['positive']}
+निषेधात्मक	{'adj': ['negative', 'ambiguous']}
+राजदूत	{'noun': ['negative']}
+खाट	{'noun': ['negative']}
+मिथ्या	{'adj': ['negative']}
+धीमा	{'adj': ['negative']}
+व्याकुल	{'adj': ['negative', 'ambiguous']}
+विनोदी	{'anypos': ['positive', 'ambiguous']}
+आत्मसंतुष्ट	{'adj': ['negative', 'ambiguous']}
+अपवित्रता	{'noun': ['negative', 'ambiguous']}
+डरपोक	{'anypos': ['negative'], 'adj': ['negative', 'ambiguous']}
+न्यायपूर्वक	{'anypos': ['positive']}
+सुंदरता	{'noun': ['positive']}
+वहमी	{'noun': ['negative']}
+सूखा	{'adj': ['negative'], 'noun': ['negative']}
+धार्मिक	{'adj': ['positive']}
+उपदेश	{'verb': ['neutral'], 'noun': ['positive']}
+स्वार्थी	{'anypos': ['positive']}
+अंधाधुंधता	{'noun': ['negative']}
+बलपूर्वक	{'adv': ['negative'], 'adj': ['negative']}
+रक्तहीनता_से_पीड़ित	{'adj': ['negative']}
+जवाबी_हमला	{'anypos': ['positive']}
+मैल	{'noun': ['negative']}
+चुभता	{'adj': ['negative']}
+अल्पज्ञता	{'noun': ['negative', 'ambiguous']}
+बलि_का_बकरा	{'noun': ['negative']}
+प्रतिकारक	{'adj': ['negative']}
+परेशानी	{'noun': ['negative']}
+दस्तक	{'verb': ['ambiguous']}
+पदच्युति	{'noun': ['negative']}
+महत्त्वाकांक्षा_करना	{'verb': ['positive']}
+डींग	{'anypos': ['positive']}
+ग़द्दार	{'noun': ['negative']}
+नाराज़	{'adj': ['negative']}
+रहस्योद्घाटन	{'noun': ['positive']}
+निशान	{'noun': ['negative']}
+अदक्ष	{'adj': ['negative']}
+आरोपों	{'noun': ['negative']}
+फुसलाना	{'noun': ['positive']}
+संतुष्ट	{'anypos': ['positive']}
+अति_आवश्यक	{'noun': ['negative']}
+संयोग_से	{'adv': ['negative']}
+बड़े_पैमाने_पर	{'adv': ['positive'], 'anypos': ['neutral'], 'adj': ['neutral']}
+सलाम	{'verb': ['positive']}
+उमंग	{'noun': ['positive', 'ambiguous']}
+दुर्बल	{'verb': ['ambiguous'], 'adj': ['negative', 'ambiguous']}
+औचित्य	{'noun': ['positive']}
+सबसे_तेजी	{'anypos': ['positive']}
+क्षतिपूर्ति	{'verb': ['positive', 'ambiguous']}
+सेट_अप	{'noun': ['negative']}
+महाप्रतापी	{'anypos': ['positive']}
+सब्सिडी	{'anypos': ['positive']}
+निश्चय	{'adv': ['positive']}
+परत	{'noun': ['negative']}
+सुधारने	{'verb': ['positive']}
+कठिन	{'adv': ['negative'], 'adj': ['negative']}
+जाली	{'adj': ['negative']}
+द्वितीय_श्रेणी	{'adj': ['negative']}
+कष्ट	{'noun': ['negative', 'ambiguous']}
+बोधगम्य	{'adj': ['positive'], 'noun': ['positive']}
+मोहलत	{'noun': ['positive']}
+लोहे_का	{'adj': ['negative', 'ambiguous']}
+मिलाना	{'verb': ['positive']}
+चुंबन	{'verb': ['positive']}
+अरक्षणीय	{'adj': ['negative']}
+तनाव	{'verb': ['positive'], 'noun': ['negative']}
+मुलायम_करना	{'verb': ['positive']}
+गलत_समझा	{'verb': ['ambiguous']}
+नासमझी	{'noun': ['negative']}
+खुला_समाप्त_हो_गया	{'adj': ['neutral']}
+अधीनता	{'noun': ['negative']}
+प्रभावित_करना	{'verb': ['positive', 'ambiguous']}
+दयालु	{'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+अकुलीन	{'adj': ['negative']}
+पकड़	{'verb': ['positive']}
+प्राण	{'noun': ['positive']}
+निलंबन	{'noun': ['positive']}
+बेकॉन्स	{'anypos': ['positive']}
+विदित_है	{'anypos': ['neutral']}
+अल्पकालिक	{'adj': ['negative']}
+अगस्त	{'adj': ['negative']}
+बदमाशी	{'anypos': ['negative']}
+विकल	{'adj': ['negative']}
+चंचलता	{'noun': ['positive']}
+यश	{'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+इस_प्रकार	{'anypos': ['neutral']}
+मुड़	{'adj': ['negative']}
+अपस्फीतिकर	{'adj': ['positive']}
+अवर्णनीय	{'adj': ['positive']}
+झूला	{'noun': ['neutral']}
+दूर_रहना	{'verb': ['positive']}
+किफ़ायत	{'noun': ['positive']}
+तेजी_से_पुस्तक	{'adj': ['positive']}
+असीमित	{'adj': ['positive', 'ambiguous']}
+मूर्खता_से	{'anypos': ['negative']}
+पक्षपाती	{'adj': ['positive']}
+बेख़बर	{'adj': ['negative', 'ambiguous']}
+दोषी	{'adj': ['negative', 'ambiguous']}
+अच्छी_तरह_से_माना	{'adj': ['positive']}
+अपघर्षक	{'adj': ['negative']}
+की_निंदा_की	{'anypos': ['negative']}
+अविनाशी	{'adj': ['positive']}
+विस्थापित	{'adj': ['negative']}
+तबदीली	{'noun': ['negative', 'ambiguous']}
+हॉट_केक	{'anypos': ['positive']}
+अयोग्यतापूर्वक	{'adv': ['negative']}
+कठिनाई	{'noun': ['negative']}
+चिंताशील	{'anypos': ['positive', 'ambiguous']}
+प्लावित	{'adj': ['positive']}
+प्रवंचना	{'noun': ['negative']}
+भय	{'verb': ['positive', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+क्रांति	{'noun': ['positive']}
+शुभ	{'adj': ['positive']}
+तर्कशक्ति	{'noun': ['positive']}
+निरंतरता	{'noun': ['positive']}
+बहुत_सारे	{'anypos': ['positive']}
+हराने	{'anypos': ['positive']}
+विषमता	{'noun': ['negative', 'ambiguous']}
+थम्स_अप	{'anypos': ['positive']}
+असहिष्णुता	{'noun': ['negative', 'ambiguous']}
+संपन्न	{'adj': ['positive']}
+सुरक्षा	{'noun': ['positive', 'ambiguous']}
+दुष्ट	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+गंदा	{'adj': ['negative', 'ambiguous'], 'anypos': ['ambiguous']}
+अतिरंजना_करना	{'verb': ['ambiguous']}
+उग्र	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+देश-भक्त	{'noun': ['positive']}
+विश्वासपूर्वक	{'anypos': ['negative']}
+बयानों	{'noun': ['neutral']}
+डाह	{'verb': ['ambiguous'], 'noun': ['negative', 'ambiguous']}
+दर्द	{'adv': ['negative'], 'anypos': ['negative'], 'noun': ['negative']}
+दुबला	{'adj': ['negative'], 'noun': ['positive', 'ambiguous']}
+उलझाना	{'verb': ['ambiguous']}
+इच्छाओं	{'noun': ['positive']}
+विसंगति	{'noun': ['negative']}
+खोलना	{'noun': ['negative']}
+विस्मित_करना	{'verb': ['positive']}
+दुखद	{'adj': ['negative']}
+अलग-अलग	{'verb': ['positive'], 'anypos': ['negative']}
+वृद्धि	{'noun': ['positive']}
+देदीप्यमान	{'adj': ['positive', 'ambiguous']}
+प्रकृति	{'noun': ['neutral']}
+अभिव्यक्ति	{'noun': ['neutral']}
+सबसे_अच्छा_प्रदर्शन	{'adj': ['positive']}
+रोलर_कॉस्टर	{'noun': ['negative']}
+मुलम्मे_से	{'adj': ['ambiguous']}
+आत्महत्या	{'noun': ['negative']}
+दोषी_रूप_से	{'adv': ['negative']}
+भद्रता	{'noun': ['positive', 'ambiguous']}
+शत्रुतापूर्ण	{'noun': ['negative']}
+पराए_काम_में_वाधा_डालनेवाला	{'noun': ['negative']}
+अनुशासनात्मक_सज़ा	{'anypos': ['negative']}
+जल्दी_से	{'anypos': ['positive']}
+चुनौतीपूर्ण	{'adj': ['negative'], 'anypos': ['ambiguous']}
+वादे	{'anypos': ['positive']}
+मोड़	{'verb': ['positive']}
+किस्मत	{'adj': ['positive']}
+पारंपरिक	{'adj': ['positive']}
+गंदे	{'anypos': ['negative']}
+खिंचाव	{'verb': ['positive']}
+लीक_से_हटकर	{'adj': ['negative']}
+बुरा_कल्पना	{'adj': ['negative', 'ambiguous']}
+कॉड	{'verb': ['positive']}
+अप्रत्यक्ष	{'adj': ['neutral']}
+कैंसर_का	{'adj': ['negative', 'ambiguous']}
+अतिक्रमण	{'noun': ['negative']}
+हैरान	{'adj': ['positive', 'ambiguous']}
+बयान	{'noun': ['neutral']}
+प्रवीण	{'adv': ['positive'], 'adj': ['positive']}
+प्रकार_है	{'adj': ['negative']}
+गुप्त	{'adj': ['ambiguous', 'neutral']}
+प्यारा	{'adj': ['positive'], 'anypos': ['positive']}
+चमत्कारिक_ढंग_से	{'anypos': ['positive']}
+ज़रूर	{'anypos': ['positive']}
+अति_सूक्ष्म_अंतर	{'noun': ['neutral']}
+उबा_हुआ	{'adj': ['positive']}
+अधूरा	{'adj': ['negative']}
+निर्दयी	{'adj': ['negative']}
+प्रशंसनीय	{'adj': ['positive'], 'anypos': ['positive']}
+संतुष्ट_करना	{'verb': ['positive', 'ambiguous']}
+जादू	{'adj': ['positive']}
+खटखटाना	{'noun': ['positive']}
+घिसा	{'anypos': ['negative']}
+माफ़	{'adj': ['positive']}
+पारदर्शिता	{'noun': ['neutral']}
+निद्राकर_औषध	{'noun': ['negative']}
+पुराना	{'adj': ['negative']}
+योगदान	{'noun': ['positive']}
+अस्तित्वहीन	{'adj': ['negative']}
+असंवैधानिक	{'adj': ['negative']}
+नायकत्व	{'noun': ['negative']}
+भरोसे_के_साथ	{'anypos': ['positive']}
+विलासिता	{'noun': ['positive', 'ambiguous']}
+उत्साह_से	{'adv': ['positive'], 'anypos': ['positive']}
+टायर	{'verb': ['positive']}
+भरोसेमंद	{'adj': ['positive']}
+ब्लॉकबस्टर	{'anypos': ['positive']}
+भरण	{'adj': ['positive']}
+सौदा	{'adj': ['positive'], 'noun': ['positive']}
+शरारती_तत्वों	{'noun': ['negative']}
+बेफिक्र	{'anypos': ['positive']}
+गतिहीन	{'adj': ['negative']}
+रिपोर्ट	{'verb': ['positive']}
+अहेतुक	{'noun': ['negative']}
+तुरत-फुरत_शेर_कहकर	{'adv': ['negative']}
+अमित्र	{'adj': ['negative']}
+क्रूरता_से	{'anypos': ['positive']}
+चुपचाप	{'adv': ['positive']}
+बचाव_का	{'anypos': ['ambiguous']}
+कार्टून	{'noun': ['negative']}
+निरपराध	{'anypos': ['positive']}
+की_सिफारिश	{'verb': ['positive'], 'anypos': ['positive']}
+बेनकाब	{'verb': ['positive']}
+मोज़री	{'anypos': ['negative']}
+अभिसंधि	{'noun': ['negative']}
+शातिर	{'adj': ['negative']}
+भयानकता	{'adv': ['negative'], 'noun': ['negative', 'ambiguous']}
+पार	{'verb': ['positive'], 'adj': ['negative']}
+हँसी_में	{'adv': ['positive']}
+विजयी	{'verb': ['positive', 'ambiguous'], 'adj': ['positive', 'ambiguous']}
+उलझन_में	{'noun': ['negative', 'ambiguous']}
+आकस्मिक	{'adj': ['negative', 'ambiguous']}
+पहली_में_वर्ग	{'anypos': ['positive']}
+आधारशिला	{'noun': ['positive']}
+दांतेदार	{'adj': ['positive']}
+उदात्त_बनाना	{'verb': ['positive']}
+उदासीनता	{'noun': ['negative', 'ambiguous']}
+मित्र	{'noun': ['positive']}
+उच्चस्तरीय	{'adj': ['neutral']}
+जबड़ा	{'verb': ['positive']}
+मानवता	{'noun': ['positive']}
+मरणासन्न	{'adj': ['negative']}
+असहाय	{'adv': ['negative'], 'adj': ['negative']}
+बहिष्कार	{'noun': ['negative']}
+ठीक_से	{'adv': ['positive']}
+समस्या_निवारक	{'anypos': ['positive']}
+तर्कहीनता	{'noun': ['negative']}
+पूरी_तरह_से	{'adv': ['neutral'], 'anypos': ['ambiguous', 'neutral']}
+हठी	{'adj': ['negative', 'ambiguous']}
+घटनेवाला	{'adj': ['positive']}
+गहरी	{'adj': ['positive', 'ambiguous']}
+हराना	{'verb': ['positive']}
+अमेरिका_विरोधी	{'anypos': ['negative'], 'noun': ['negative']}
+पागल_आदमी	{'noun': ['negative']}
+गदहे_का	{'adj': ['negative']}
+अन्त_में	{'anypos': ['neutral']}
+अफसोस_जताते_हुए	{'anypos': ['ambiguous']}
+में_शिकायत	{'noun': ['negative']}
+निकम्मेपन	{'adv': ['negative']}
+महीन	{'anypos': ['positive']}
+समांता	{'noun': ['negative']}
+अच्छी_तरह_से_तैनात	{'adj': ['positive']}
+नाखून	{'verb': ['positive']}
+भार_रहित	{'adj': ['negative']}
+असंभव	{'adj': ['negative']}
+कटु	{'anypos': ['negative'], 'adj': ['negative']}
+हलके_पीले_रंग_का	{'verb': ['ambiguous']}
+मानार्थ	{'anypos': ['positive']}
+पुनर्गठन	{'anypos': ['positive']}
+क्षमा_करना	{'verb': ['positive']}
+बचाव_का_रास्ता	{'noun': ['negative']}
+ईमानदार	{'adj': ['positive', 'ambiguous'], 'noun': ['positive']}
+बड़ी_क्षमता	{'anypos': ['positive']}
+निरंकुश	{'adj': ['negative'], 'noun': ['negative', 'ambiguous']}
+फ़्लॉन्डर	{'verb': ['ambiguous']}
+आम_सहमति	{'noun': ['positive']}
+असमर्थित	{'adj': ['negative']}
+कलँगी	{'noun': ['positive']}
+मिमी	{'anypos': ['neutral']}
+उदात्त	{'adj': ['positive']}
+पिशाच	{'noun': ['negative']}
+अपरिष्कृत	{'adj': ['negative', 'ambiguous']}
+ना_करे	{'adj': ['negative']}
+आश्चर्यकारी	{'anypos': ['positive']}
+लय_में_करना	{'adj': ['positive']}
+बद	{'adj': ['negative']}
+जलती_हुई	{'anypos': ['negative']}
+शिखर	{'noun': ['negative']}
+बुत	{'noun': ['positive']}
+स्वर्ग	{'noun': ['positive', 'ambiguous']}
+ज़ोरों_के_साथ	{'adv': ['positive']}
+दंश	{'noun': ['positive']}
+शहादत_की_मांग	{'adj': ['negative']}
+पार्टी_की_योजना_बनाई	{'anypos': ['negative']}
+डरावनी	{'anypos': ['positive']}
+अनुकूल_होना	{'verb': ['positive']}
+हड़ताली	{'adj': ['positive']}
+मुखर	{'adj': ['negative'], 'noun': ['neutral']}
+अंतरिम_रूप_से	{'adv': ['negative']}
+दमन_का	{'adj': ['negative']}
+सदस्यता_के_लिए	{'verb': ['positive']}
+पसंदीदा_बनाया	{'anypos': ['positive']}
+हमवार	{'adj': ['negative']}
+नगण्य	{'adj': ['negative', 'ambiguous']}
+समझ	{'noun': ['positive']}
+केवल	{'anypos': ['neutral'], 'adj': ['neutral']}
+पोला	{'adj': ['negative']}
+अयुक्तता	{'noun': ['negative']}
+मसख़रेपन_से	{'adv': ['negative']}
+नयनाभिराम	{'anypos': ['positive']}
+सीखा	{'noun': ['positive']}
+चिढ़ाना	{'verb': ['positive']}
+असभ्य	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+लात	{'noun': ['negative']}
+न्याय	{'noun': ['positive']}
+मनोरम	{'adj': ['positive', 'ambiguous']}
+आडंबरपूर्ण	{'adj': ['negative']}
+दुर्बलता	{'noun': ['negative', 'ambiguous']}
+गर्मी	{'noun': ['ambiguous']}
+मृदुता	{'noun': ['ambiguous']}
+हितकर	{'anypos': ['positive']}
+बहाने	{'noun': ['negative']}
+अव्याख्येय	{'adj': ['negative']}
+धीमी_गति_से_चलती	{'adj': ['negative']}
+ईमानदारी_से	{'anypos': ['positive']}
+कट_जाना	{'noun': ['negative']}
+विजेता	{'anypos': ['positive'], 'noun': ['negative']}
+कट्टरपंथियों	{'noun': ['negative']}
+इच्छा	{'verb': ['positive'], 'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+आग्रह_करता_हूं	{'verb': ['positive']}
+खड़ा_था	{'verb': ['positive']}
+जबरन_वसूली	{'noun': ['negative']}
+अति_पीड़ा_देनेवाला	{'anypos': ['negative', 'ambiguous']}
+हार	{'noun': ['negative']}
+टालना	{'noun': ['negative']}
+पठनीय	{'anypos': ['positive']}
+मिरगी	{'noun': ['negative']}
+इस_कथन	{'adv': ['positive']}
+चाव_से	{'anypos': ['positive']}
+पस्त	{'adj': ['negative']}
+जाज_का	{'adj': ['negative']}
+विरोध_प्रदर्शन	{'noun': ['negative']}
+पवित्र	{'adj': ['positive']}
+लाभ	{'verb': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+चेतावनी	{'anypos': ['negative'], 'adj': ['neutral'], 'noun': ['negative']}
+आवरण	{'verb': ['ambiguous']}
+मनमाना	{'adj': ['negative']}
+सरलता	{'noun': ['negative']}
+जल्दबाजी_में	{'adj': ['negative']}
+लुंज	{'adj': ['positive']}
+इकबालिया	{'noun': ['negative']}
+नाकाफीता	{'noun': ['negative', 'ambiguous']}
+उत्तरदायी	{'adj': ['negative', 'ambiguous']}
+सम्मान_से	{'anypos': ['positive']}
+सामंजस्य	{'noun': ['positive']}
+अपकार	{'noun': ['negative']}
+डाही	{'adj': ['negative']}
+भावनाओं	{'anypos': ['positive'], 'noun': ['ambiguous', 'neutral']}
+अपरिभाषित	{'adj': ['negative', 'ambiguous']}
+ख़तरनाक	{'adj': ['negative']}
+सनातन	{'adj': ['negative']}
+दिव्य	{'anypos': ['positive']}
+शरारती	{'adj': ['negative', 'ambiguous']}
+अवनति_का	{'adj': ['negative', 'ambiguous']}
+संभावनाओं	{'noun': ['positive']}
+उत्पीड़कों	{'noun': ['negative']}
+शिष्टाचार	{'noun': ['positive']}
+ताज़ा	{'adj': ['positive']}
+क्षय	{'noun': ['negative']}
+अब_तक	{'anypos': ['neutral']}
+इसी_तरह	{'anypos': ['neutral']}
+विनय_से	{'adv': ['positive']}
+विरोधी	{'adj': ['negative'], 'noun': ['negative']}
+विस्थापित_करना	{'verb': ['positive']}
+बंटवारे	{'adj': ['negative']}
+उपेक्षा	{'noun': ['negative']}
+अधिकृत	{'adj': ['negative']}
+उपेक्षित	{'adj': ['negative']}
+दुखद_अंत	{'anypos': ['ambiguous']}
+बहुत_कष्ट_पहुंचाना	{'verb': ['positive']}
+कठपुतली	{'noun': ['negative']}
+स्वीकारोक्ति	{'noun': ['negative', 'ambiguous']}
+विकलता	{'noun': ['negative', 'ambiguous']}
+आग्रहपूर्वक	{'anypos': ['positive']}
+भयभीत	{'adj': ['negative'], 'noun': ['negative']}
+पर_प्रकाश_डाला	{'verb': ['positive']}
+विफल_हुआ	{'anypos': ['negative']}
+अस्पष्टीकृत	{'adj': ['negative', 'ambiguous']}
+इन्युएन्दो	{'noun': ['negative']}
+धुँधली	{'anypos': ['negative']}
+बुद्धिहीन_से	{'adv': ['negative']}
+समझौता_करना	{'verb': ['positive']}
+अस्थिर	{'adj': ['negative', 'ambiguous']}
+इरादा	{'verb': ['neutral'], 'noun': ['neutral']}
+जहाज़_की_तबाही	{'noun': ['negative', 'ambiguous']}
+योग्यता	{'verb': ['positive', 'ambiguous'], 'noun': ['positive']}
+आनंददायक	{'adv': ['positive']}
+से_ग्रस्त_मरीजों_को	{'noun': ['negative']}
+टीकाकार	{'noun': ['neutral']}
+प्रकोप	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+आत्मसम्मान	{'noun': ['positive']}
+कम_मूल्यांकन	{'adj': ['negative']}
+बढ़ावे	{'anypos': ['positive']}
+अन्य	{'anypos': ['neutral']}
+गुनगुन	{'verb': ['ambiguous']}
+संक्षिप्त	{'anypos': ['positive'], 'adj': ['negative']}
+रुख	{'noun': ['neutral']}
+पुष्टि	{'anypos': ['positive']}
+युवा	{'adj': ['positive', 'ambiguous'], 'noun': ['positive']}
+चतुरता	{'anypos': ['positive']}
+निर्दोष	{'adj': ['negative']}
+खुशी_की_बात	{'adj': ['positive']}
+होनहार	{'adj': ['positive']}
+शांति_सैनिकों	{'noun': ['positive']}
+नवाचार	{'noun': ['positive']}
+प्रमोद	{'noun': ['positive']}
+अनुपस्थित_रहने	{'adj': ['negative']}
+याद_करना	{'verb': ['positive']}
+लाभार्थी	{'noun': ['negative']}
+अनैच्छिक	{'adj': ['negative']}
+महिमा	{'verb': ['positive'], 'noun': ['positive']}
+जानकार	{'adj': ['positive'], 'anypos': ['positive'], 'noun': ['neutral']}
+प्रदूषण	{'noun': ['negative']}
+खुदाई	{'verb': ['positive']}
+पुनरुद्धार	{'noun': ['positive']}
+मनचला	{'anypos': ['positive']}
+स्वभाग्यनिर्णय	{'noun': ['positive']}
+समन्वय	{'noun': ['positive']}
+खांसने	{'anypos': ['positive']}
+गुस्सा_दिलाती	{'anypos': ['negative']}
+तुच्छ_चीज़_करना	{'verb': ['ambiguous']}
+शूकरशाला	{'noun': ['negative']}
+मूल्यों	{'noun': ['positive']}
+अचूकता	{'noun': ['negative']}
+मांदा	{'anypos': ['negative']}
+खबरदार	{'verb': ['positive']}
+बेस्वाद	{'adj': ['negative']}
+अमोघ	{'adj': ['negative']}
+शमन_करना	{'verb': ['positive']}
+आदर	{'verb': ['positive'], 'adv': ['positive']}
+निष्ठुर	{'adj': ['negative', 'ambiguous']}
+हक्का-बक्का_करना	{'verb': ['ambiguous']}
+पछतावा_करने_योग्य	{'anypos': ['ambiguous']}
+ट्रिम	{'adj': ['positive']}
+बावला	{'adj': ['negative']}
+यात्रा	{'verb': ['positive']}
+अनुमेय	{'adj': ['positive']}
+निराकरण	{'noun': ['negative']}
+समर्थक_बीजिंग	{'noun': ['positive']}
+भयग्रस्त	{'adj': ['negative']}
+सूक्ष्मता	{'adj': ['positive']}
+स्मार्ट	{'verb': ['positive']}
+मनाना	{'verb': ['positive']}
+आलोचक	{'noun': ['negative']}
+अभिशाप	{'verb': ['ambiguous']}
+आलिंगन	{'verb': ['positive'], 'noun': ['positive']}
+महत्त्वाकांक्षी	{'noun': ['positive', 'ambiguous']}
+परोपकार_के_सिद्धन्त_का	{'noun': ['positive']}
+लुभाना	{'verb': ['positive']}
+चुनाव	{'adj': ['positive']}
+गूंज	{'anypos': ['negative']}
+वीटो	{'noun': ['negative']}
+एहतियात	{'noun': ['negative']}
+शैतान	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+प्रशंसित	{'adj': ['positive']}
+अहंकार_से	{'adv': ['negative']}
+स्थिर	{'verb': ['positive'], 'anypos': ['positive'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+अभिनंदन_करना	{'verb': ['positive']}
+धीर	{'adj': ['positive', 'ambiguous']}
+हताश	{'adj': ['negative']}
+अनिवार्य	{'adj': ['neutral']}
+हानि_पहुँचाता	{'noun': ['negative']}
+गर्मजोशी_से	{'adj': ['positive']}
+सुनसार_जंगल	{'anypos': ['negative']}
+अव्यवस्थित	{'adj': ['negative']}
+सूखना	{'verb': ['ambiguous']}
+आपत्तिजनक	{'anypos': ['negative'], 'adj': ['negative']}
+नाराज	{'adj': ['negative']}
+प्रकट	{'adj': ['positive']}
+की_आलोचना	{'anypos': ['negative']}
+संवारना	{'verb': ['positive']}
+व्यंगपूर्ण	{'adj': ['negative']}
+प्रवेश	{'verb': ['positive'], 'noun': ['positive']}
+दया_करनेवाला	{'adj': ['negative']}
+जिसे_उपयुक्त	{'adv': ['positive']}
+सुख	{'noun': ['positive']}
+सरल_बनाने	{'anypos': ['positive']}
+कुरूपता	{'noun': ['negative', 'ambiguous']}
+सौहार्दपूर्वक	{'anypos': ['positive']}
+बेदर्दी	{'noun': ['negative', 'ambiguous']}
+राक्षस	{'noun': ['negative']}
+असाध्य	{'adj': ['negative', 'ambiguous']}
+मिठास	{'noun': ['positive']}
+उन्मूलन	{'noun': ['negative']}
+उत्कृष्टता	{'noun': ['positive']}
+सुखवादी	{'adj': ['negative']}
+असंभावना_से	{'adv': ['negative']}
+सही	{'verb': ['positive'], 'anypos': ['negative']}
+प्रभा	{'verb': ['positive']}
+प्रासंगिक	{'adj': ['positive']}
+गिरावट	{'noun': ['negative']}
+कष्टदायक	{'adj': ['negative', 'ambiguous']}
+कमजोर	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+अल्ट्रा_कट्टर	{'noun': ['negative']}
+स्पर्श	{'verb': ['ambiguous', 'neutral']}
+भोला	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous']}
+दुराचार	{'noun': ['negative', 'ambiguous']}
+दूसरों_के_साथ_साझा	{'noun': ['negative']}
+बहादुर	{'verb': ['positive'], 'adj': ['positive']}
+स्वामी	{'noun': ['positive']}
+जंगी	{'adj': ['negative']}
+ललकार	{'noun': ['negative', 'ambiguous']}
+भविष्य	{'adj': ['positive'], 'anypos': ['positive']}
+सुंदर_ढंग_से	{'adv': ['positive']}
+झटका	{'verb': ['ambiguous'], 'noun': ['negative']}
+तड़प	{'noun': ['positive']}
+विचारशील	{'adj': ['positive', 'ambiguous'], 'noun': ['positive']}
+सरपरस्ती	{'noun': ['positive', 'ambiguous']}
+दुर्व्यवहार	{'noun': ['negative', 'ambiguous']}
+पीलिया	{'verb': ['positive']}
+गुदगुदी	{'verb': ['positive', 'ambiguous']}
+उपयोगिता	{'adj': ['ambiguous'], 'noun': ['positive']}
+सतत	{'noun': ['positive']}
+डर	{'verb': ['ambiguous'], 'adj': ['negative'], 'noun': ['negative']}
+दूरंदेश	{'adj': ['positive']}
+चिकनाई	{'noun': ['negative']}
+मतभेद	{'noun': ['negative', 'ambiguous']}
+बेमेल	{'adj': ['negative', 'ambiguous']}
+अहिंसक	{'adj': ['neutral']}
+अत्यधिक	{'adj': ['ambiguous', 'neutral'], 'anypos': ['ambiguous']}
+सरल_या_सुबोध	{'adv': ['positive']}
+कला_की_अवस्था	{'anypos': ['positive']}
+शार्क	{'noun': ['negative']}
+कर्कश_ध्वनी	{'adv': ['negative']}
+कृतध्नता	{'noun': ['negative', 'ambiguous']}
+शुद्ध_करना	{'verb': ['positive']}
+रियायतें	{'noun': ['negative']}
+कम_कीमत	{'adj': ['positive'], 'anypos': ['positive']}
+अनुकरण_करना	{'verb': ['positive']}
+सफल_रहा	{'anypos': ['positive']}
+बेकार	{'verb': ['positive'], 'adv': ['negative'], 'adj': ['negative', 'ambiguous']}
+उठाना	{'verb': ['positive']}
+जीवित_रहने_के	{'verb': ['positive']}
+पहेली	{'noun': ['negative']}
+संपूर्णता	{'noun': ['positive']}
+स्थान_लेने_योग्य	{'anypos': ['positive']}
+अनियमितता	{'noun': ['negative']}
+बहाल	{'verb': ['positive'], 'anypos': ['positive']}
+समधान_के_अयोग्य	{'adj': ['negative']}
+परिप्रेक्ष्य	{'noun': ['neutral']}
+दलित_व्यक्ति	{'noun': ['negative']}
+अचल	{'adj': ['negative']}
+सुविधा_संपन्न	{'anypos': ['positive']}
+अपरिमेय	{'adj': ['negative']}
+पर्याप्त	{'adv': ['positive'], 'adj': ['positive', 'ambiguous'], 'anypos': ['neutral']}
+बढ़ना	{'verb': ['positive']}
+दोस्तानीवाला	{'noun': ['positive', 'ambiguous']}
+दुर्लभ	{'adj': ['negative']}
+रोष	{'noun': ['negative', 'ambiguous']}
+बौना	{'noun': ['negative']}
+हावी	{'anypos': ['positive'], 'adj': ['negative']}
+उथल-पुथल	{'noun': ['negative']}
+पागलपन	{'anypos': ['ambiguous'], 'noun': ['negative', 'ambiguous']}
+क्रोधी	{'adj': ['negative'], 'noun': ['negative']}
+मनमौजी	{'anypos': ['positive', 'ambiguous']}
+खतरों	{'noun': ['negative']}
+से_इनकार	{'verb': ['positive']}
+आश्वासनों	{'noun': ['positive']}
+ग़लतफ़हमी	{'anypos': ['ambiguous']}
+बहादुरी	{'anypos': ['positive']}
+गपशप	{'verb': ['ambiguous']}
+क्रांतिकारी_बदलाव	{'anypos': ['positive']}
+सुनने_में	{'anypos': ['positive']}
+दुर्घटनाग्रस्त_हो_गया	{'anypos': ['negative']}
+रोग	{'noun': ['negative', 'ambiguous']}
+आउटलुक	{'noun': ['neutral']}
+आदर्शवाद	{'noun': ['positive']}
+उकेरी	{'adj': ['negative']}
+हृदयहीनता	{'anypos': ['positive']}
+सील	{'adj': ['positive']}
+भरोसा	{'verb': ['positive'], 'anypos': ['positive', 'ambiguous']}
+धोखा_दिया	{'anypos': ['negative']}
+आगे	{'anypos': ['neutral'], 'noun': ['positive']}
+प्रतिशोध	{'noun': ['negative']}
+संदिग्ध	{'verb': ['positive'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+निगलना	{'verb': ['positive']}
+बार_बार_दुहराना	{'verb': ['neutral']}
+अनुराग	{'noun': ['positive', 'ambiguous']}
+धोखा_देता_है	{'anypos': ['negative']}
+मामूली	{'adj': ['negative']}
+असंवेदनशीलता	{'noun': ['negative', 'ambiguous']}
+उपाय_कुशल	{'adj': ['positive', 'ambiguous']}
+लड़ाई-लाइनों	{'noun': ['negative']}
+मुनासिब	{'adj': ['positive']}
+रिक्तिपूर्व	{'adj': ['positive']}
+शातिदायक_होना	{'noun': ['ambiguous']}
+चिंताजनक	{'anypos': ['negative', 'ambiguous'], 'adj': ['negative']}
+महामारी	{'adj': ['negative']}
+आलीशान	{'adj': ['positive', 'ambiguous']}
+मुट्ठी	{'noun': ['negative']}
+अतिवाद	{'noun': ['negative']}
+विरासत	{'noun': ['neutral']}
+कठपुतलियों	{'noun': ['negative']}
+कमियां	{'noun': ['negative']}
+आनन्द	{'anypos': ['positive']}
+दंड	{'noun': ['negative']}
+शुक्रिया	{'noun': ['positive']}
+को_प्रेरित	{'verb': ['positive']}
+पराया	{'adj': ['negative'], 'noun': ['negative']}
+कर्कश	{'adj': ['negative', 'ambiguous']}
+पहल	{'noun': ['neutral']}
+हरकत	{'noun': ['negative']}
+व्यंग्य	{'adv': ['negative'], 'anypos': ['negative', 'ambiguous']}
+मिलावट_करना	{'verb': ['positive']}
+परदारगमन_का	{'adj': ['negative', 'ambiguous']}
+बिना_गलती_किए	{'adv': ['positive']}
+जीवित	{'adj': ['negative']}
+तंग	{'adj': ['negative']}
+सराहनीय	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+आवश्यकताओं	{'noun': ['neutral']}
+जेहादी	{'noun': ['positive']}
+अप्रत्याशित_लाभ	{'anypos': ['positive']}
+रवैया	{'noun': ['neutral']}
+टिंट	{'verb': ['neutral']}
+आनंदित_होना	{'verb': ['positive']}
+रिक्त	{'adj': ['positive']}
+समस्याओं	{'noun': ['negative']}
+प्रदर्शन	{'anypos': ['neutral']}
+उत्साहवर्धक	{'noun': ['positive', 'ambiguous']}
+संविधानों	{'noun': ['neutral']}
+डींग_मारनेवाला	{'noun': ['negative']}
+मजबूत_से_भी_उम्मीद_की	{'adj': ['neutral']}
+शिक्षाप्रद	{'adj': ['positive']}
+समझना	{'verb': ['neutral']}
+पहुँच_से_बाहर	{'anypos': ['positive']}
+अस्थिरता	{'adj': ['negative'], 'noun': ['negative', 'ambiguous']}
+उन्माद	{'adj': ['positive'], 'anypos': ['ambiguous'], 'noun': ['negative']}
+उत्सव	{'adj': ['positive', 'ambiguous'], 'noun': ['positive', 'ambiguous']}
+प्लास्टर	{'verb': ['positive']}
+मलाल	{'noun': ['negative']}
+छोड़ना	{'verb': ['positive']}
+भक्ति	{'noun': ['positive']}
+झल्लाहट	{'verb': ['ambiguous']}
+स्क्वाश	{'verb': ['positive']}
+प्रेरित_करना	{'verb': ['neutral']}
+क्रुद्ध	{'adj': ['negative', 'ambiguous']}
+पहले_से_न_सोचा	{'adj': ['negative', 'ambiguous']}
+उम्मीद_से_बेहतर	{'adj': ['positive']}
+तृष्णा	{'noun': ['positive']}
+योग्य	{'adj': ['positive']}
+झागदार	{'adj': ['negative']}
+आशंका_करना	{'verb': ['ambiguous', 'neutral']}
+मोहक	{'adj': ['positive'], 'anypos': ['positive']}
+चमत्कारिक	{'anypos': ['positive', 'ambiguous']}
+प्राप्त_की	{'anypos': ['positive']}
+अन्यायी	{'adj': ['negative', 'ambiguous']}
+तगड़ा	{'adj': ['positive', 'ambiguous']}
+अपव्ययिता	{'noun': ['negative']}
+ट्रॉफी	{'anypos': ['positive']}
+ज्वाला	{'noun': ['ambiguous']}
+संत	{'noun': ['positive']}
+से_सम्मानित_किया	{'anypos': ['positive']}
+बांटनेवाला	{'adj': ['negative']}
+प्यार	{'verb': ['positive']}
+ख़ुशी_से	{'adv': ['positive'], 'adj': ['positive', 'ambiguous']}
+अल्प	{'adj': ['negative']}
+छलांग	{'verb': ['positive']}
+उपभोग	{'verb': ['ambiguous']}
+बेहद	{'adv': ['negative'], 'anypos': ['neutral']}
+मातहती	{'noun': ['negative']}
+बयाना	{'adj': ['positive']}
+तीक्ष्णता	{'noun': ['negative']}
+शांति	{'noun': ['positive', 'ambiguous']}
+कम_महंगा	{'adj': ['positive']}
+नाली	{'verb': ['positive'], 'noun': ['negative']}
+अच्छी_तरह_से_चलाने	{'adj': ['positive']}
+ज़ंग_खाया_हुआ	{'adj': ['negative', 'ambiguous']}
+गलत_तरीके_से	{'adv': ['negative'], 'anypos': ['positive'], 'adj': ['negative']}
+अंधाधुंध	{'adv': ['negative']}
+अभी_तक	{'adv': ['negative']}
+तेजस्वी	{'adj': ['negative']}
+नागरिक	{'adj': ['positive']}
+हस्तक्षेप	{'noun': ['negative']}
+बोझिल	{'adj': ['negative', 'ambiguous']}
+विडंबना_यह_है_कि	{'adv': ['negative']}
+हड़पनेवाला	{'noun': ['negative']}
+भेद_का	{'adj': ['negative', 'ambiguous']}
+निर्णयात्मक	{'adj': ['positive']}
+व्यग्र	{'adj': ['negative']}
+अनुपस्थित_होनेवाला	{'anypos': ['negative']}
+पॉलिश	{'adj': ['positive']}
+गरमी	{'noun': ['positive']}
+अस्वाभाविक	{'adj': ['positive', 'ambiguous']}
+बदतमीजी	{'noun': ['negative', 'ambiguous']}
+झूठ_बोलना	{'verb': ['positive']}
+प्रभावहीनता	{'noun': ['negative', 'ambiguous']}
+मिलाप_करनेवाला	{'adj': ['positive', 'ambiguous']}
+स्र्द्ध	{'adj': ['positive']}
+मृत्यु	{'noun': ['negative']}
+मामला	{'verb': ['neutral']}
+खेलों	{'anypos': ['negative']}
+भटकनेवाला	{'adj': ['negative', 'ambiguous']}
+नोस्ट्रम	{'noun': ['negative']}
+इस_बात_को_दोहराया	{'noun': ['neutral']}
+प्रभावशाली	{'adj': ['positive'], 'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+छलरचना	{'noun': ['negative']}
+प्रतिपक्षी	{'noun': ['negative']}
+मूर्ख	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous'], 'noun': ['positive']}
+दाहक	{'adj': ['negative']}
+झगड़े_का	{'anypos': ['ambiguous']}
+सामग्री	{'verb': ['positive']}
+पराक्रम_से	{'anypos': ['positive']}
+जल्दी	{'noun': ['negative']}
+अप्रतिबंधित	{'adj': ['negative']}
+हिंसात्मक	{'adj': ['negative', 'ambiguous']}
+गीत	{'noun': ['neutral']}
+बेहूदापन	{'noun': ['negative', 'ambiguous']}
+जादा_देर_तक_टिके	{'anypos': ['positive']}
+विशेष_रूप_से	{'adv': ['neutral'], 'anypos': ['neutral']}
+पार_कर	{'anypos': ['positive']}
+रोगी	{'adj': ['negative'], 'noun': ['positive']}
+स्पृहणीयतापूर्वक	{'anypos': ['positive', 'ambiguous']}
+बिलकुल	{'adv': ['negative'], 'anypos': ['positive']}
+दुर्भावना_से	{'anypos': ['positive']}
+DRAGEE	{'noun': ['positive']}
+रोबदार	{'adj': ['negative', 'ambiguous']}
+पास	{'verb': ['positive']}
+इसरो	{'adv': ['negative']}
+आत्मसंतोष	{'noun': ['positive', 'ambiguous']}
+वक्रपटुता	{'noun': ['negative']}
+उल्लास	{'verb': ['positive'], 'noun': ['negative']}
+संतुलित	{'adj': ['positive']}
+बहशीपन	{'noun': ['negative', 'ambiguous']}
+सूका_रोगी	{'adj': ['negative']}
+आशाहीन	{'adj': ['negative', 'ambiguous']}
+निराशा	{'verb': ['positive'], 'adv': ['negative'], 'adj': ['positive'], 'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+शिष्ट	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+अपयश	{'verb': ['ambiguous']}
+घुमाव	{'noun': ['ambiguous']}
+बधाई_हो	{'noun': ['positive']}
+पूरे_दिल_से	{'anypos': ['positive']}
+रेला	{'noun': ['positive']}
+अपर्याप्त	{'adv': ['negative'], 'adj': ['negative']}
+वैष्णव	{'noun': ['negative']}
+अदृश्य	{'adj': ['ambiguous', 'neutral']}
+ध्यान_में_रखते	{'noun': ['neutral']}
+रोकना	{'verb': ['ambiguous']}
+आगे_बढ़ना	{'verb': ['positive']}
+आराधना_करना	{'verb': ['neutral']}
+नाखुशी_से	{'adv': ['negative', 'ambiguous']}
+तमीज़दार	{'anypos': ['positive']}
+निर्वासित	{'noun': ['negative']}
+मजाकिया	{'adj': ['positive']}
+वांछनीय	{'adj': ['positive']}
+डींगवाला	{'noun': ['negative']}
+केम्प	{'adj': ['positive']}
+अंधेरा	{'adj': ['negative'], 'noun': ['negative']}
+लगता_है	{'verb': ['neutral'], 'anypos': ['neutral']}
+सामान्य_बुद्धि	{'adj': ['positive']}
+हार्ड_लाइनर	{'noun': ['negative']}
+रहस्यमय_नहीं_रखना	{'verb': ['positive']}
+भ्रम_की_स्थिति	{'noun': ['negative']}
+गिर_गया	{'adj': ['negative']}
+परिपक्वता	{'noun': ['positive']}
+परिणाम_निकालना	{'verb': ['neutral']}
+हठ	{'adv': ['negative'], 'anypos': ['positive'], 'noun': ['neutral']}
+असंयमिता	{'noun': ['negative']}
+अपंग	{'anypos': ['negative']}
+सीधा	{'adj': ['negative', 'ambiguous']}
+अपमान	{'verb': ['ambiguous'], 'anypos': ['negative'], 'noun': ['negative', 'ambiguous']}
+असफलता	{'noun': ['negative']}
+छली	{'verb': ['ambiguous']}
+खेद	{'adj': ['negative']}
+अनुतापी	{'adj': ['negative']}
+निरापद	{'adj': ['positive', 'ambiguous']}
+मर्मभेदी	{'adj': ['negative']}
+सुलझाना	{'verb': ['positive']}
+बदतर	{'adj': ['negative', 'ambiguous']}
+असमर्थनीय	{'noun': ['negative']}
+आज्ञा_न_माननेवाला	{'adj': ['negative']}
+समायोज्य	{'anypos': ['positive']}
+बलि	{'adj': ['negative']}
+कंपन	{'noun': ['positive']}
+ईश-निंदा	{'noun': ['negative', 'ambiguous']}
+किसी_भी_तरह	{'anypos': ['neutral']}
+अन्याय	{'adv': ['negative'], 'anypos': ['positive'], 'noun': ['negative']}
+बेआबरू	{'adj': ['negative']}
+कल्पित	{'adj': ['negative']}
+मुमकिन_है	{'anypos': ['neutral']}
+युद्ध_की_तरह	{'noun': ['negative']}
+ट्रिपल	{'noun': ['positive']}
+अर्थपूर्ण	{'adj': ['positive'], 'noun': ['positive']}
+दबाव_का_चिह्न	{'verb': ['neutral']}
+क्लीनर	{'anypos': ['positive']}
+भावी_पीढ़ी	{'noun': ['positive']}
+को_खत्म	{'verb': ['positive']}
+सुगम	{'adj': ['negative']}
+गड़बड़	{'verb': ['ambiguous'], 'noun': ['negative']}
+अकड़	{'verb': ['ambiguous'], 'noun': ['negative']}
+अथक	{'adj': ['negative']}
+एक_तरफ	{'adj': ['negative']}
+धारणाओं	{'noun': ['neutral']}
+सुरसुराहट	{'noun': ['negative']}
+शेख़ी	{'verb': ['ambiguous']}
+साबित_होता_है	{'anypos': ['positive']}
+राक्षसी	{'adj': ['negative', 'ambiguous']}
+गरमी_से	{'adv': ['positive']}
+कसौटी	{'verb': ['positive']}
+हठधर्मी	{'noun': ['negative', 'ambiguous']}
+सुसंगत	{'adj': ['positive']}
+अप्रसिद्ध	{'adj': ['negative', 'ambiguous']}
+विद्युतीकरण	{'noun': ['positive']}
+गलती_से_मुक्त	{'anypos': ['positive']}
+अप्रभावी	{'adj': ['negative', 'ambiguous']}
+आरामपसंद	{'adj': ['negative']}
+कलह_की_इच्छा	{'noun': ['negative']}
+पराक्रम	{'noun': ['positive']}
+प्रतिष्ठित	{'adj': ['positive']}
+पुतला	{'noun': ['negative']}
+संगी	{'adj': ['positive']}
+कायाकल्प	{'anypos': ['positive']}
+भाग_जाओ	{'verb': ['ambiguous']}
+गंधक	{'noun': ['negative']}
+प्रभावी_लागत	{'adj': ['positive']}
+धाराप्रवाह	{'adj': ['negative']}
+मंदा	{'adj': ['negative', 'ambiguous']}
+फिसलनदार	{'adj': ['negative', 'ambiguous']}
+ठंड	{'adj': ['negative']}
+आकांक्षा	{'noun': ['positive', 'ambiguous']}
+खुश	{'adj': ['positive'], 'anypos': ['positive']}
+सनक	{'noun': ['negative', 'ambiguous']}
+प्राकृतिक	{'adj': ['positive', 'ambiguous']}
+एक	{'adj': ['negative']}
+घृणापूर्ण	{'adj': ['negative', 'ambiguous']}
+बेजा	{'adj': ['negative']}
+परित्याग	{'noun': ['negative']}
+वाणी	{'verb': ['positive']}
+डेमोक्रेटिक	{'adj': ['positive']}
+बेहोश	{'adj': ['negative']}
+समयनिष्ठ	{'adj': ['positive']}
+विस्तृत_रूप_से	{'adv': ['positive']}
+वीर	{'adj': ['positive'], 'anypos': ['positive']}
+पुन:_पुष्टि	{'noun': ['positive']}
+भीषण	{'anypos': ['positive', 'ambiguous'], 'adj': ['negative']}
+विक्रेय	{'adj': ['positive']}
+गंधहीन	{'adj': ['negative']}
+स्वागत	{'verb': ['positive']}
+न_सहने_योग्य	{'adj': ['negative']}
+अपरिहार्य	{'adj': ['positive'], 'noun': ['negative']}
+व्यंग्यमिश्रित	{'anypos': ['ambiguous']}
+कुशाग्रता	{'noun': ['positive']}
+लौकिक	{'adj': ['negative']}
+पुण्य	{'adj': ['positive']}
+वैभवशाली	{'adj': ['positive']}
+स्वभाव	{'noun': ['neutral']}
+बस्ट	{'anypos': ['negative']}
+कलह	{'anypos': ['negative'], 'noun': ['negative']}
+देख_लेना	{'verb': ['neutral']}
+गिनती	{'verb': ['positive']}
+चौंकाने_वाला	{'adj': ['negative', 'ambiguous']}
+अनुसार	{'noun': ['negative']}
+कातरता	{'noun': ['negative']}
+नई	{'adj': ['positive']}
+छिपना	{'verb': ['positive']}
+गंवार	{'adj': ['negative', 'ambiguous']}
+आपस_में	{'adv': ['positive']}
+प्रयुक्त	{'adj': ['positive']}
+अमानवीय	{'adj': ['negative']}
+फेनिल	{'adj': ['negative']}
+धक्कों	{'anypos': ['negative']}
+खाई	{'noun': ['neutral']}
+बेसुध	{'adj': ['negative', 'ambiguous']}
+विशेष	{'adj': ['neutral'], 'noun': ['positive']}
+आश्चर्य_की_बात_है	{'anypos': ['neutral']}
+स्वस्थ_हो_जाना	{'verb': ['positive']}
+प्रफुल्लता	{'noun': ['positive']}
+अकर्मण्य	{'adj': ['negative']}
+मधुर	{'adj': ['positive']}
+नियत_कर_देना	{'verb': ['positive']}
+हिमस्खलन	{'noun': ['negative']}
+पूरा_खुला	{'adj': ['positive']}
+नाकाफी	{'adj': ['negative', 'ambiguous']}
+अनिश्चितता_के_बादल	{'adv': ['negative']}
+जटिल	{'adj': ['negative', 'ambiguous']}
+स्वेच्छा_से	{'adv': ['positive'], 'anypos': ['positive']}
+शंकित	{'adj': ['negative', 'ambiguous']}
+रद्दी	{'adj': ['negative']}
+निंदा	{'anypos': ['negative'], 'noun': ['negative']}
+डमी_सबूत	{'anypos': ['positive']}
+मायावी	{'adj': ['ambiguous']}
+आतंक	{'noun': ['negative', 'ambiguous']}
+गैरपरिरूद्ध	{'adj': ['positive']}
+फजी	{'adj': ['negative', 'ambiguous']}
+कर्ज_उतारने	{'noun': ['negative']}
+भूलों	{'anypos': ['negative']}
+गलतियों	{'noun': ['negative']}
+अप्रसन्नता	{'noun': ['negative', 'ambiguous']}
+लगाना	{'verb': ['neutral']}
+सबसे_ऊपर_है	{'anypos': ['positive']}
+शोक	{'noun': ['negative']}
+अभिमानी	{'anypos': ['negative', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+कंफ़ेसर	{'noun': ['negative']}
+बढ़ाना	{'verb': ['neutral']}
+विनयशील	{'adj': ['positive']}
+फटा	{'adj': ['positive'], 'anypos': ['negative']}
+बी_एस	{'anypos': ['negative']}
+वैश्विक	{'adj': ['positive']}
+विशाल_चीज़	{'noun': ['negative']}
+संकीर्ण	{'adj': ['negative']}
+आत्मा	{'noun': ['positive']}
+बड़े_करीने	{'adv': ['negative']}
+हार्डबॉल	{'noun': ['negative']}
+मादा_का	{'adj': ['negative', 'ambiguous']}
+दृढ़ता_से	{'adv': ['neutral']}
+को_समझाने	{'verb': ['positive']}
+आदिम	{'adj': ['positive'], 'noun': ['negative']}
+दिली	{'adj': ['positive']}
+सिद्धांत_बनाना	{'verb': ['positive']}
+पुनर्जीवित	{'verb': ['positive']}
+ऊंचा_नीचा	{'adj': ['negative', 'ambiguous']}
+वीरता	{'noun': ['positive', 'ambiguous']}
+मजबूत	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+प्रतिबद्धता	{'noun': ['positive']}
+उद्धत	{'adj': ['negative']}
+सुधारों	{'anypos': ['positive']}
+जातिवाद	{'noun': ['negative']}
+दानशील	{'adj': ['negative'], 'noun': ['positive', 'ambiguous']}
+विसंगतियों	{'noun': ['negative']}
+बेहतरीन	{'anypos': ['positive']}
+दुर्जेय	{'adj': ['negative']}
+मरम्मत	{'verb': ['positive'], 'noun': ['negative']}
+काफी_हद_तक	{'adv': ['neutral']}
+मा	{'noun': ['positive']}
+ज्ञान	{'anypos': ['neutral'], 'noun': ['neutral']}
+सर्द	{'adj': ['negative']}
+नाज	{'verb': ['positive', 'ambiguous']}
+सनकी	{'adj': ['positive']}
+चर्चा_हुई	{'anypos': ['negative']}
+बेतुका	{'adj': ['negative', 'ambiguous']}
+के_अतिरिक्त	{'anypos': ['neutral']}
+व्यक्तित्व	{'noun': ['negative']}
+सामंजस्यपूर्ण	{'adj': ['positive']}
+मुश्किल	{'anypos': ['positive'], 'noun': ['negative']}
+स्पष्टता	{'adj': ['positive', 'ambiguous']}
+आदत	{'noun': ['negative']}
+सूना	{'adj': ['negative']}
+भड़ौआ	{'verb': ['ambiguous']}
+कम_होनेवाला	{'adj': ['negative']}
+विलक्षण	{'anypos': ['positive', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+नायिका	{'noun': ['positive']}
+निपुण	{'adj': ['positive', 'ambiguous'], 'noun': ['positive']}
+अहंकार	{'anypos': ['negative'], 'noun': ['negative', 'ambiguous']}
+नाज़ुक	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+गर्मजोशी	{'noun': ['positive', 'ambiguous']}
+रक्तरंजित	{'adj': ['negative']}
+संभवतः	{'anypos': ['neutral']}
+चांदी-जैसा	{'adj': ['negative']}
+चूहा	{'noun': ['negative']}
+वज़नी	{'adj': ['negative']}
+योग्य_समझना	{'verb': ['positive']}
+ठीक_ढंग_से_प्राप्त	{'adj': ['positive']}
+मूल्यांकन_करनेवाला	{'anypos': ['positive']}
+मिलाप_करना	{'verb': ['positive']}
+तसलीम	{'noun': ['negative']}
+अवज्ञा_का	{'adj': ['negative']}
+अल्पज्ञात	{'adj': ['negative']}
+अभागी	{'adj': ['negative', 'ambiguous']}
+ओवरचर	{'noun': ['positive', 'ambiguous']}
+नास्तिकता	{'noun': ['negative']}
+कटुता	{'noun': ['negative', 'ambiguous']}
+कृत्रिम	{'adj': ['negative']}
+असाधारण	{'anypos': ['positive', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+अलबेला	{'adj': ['positive']}
+आपत्ति	{'noun': ['negative']}
+प्रसिद्ध	{'adj': ['negative', 'ambiguous'], 'noun': ['positive']}
+उपजाऊ	{'noun': ['positive']}
+मशहूर	{'adj': ['positive']}
+बधिया	{'anypos': ['negative']}
+शिकायत_की	{'anypos': ['negative']}
+चापलूसी_नहीं	{'adj': ['negative']}
+विशेषाधिकार	{'noun': ['positive']}
+ज़हर	{'noun': ['negative']}
+प्रयास_करता_है	{'noun': ['positive']}
+आरोप_लगा	{'anypos': ['negative']}
+परिणाम_हुये	{'anypos': ['positive']}
+घुसपैठ	{'adj': ['negative', 'ambiguous']}
+चुस्त	{'adj': ['positive']}
+पीठ_में_दर्द	{'anypos': ['negative']}
+रसीला	{'adj': ['positive', 'ambiguous']}
+युक्तिपूर्वक	{'anypos': ['positive']}
+राल_निकालना	{'verb': ['positive']}
+वैसे_भी	{'anypos': ['neutral']}
+सांसारिक	{'adj': ['negative']}
+गंभीरतापूर्वक	{'anypos': ['positive']}
+चकाचौंध	{'verb': ['positive'], 'anypos': ['negative', 'ambiguous']}
+फंसाना	{'verb': ['positive']}
+प्रभाव	{'noun': ['neutral']}
+गप्पी	{'anypos': ['negative']}
+जानता_था	{'verb': ['neutral']}
+गुरु	{'noun': ['positive']}
+विनम्रता	{'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+तत्परता	{'noun': ['ambiguous', 'neutral']}
+रक्षा	{'verb': ['positive'], 'noun': ['negative']}
+स्वैच्छिक	{'adj': ['positive']}
+स्वीकार	{'noun': ['positive']}
+अक्षय	{'adj': ['neutral']}
+नेमसिस	{'noun': ['negative']}
+धनी	{'adj': ['negative']}
+अनुपात	{'verb': ['positive']}
+प्रधानता	{'noun': ['positive']}
+उत्तेजित_करना	{'verb': ['positive']}
+प्रदूषण_फैलाने	{'noun': ['negative']}
+व्यावहारिक	{'adj': ['positive'], 'anypos': ['positive']}
+जोरदार	{'anypos': ['positive']}
+मोचन	{'noun': ['negative']}
+हवा_भरा_हुआ	{'adj': ['negative']}
+विमुख	{'adj': ['negative']}
+आकस्मिकता	{'noun': ['positive']}
+श्रुत	{'anypos': ['positive']}
+नेक	{'adj': ['positive', 'ambiguous']}
+शब्दाडंबरपूर्ण	{'noun': ['negative', 'ambiguous']}
+अशिष्टता	{'noun': ['negative', 'ambiguous']}
+अंतर्विरोध	{'noun': ['negative']}
+आपदाओं	{'noun': ['negative']}
+आकर्षक_रूप	{'anypos': ['positive']}
+लालन-पालन_करना	{'verb': ['positive']}
+नाटकीय_ढंग_से	{'anypos': ['neutral']}
+शिथिल	{'adv': ['positive']}
+परास्त	{'noun': ['negative']}
+निवर्तमान	{'adj': ['positive']}
+असुरक्षा	{'noun': ['negative']}
+संतुष्टिदायक	{'anypos': ['positive']}
+सूअर	{'noun': ['negative']}
+अधिकार	{'noun': ['positive']}
+घनिष्ठता	{'noun': ['positive']}
+उजागर	{'adj': ['negative']}
+2_का_सामना_करना_पड़ा	{'anypos': ['negative']}
+लाभप्रद	{'adv': ['positive'], 'noun': ['positive']}
+नियमित	{'adj': ['positive']}
+संवेदनात्मक	{'anypos': ['positive']}
+प्रमुख	{'adj': ['ambiguous', 'neutral'], 'noun': ['neutral']}
+जानना	{'verb': ['ambiguous', 'neutral']}
+अनसुलझे	{'adj': ['negative', 'ambiguous']}
+विभाजनकारी	{'noun': ['negative']}
+हवादार	{'adj': ['negative']}
+सुनिश्चित	{'verb': ['positive']}
+जैसा	{'verb': ['positive']}
+भय_से	{'adv': ['negative'], 'anypos': ['negative']}
+माननीय	{'anypos': ['positive', 'ambiguous']}
+अनुकरण	{'noun': ['positive']}
+नरम	{'verb': ['positive'], 'anypos': ['positive'], 'adj': ['negative']}
+असावधानीपूर्ण	{'noun': ['negative', 'ambiguous']}
+मृतक	{'adj': ['negative']}
+आत्म_विनाशकारी	{'adj': ['negative']}
+युक्तिकरण	{'noun': ['positive']}
+मदद_की	{'anypos': ['positive']}
+कल्ला	{'anypos': ['negative']}
+स्वतंत्र	{'adj': ['positive']}
+टकरा	{'anypos': ['negative']}
+पंच	{'noun': ['negative']}
+बदमाश	{'anypos': ['negative'], 'noun': ['negative']}
+वमनकारी	{'adj': ['negative']}
+इरादों	{'noun': ['neutral']}
+स्पंदन	{'anypos': ['positive']}
+भ्रमित	{'verb': ['ambiguous'], 'anypos': ['negative']}
+शौक़ीन	{'anypos': ['positive']}
+आसक्ति	{'noun': ['negative']}
+बेशरम	{'adj': ['negative']}
+बारंबार	{'adj': ['neutral']}
+स्याना	{'adj': ['negative', 'ambiguous']}
+बेशर्म	{'adj': ['negative', 'ambiguous']}
+प्यार_बचाना	{'verb': ['positive']}
+साथ_दुर्व्यवहार	{'anypos': ['negative']}
+भौचक्का	{'adj': ['negative']}
+ज़रूरी	{'adj': ['positive']}
+विनोदपूर्ण	{'anypos': ['positive', 'ambiguous']}
+अंकुश	{'verb': ['ambiguous']}
+काल्पनिक	{'anypos': ['negative'], 'adj': ['negative']}
+ग़लत_बयान	{'noun': ['negative']}
+सुस्त	{'adj': ['neutral']}
+उपकारवाला	{'adj': ['positive']}
+महसूस_किया	{'verb': ['neutral']}
+छोटे_आकार_का	{'adj': ['negative']}
+धैर्यपूर्वक	{'adv': ['positive']}
+पुनस्र्त्थानशील	{'adj': ['positive']}
+धर्म	{'noun': ['positive', 'ambiguous']}
+एचएम	{'anypos': ['neutral']}
+नाबालिग	{'adj': ['neutral']}
+कपटी	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+सकारात्मक	{'adv': ['positive'], 'adj': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+स्वाभाविक_रूप_से	{'adv': ['positive']}
+ध्यान_केंद्रित	{'anypos': ['negative']}
+अच्छी_तरह_से	{'adv': ['positive'], 'anypos': ['positive']}
+खुलेपन	{'noun': ['negative']}
+ढीठ	{'adj': ['negative', 'ambiguous']}
+देखना	{'verb': ['positive'], 'anypos': ['neutral']}
+पहुंच_से_बाहर_का	{'adj': ['positive', 'ambiguous']}
+कमीनों	{'anypos': ['negative']}
+ग़ैरक़ानूनी	{'adj': ['negative']}
+बल	{'verb': ['ambiguous']}
+आपत्तियों	{'noun': ['negative']}
+सौम्य	{'adj': ['negative']}
+आवेगहीन	{'adj': ['positive', 'ambiguous']}
+पाशविक	{'adj': ['negative', 'ambiguous']}
+अद्वितीयता_से	{'adv': ['negative']}
+तकरार	{'noun': ['negative', 'ambiguous']}
+ढील	{'anypos': ['positive']}
+चंगा	{'verb': ['positive']}
+ओफ़्सेट	{'verb': ['positive']}
+प्रफुल्ल	{'adj': ['negative']}
+-बैक_लॉग_इन	{'anypos': ['negative']}
+क्र_ांतिकारी_परिवर्तन	{'anypos': ['positive']}
+सर्वशक्तिमान	{'adj': ['positive']}
+मूर्खतापूर्ण	{'anypos': ['positive']}
+ग़लती	{'noun': ['negative']}
+सशक्त	{'adj': ['negative']}
+सावधानी_से	{'adv': ['positive']}
+दिल_खोलकर	{'anypos': ['positive']}
+निद्य	{'adj': ['negative', 'ambiguous']}
+सौंदर्य	{'noun': ['positive']}
+अधिकतम	{'verb': ['positive'], 'adj': ['positive']}
+व्यवहार_कुशल	{'anypos': ['positive']}
+बेकल	{'adj': ['negative']}
+वापस	{'verb': ['positive']}
+धवलता	{'noun': ['positive']}
+कंघी_बनानेवाले_की_रेती	{'noun': ['positive']}
+सहानुभूति_रखना	{'verb': ['positive']}
+अनुभूति	{'verb': ['neutral']}
+बदसूरत	{'adj': ['negative', 'ambiguous']}
+पूजा	{'verb': ['positive', 'ambiguous']}
+अभद्र	{'adj': ['negative', 'ambiguous']}
+नुकसान	{'noun': ['negative', 'ambiguous']}
+अत्याचारी	{'adj': ['negative', 'ambiguous']}
+जलन	{'noun': ['negative']}
+एकजुटता	{'noun': ['positive', 'ambiguous']}
+सौहार्दपूर्ण_ढंग_से	{'adv': ['positive']}
+अति_सरलीकरण	{'noun': ['negative']}
+अस्वस्थ	{'adj': ['negative', 'ambiguous']}
+अचरज	{'verb': ['neutral'], 'anypos': ['positive']}
+निकास	{'verb': ['ambiguous']}
+आश्चर्यचकित	{'adj': ['positive', 'ambiguous']}
+रहित	{'adj': ['negative', 'ambiguous']}
+परस्पर_विरोधी	{'anypos': ['positive']}
+मूर्खता	{'anypos': ['positive', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+ध्यान_देने_योग्य	{'adj': ['positive'], 'noun': ['positive']}
+सूचक	{'noun': ['neutral']}
+सत्यवादिता	{'noun': ['positive', 'ambiguous']}
+जांच_का	{'adj': ['negative', 'ambiguous']}
+सहनशीलता	{'noun': ['negative']}
+पुनरास्थापन	{'noun': ['positive']}
+आचारभ्रष्टीकरण	{'noun': ['negative']}
+अभिनंदन	{'anypos': ['positive']}
+बेमिसाल	{'adj': ['negative', 'ambiguous']}
+स्मरणार्थ	{'adj': ['positive']}
+शान	{'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+अच्छी_तरह_गोल	{'anypos': ['positive']}
+विवादास्पद	{'adj': ['negative'], 'anypos': ['ambiguous'], 'noun': ['negative', 'ambiguous']}
+पक्षपात	{'verb': ['positive'], 'noun': ['negative']}
+उच्छृंखल	{'adj': ['negative', 'ambiguous']}
+घर_का_काम	{'noun': ['negative']}
+चुगली	{'anypos': ['negative'], 'noun': ['negative']}
+अच्छी_तरह_से_जुड़ा	{'adj': ['positive']}
+अभद्रता	{'noun': ['negative', 'ambiguous']}
+छल	{'verb': ['positive'], 'anypos': ['positive', 'ambiguous'], 'noun': ['negative']}
+नैतिकता	{'noun': ['positive', 'ambiguous']}
+समर्थक_क्यूबा	{'noun': ['positive']}
+निष्क्रिय	{'adj': ['negative'], 'noun': ['negative']}
+कानूनी	{'adj': ['positive']}
+विसंगत	{'adj': ['negative']}
+मुजरिम	{'adj': ['negative']}
+बहस	{'noun': ['negative']}
+पनीर_का	{'anypos': ['negative']}
+सबसे_खुशनसीब	{'anypos': ['positive']}
+संयम_से	{'adv': ['positive']}
+प्रतिरक्षा	{'adj': ['neutral']}
+खुदराय	{'adj': ['negative']}
+सहानुभूति_रहनेवाला	{'noun': ['negative']}
+थका_हुआ	{'adj': ['negative']}
+ख़ुशियां_मनानेवाला	{'anypos': ['positive']}
+अनोखा	{'anypos': ['positive', 'ambiguous'], 'adj': ['negative']}
+शांतिपूर्ण_ढंग_से	{'adv': ['positive']}
+सत्कार_करना	{'verb': ['positive']}
+चोट_के_निशान	{'anypos': ['negative']}
+निर्मल	{'adj': ['positive', 'ambiguous']}
+मूल्यांकन_करना	{'verb': ['neutral']}
+मंथन	{'verb': ['ambiguous']}
+तेज_धार	{'anypos': ['positive']}
+छेद	{'verb': ['positive'], 'noun': ['negative']}
+झाई	{'anypos': ['negative']}
+अभिलाषा	{'verb': ['positive']}
+एहसास	{'noun': ['neutral']}
+विस्फोटक	{'adj': ['negative']}
+आत्मीयता	{'noun': ['negative', 'ambiguous']}
+अनुविता	{'noun': ['negative', 'ambiguous']}
+महाकाव्य	{'adj': ['negative']}
+अनिश्चित	{'adv': ['negative'], 'adj': ['negative', 'ambiguous']}
+दंभी	{'adj': ['negative']}
+प्रमोटर	{'noun': ['positive']}
+घटिया_इंसान	{'noun': ['negative']}
+विविधता	{'anypos': ['positive']}
+प्रसन्नचित्त	{'adj': ['positive', 'ambiguous']}
+अभिसमय	{'noun': ['positive']}
+बीमा	{'noun': ['positive']}
+आंख_को_पकड़ने	{'anypos': ['positive']}
+करतब	{'noun': ['negative', 'ambiguous']}
+घपला	{'adj': ['negative']}
+अहसास	{'noun': ['neutral']}
+विरोधात्मक	{'adj': ['negative'], 'noun': ['negative']}
+मितव्ययी	{'adj': ['positive'], 'anypos': ['positive']}
+विध्वंसक	{'noun': ['negative']}
+आनंद	{'verb': ['positive'], 'anypos': ['positive', 'ambiguous'], 'noun': ['positive']}
+संभावना	{'adj': ['negative'], 'anypos': ['neutral'], 'noun': ['neutral']}
+मंद	{'anypos': ['ambiguous']}
+कुत्सित	{'anypos': ['positive']}
+बधाई_देना	{'verb': ['positive', 'ambiguous']}
+लपेटने	{'noun': ['negative']}
+मानना	{'verb': ['ambiguous', 'neutral'], 'anypos': ['neutral']}
+प्रतिष्ठा	{'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+अलगाव	{'noun': ['negative', 'ambiguous']}
+जादूगर	{'noun': ['negative']}
+निर्वासन	{'noun': ['negative']}
+जीवन	{'noun': ['positive']}
+सीमा	{'noun': ['negative']}
+शोर	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+निन्दा	{'noun': ['negative']}
+समानता	{'noun': ['negative']}
+सहने_योग्य	{'adj': ['positive']}
+साजिश	{'noun': ['negative']}
+हुर्रे	{'anypos': ['positive']}
+असमर्थता	{'noun': ['negative', 'ambiguous']}
+इसे_खारिज	{'noun': ['negative', 'ambiguous']}
+प्रथम_श्रेणी	{'adj': ['positive']}
+राइ	{'adj': ['positive']}
+धीरे	{'adv': ['positive']}
+दोषमुक्त_करना	{'verb': ['positive']}
+चिंताओं	{'noun': ['negative']}
+तार्किक	{'adj': ['positive']}
+अनावरण	{'noun': ['positive']}
+भुलक्कड़	{'adj': ['negative'], 'noun': ['negative', 'ambiguous']}
+सौभाग्य_से	{'adj': ['positive']}
+दान_देनेवाला	{'noun': ['positive']}
+बुद्धि	{'noun': ['positive']}
+अच्छी_तरह_से_स्थापित	{'adj': ['positive']}
+हर्जाना	{'anypos': ['negative']}
+उथल-पुथल_भरे	{'adj': ['negative']}
+पतली	{'anypos': ['positive']}
+धब्बेदार	{'adj': ['negative', 'ambiguous']}
+विरोधी_कब्जे	{'noun': ['negative']}
+शर्मनाक	{'noun': ['negative']}
+तांबे_का	{'anypos': ['negative']}
+खिलना	{'verb': ['positive']}
+तड़का_हुआ	{'adj': ['negative']}
+कट्टर_विरोधी	{'adj': ['negative']}
+सफलताओं	{'anypos': ['positive'], 'noun': ['positive']}
+प्रेरणादायक	{'adj': ['positive']}
+घेर_लेना	{'adj': ['negative']}
+बैल	{'noun': ['positive']}
+बव्वा	{'noun': ['negative']}
+कमजोरियों	{'noun': ['negative']}
+अनुपजाऊ	{'adj': ['negative']}
+शुद्ध	{'verb': ['positive'], 'adj': ['positive']}
+सबसे_खराब	{'adj': ['negative', 'ambiguous']}
+कोरांटीन	{'noun': ['negative']}
+साहसपूर्वक	{'adv': ['positive']}
+अकारण	{'anypos': ['ambiguous']}
+वैध	{'adj': ['positive']}
+प्राचीन	{'adj': ['negative', 'ambiguous']}
+स्र्काई_से	{'adv': ['negative']}
+क्रुद्ध_करनेवाला	{'anypos': ['ambiguous']}
+प्रतिहिंसक	{'adj': ['negative']}
+उत्तेजक	{'anypos': ['positive'], 'adj': ['negative'], 'noun': ['negative']}
+बिना_जाँचा	{'adj': ['neutral']}
+शुद्धिकरण	{'noun': ['positive']}
+हंसमुख	{'adj': ['positive']}
+बढ़ावा	{'verb': ['positive']}
+बिना_डंडी	{'adj': ['negative']}
+आश्चर्य_होता_है	{'anypos': ['positive']}
+पूरा_हुआ	{'adj': ['negative']}
+आदरणीय	{'adj': ['positive']}
+उम्मीद	{'verb': ['positive'], 'noun': ['neutral']}
+प्रचुरता	{'noun': ['negative']}
+रहस्यमय_करना	{'verb': ['ambiguous']}
+बुद्धिहीन	{'adj': ['negative']}
+धन्यवाद	{'verb': ['positive'], 'noun': ['positive']}
+निष्ठुरता	{'noun': ['negative', 'ambiguous']}
+स्वेच्छाचारिता	{'adv': ['positive']}
+मूर्ख_हो_जाना	{'verb': ['positive', 'ambiguous']}
+इशारा_करना	{'anypos': ['positive']}
+आशावान	{'anypos': ['positive']}
+भ्रष्टाचरण	{'adj': ['negative', 'ambiguous']}
+मूल्यांकन	{'noun': ['neutral']}
+इष्टतम	{'adj': ['positive']}
+अपूरणीय	{'adj': ['negative']}
+फलस्वरूप	{'anypos': ['neutral']}
+VIRAGO	{'noun': ['negative']}
+पसंदीदा	{'anypos': ['positive']}
+की_सराहना_की	{'anypos': ['positive']}
+को_पीछे_छोड़_दिया	{'anypos': ['positive']}
+विवादित	{'adj': ['negative']}
+नन्हा	{'adj': ['negative', 'ambiguous']}
+द्वैधवृत्तिक	{'noun': ['negative']}
+आलोचनाओं	{'noun': ['negative']}
+परंपरागत	{'adj': ['positive']}
+तंत्रिकाओं	{'noun': ['negative']}
+अकेला	{'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+स्वच्छंद	{'adj': ['negative', 'ambiguous']}
+मन_प्रसन्न_कर_दिया	{'adj': ['positive']}
+बच्चा	{'verb': ['positive'], 'noun': ['neutral']}
+भव्यता	{'noun': ['positive']}
+वर्दी	{'adj': ['positive']}
+शब्दो_में	{'adv': ['negative']}
+परमानंद	{'noun': ['positive', 'ambiguous']}
+निष्कलंक	{'adv': ['positive']}
+क्षमता	{'noun': ['positive']}
+विश्वास_दिलाता_हूं	{'verb': ['positive']}
+बोनस	{'anypos': ['positive'], 'noun': ['positive']}
+हंसी_उड़ाना	{'verb': ['positive']}
+नीरव	{'anypos': ['positive']}
+प्रिय	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive'], 'noun': ['positive']}
+सबसे_डरावने	{'adj': ['negative']}
+सावधानी	{'adj': ['positive'], 'noun': ['negative']}
+मित्रवत_व्यवहार_करना	{'verb': ['positive']}
+काफिरों	{'noun': ['negative']}
+अडिग	{'adj': ['negative']}
+पौधों_का_रस	{'verb': ['positive']}
+गिरोह	{'noun': ['negative']}
+गठबंधनों	{'noun': ['neutral']}
+विरोध	{'noun': ['negative']}
+जादुई	{'adj': ['negative']}
+तेजी	{'adv': ['neutral'], 'noun': ['positive']}
+दूर_की_कौड़ी	{'adj': ['negative', 'ambiguous']}
+रोमांचित	{'anypos': ['positive']}
+युद्धरत	{'anypos': ['negative']}
+घबराहट	{'noun': ['negative']}
+बेरहमी	{'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+परिवर्तन	{'noun': ['positive']}
+आदर_करना	{'verb': ['positive']}
+परोपकार	{'noun': ['positive']}
+निरा	{'adj': ['negative', 'ambiguous']}
+हर्ष	{'noun': ['positive', 'ambiguous']}
+संगदिल	{'adj': ['negative', 'ambiguous']}
+सरगर्म	{'noun': ['positive']}
+श्रमसाध्य	{'adj': ['positive']}
+निष्फलता	{'noun': ['negative', 'ambiguous']}
+परित्यक्त	{'adj': ['negative']}
+ज्योतिष-संबंधी	{'adj': ['neutral']}
+अनुभवहीन	{'adj': ['negative', 'ambiguous']}
+आक्रामक	{'anypos': ['negative', 'ambiguous'], 'noun': ['negative']}
+आंधी_का	{'adj': ['positive']}
+अनुभव_शून्यता	{'noun': ['negative']}
+बेईमानी	{'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+आर्थिक_तंगी	{'adj': ['negative']}
+मौत	{'noun': ['negative']}
+निराशावाद	{'noun': ['negative']}
+ढेर	{'noun': ['negative']}
+उत्तरजीविता	{'noun': ['positive']}
+का_आनंद	{'verb': ['positive']}
+बुद्धिमान	{'adj': ['positive']}
+प्रबल	{'verb': ['ambiguous'], 'adj': ['negative']}
+शर्मनाक_तरीके	{'noun': ['negative']}
+आग्रही	{'adj': ['negative']}
+संगत	{'adj': ['positive'], 'noun': ['positive']}
+समझौता	{'verb': ['positive'], 'noun': ['positive']}
+सुविधा	{'anypos': ['positive'], 'noun': ['positive']}
+नागवार	{'adj': ['negative', 'ambiguous']}
+जिस	{'anypos': ['positive']}
+रिआयत	{'noun': ['negative']}
+रोनेवाला	{'noun': ['negative']}
+तेज़ी	{'noun': ['positive']}
+सस्ती	{'adj': ['positive']}
+स्वतंत्रता	{'noun': ['positive']}
+प्राप्त	{'verb': ['positive'], 'adj': ['positive']}
+हमला	{'noun': ['negative']}
+PUTZ	{'noun': ['positive']}
+लवलीन	{'anypos': ['positive']}
+महत्वपूर्ण_बात	{'adv': ['positive']}
+खेल	{'adj': ['negative']}
+सहानुभूतिपूर्ण	{'noun': ['negative']}
+बदली_का	{'adj': ['negative']}
+विद्रोह	{'noun': ['negative']}
+पूर्ण_पैमाने_पर	{'adj': ['neutral']}
+ज़िद्दी	{'adj': ['negative'], 'noun': ['positive']}
+बचाए	{'adj': ['positive']}
+नौकर	{'noun': ['negative', 'ambiguous']}
+प्रसन्नचित	{'adj': ['positive']}
+संक्रमण	{'noun': ['ambiguous']}
+जान	{'anypos': ['positive']}
+अंधेरे_में_टटोलना	{'verb': ['positive']}
+साज़िश_का	{'anypos': ['positive']}
+झूठ_करनेवाला	{'noun': ['negative']}
+विशेषाधिकृत	{'adj': ['positive', 'ambiguous']}
+टूटे_हुए_दिल_से	{'adj': ['negative']}
+सुडौल	{'adv': ['positive'], 'adj': ['positive']}
+ज़रूरत_से_ज़्यादा	{'adj': ['negative']}
+अधिकतर	{'anypos': ['neutral']}
+विपुल	{'adj': ['negative', 'ambiguous']}
+तत्त्व	{'noun': ['negative']}
+अविश्वसनीय	{'adv': ['negative'], 'anypos': ['positive'], 'adj': ['negative']}
+गतिशील	{'adj': ['positive']}
+अंतर_करना	{'verb': ['positive']}
+मछली_फंसाने_की_कांटेदार_बछीद्द	{'noun': ['negative']}
+संतोषजनक_ढंग_से	{'adv': ['positive']}
+चिड़चिड़पन	{'adv': ['negative']}
+स्थिरता	{'noun': ['negative', 'ambiguous']}
+चमकना	{'verb': ['positive'], 'anypos': ['positive']}
+दिग्गज	{'noun': ['neutral']}
+प्रोत्साहित_करना	{'verb': ['positive', 'ambiguous']}
+कलंकी	{'adj': ['negative']}
+विपक्ष	{'anypos': ['negative'], 'noun': ['negative']}
+दुष्टता	{'noun': ['negative', 'ambiguous']}
+रोचक	{'adj': ['positive']}
+इनकार	{'noun': ['negative']}
+भूलना	{'verb': ['positive']}
+स्वार्थपरता	{'noun': ['negative']}
+कंसोल	{'verb': ['positive']}
+अल्हड़ी	{'noun': ['negative', 'ambiguous']}
+क्रूरताओं	{'noun': ['negative']}
+काम_करता_है	{'anypos': ['positive'], 'noun': ['negative']}
+सुधारना	{'verb': ['positive']}
+उपाध्यक्ष	{'noun': ['negative', 'ambiguous']}
+चट्टान	{'noun': ['positive']}
+सब_से_अहम	{'adj': ['positive']}
+ऊबड़-खाबड़	{'adj': ['negative', 'ambiguous']}
+अवाक्_हो_उठे	{'adj': ['positive', 'ambiguous']}
+रक्षक	{'anypos': ['positive'], 'noun': ['positive']}
+टिका_हुआ	{'anypos': ['negative']}
+शांत_लेना	{'verb': ['positive']}
+जाने-बैकलिट	{'anypos': ['positive']}
+साबित	{'anypos': ['positive']}
+शोभा	{'noun': ['negative']}
+व्यक्तिवाद	{'noun': ['positive']}
+नाटक	{'noun': ['negative']}
+लड़ाई	{'noun': ['negative']}
+नरक	{'noun': ['negative']}
+कल्पित_सरदार	{'noun': ['negative']}
+विषय_में	{'noun': ['neutral']}
+नकार	{'noun': ['negative']}
+वर्चस्व	{'anypos': ['positive'], 'adj': ['negative']}
+मुख्य_रूप_से	{'adj': ['neutral']}
+ढाल	{'verb': ['positive']}
+अतिचारिता	{'noun': ['negative']}
+बिगड़ती	{'noun': ['negative']}
+हुड	{'noun': ['negative']}
+सदर्प	{'adv': ['negative']}
+आश्वासन	{'noun': ['positive']}
+संकेत_करना	{'verb': ['positive']}
+सरणी	{'noun': ['positive']}
+मूत	{'adj': ['negative']}
+बानगी	{'anypos': ['positive']}
+दिलकश	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+विकसित_करना	{'verb': ['positive', 'ambiguous']}
+दुर्घटना	{'adj': ['negative'], 'noun': ['negative']}
+वापस_लौटें	{'noun': ['negative']}
+अहंकारपूर्ण	{'adj': ['negative']}
+द्वेषपूर्ण	{'adj': ['negative', 'ambiguous']}
+ब्याज	{'verb': ['positive']}
+निश्चित_रूप_से	{'anypos': ['neutral']}
+निर्धारित	{'adj': ['negative']}
+उत्थान	{'anypos': ['positive'], 'noun': ['positive']}
+बहुमुखी	{'adj': ['positive', 'ambiguous']}
+बिनती_करना	{'verb': ['ambiguous']}
+प्रभेद	{'noun': ['positive']}
+प्रीतिमय	{'adj': ['positive']}
+चेतावनी_देनेवाला	{'adj': ['negative', 'ambiguous']}
+उपन्यास	{'adj': ['positive'], 'noun': ['negative']}
+प्रतिबंधित	{'adj': ['negative']}
+सुपर	{'anypos': ['positive']}
+कुंद	{'adj': ['negative'], 'noun': ['negative']}
+रसहीन	{'adj': ['negative']}
+छितराया_हुआ	{'adj': ['negative']}
+मख़मली	{'adj': ['negative']}
+से_अधिक	{'verb': ['positive'], 'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+अपव्यय	{'noun': ['negative']}
+भेदभाव	{'verb': ['positive'], 'noun': ['negative']}
+छुटकारा	{'verb': ['positive']}
+रहमदिली	{'anypos': ['positive']}
+प्रतिभाशाली	{'adj': ['positive'], 'anypos': ['positive']}
+संपूर्ण	{'adj': ['positive'], 'anypos': ['neutral']}
+बांझ	{'adj': ['negative', 'ambiguous']}
+आकार	{'adj': ['negative'], 'noun': ['positive']}
+प्रत्याख्यान	{'noun': ['negative']}
+कट्टरता	{'anypos': ['negative'], 'noun': ['negative']}
+धारण	{'noun': ['positive']}
+बिगड़ना	{'adj': ['negative']}
+संकोची	{'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+लोकप्रियता	{'noun': ['positive']}
+संतोष	{'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+बेवफ़ा	{'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+आसान_बनाने_में	{'verb': ['positive']}
+सुहाग_रात	{'noun': ['positive']}
+इनवेसिव	{'adj': ['negative']}
+सामयिक_मज़दूर	{'noun': ['negative']}
+गंवाना	{'verb': ['positive']}
+अनार्थिक	{'adj': ['negative']}
+अशिक्षित	{'adj': ['negative']}
+इतनी_कैलोरी	{'adj': ['negative']}
+भरा_हुआ	{'anypos': ['negative'], 'adj': ['ambiguous', 'neutral'], 'noun': ['negative']}
+साधारण	{'adj': ['positive', 'ambiguous']}
+लालच	{'noun': ['negative']}
+सतर्क	{'adj': ['negative']}
+आदर्श_बनाना	{'verb': ['positive']}
+बंद_करे	{'verb': ['positive'], 'adj': ['negative']}
+निहार	{'adj': ['positive']}
+प्रबंधित	{'verb': ['positive']}
+सच्चाई_से	{'adv': ['positive']}
+सुदृढीकरण	{'noun': ['positive']}
+विषम	{'adj': ['negative']}
+बड़ी_भूल	{'noun': ['negative']}
+खंडहर	{'adj': ['negative', 'ambiguous']}
+दूरदर्शिता	{'noun': ['negative', 'ambiguous']}
+बिना_शर्त	{'adj': ['negative']}
+उत्पीड़न	{'noun': ['negative', 'ambiguous']}
+सुलगनेवाला	{'adj': ['negative', 'ambiguous'], 'anypos': ['ambiguous']}
+हक़_बहाल_करना	{'verb': ['positive']}
+चमकदार	{'adj': ['positive'], 'anypos': ['positive']}
+आविष्कारशील	{'adj': ['positive']}
+परम_सुख	{'noun': ['negative']}
+अंतिम	{'noun': ['positive']}
+प्रेषण	{'verb': ['positive']}
+विशेषक	{'adj': ['positive']}
+कहना	{'verb': ['positive']}
+अछूता	{'adj': ['negative']}
+ख़याल_से_बाहर_का	{'adj': ['positive']}
+पैशाचिक	{'adj': ['negative', 'ambiguous']}
+कंजूस	{'noun': ['negative']}
+ऊपर	{'anypos': ['positive']}
+पीठदर्द	{'anypos': ['negative']}
+कुल_मिलाकर	{'anypos': ['neutral']}
+प्रतिगामी	{'adj': ['negative']}
+अविश्वसनीयता	{'noun': ['negative', 'ambiguous']}
+निस्तेज	{'adj': ['negative', 'ambiguous']}
+बेवक़ूफ़	{'anypos': ['negative']}
+असंख्य	{'adj': ['neutral'], 'noun': ['negative']}
+चरमपंथियों	{'noun': ['negative']}
+स्वतंत्र_करना	{'verb': ['positive']}
+अन्वेषण	{'noun': ['negative']}
+समय_सीमा_समाप्त	{'verb': ['positive']}
+सरलतम	{'anypos': ['positive']}
+कड़वा	{'adj': ['negative']}
+तथ्य	{'anypos': ['neutral']}
+लंबे_पैरों_का	{'adj': ['negative']}
+रमणीय	{'anypos': ['positive']}
+अवास्तविक	{'anypos': ['positive'], 'adj': ['negative']}
+ठंडक	{'noun': ['positive']}
+लापरवाही	{'adv': ['negative'], 'noun': ['negative', 'ambiguous']}
+सहयोगात्मक	{'adv': ['positive']}
+देयता	{'noun': ['negative']}
+छायादार	{'adj': ['negative', 'ambiguous']}
+काग	{'verb': ['positive']}
+असंबद्ध	{'adj': ['negative']}
+बैल_----	{'anypos': ['negative']}
+एकता	{'noun': ['positive']}
+परिपूर्णता	{'noun': ['positive']}
+सफलतापूर्वक	{'adv': ['positive']}
+उपयुक्तता	{'noun': ['negative']}
+अनिश्चितकालीन	{'adj': ['negative']}
+जलन_हो	{'verb': ['ambiguous']}
+अच्छी_अवस्था_में_लाना	{'verb': ['positive']}
+सुलभ	{'adj': ['positive'], 'anypos': ['positive']}
+समृद्ध	{'verb': ['positive', 'ambiguous'], 'adj': ['positive'], 'noun': ['positive']}
+जीवंत	{'adj': ['positive']}
+दलील	{'noun': ['negative']}
+भोजन	{'noun': ['positive']}
+हेकड़ी	{'noun': ['negative', 'ambiguous']}
+दूषित	{'adj': ['positive'], 'anypos': ['negative']}
+कष्टकार	{'adj': ['negative']}
+ज़बरदस्ती_से	{'adv': ['negative']}
+नकारात्मक	{'adj': ['negative']}
+भक्तिपूर्वक	{'anypos': ['positive']}
+कटौती	{'verb': ['positive']}
+भूखा	{'verb': ['positive'], 'adj': ['negative', 'ambiguous']}
+वार	{'adj': ['positive'], 'noun': ['positive']}
+जवाबी_उत्पादक	{'anypos': ['negative']}
+तरल_पदार्थ	{'adj': ['positive']}
+हैरत_में_डाला_हुआ	{'anypos': ['ambiguous']}
+वित्त_पोषित	{'adj': ['neutral']}
+निरीक्षण	{'adj': ['positive'], 'noun': ['negative', 'ambiguous']}
+आवास	{'noun': ['positive']}
+उपलब्ध	{'anypos': ['positive']}
+बुरी_तरह	{'anypos': ['positive'], 'adj': ['negative']}
+मौजी	{'adj': ['negative']}
+पराजित	{'anypos': ['positive']}
+थकान	{'noun': ['negative']}
+अचम्भा	{'anypos': ['positive']}
+चूक	{'verb': ['positive'], 'noun': ['negative']}
+धूर्त	{'adj': ['negative', 'ambiguous']}
+अवगत	{'adj': ['neutral']}
+विशाल	{'anypos': ['positive'], 'adj': ['neutral'], 'noun': ['neutral']}
+गुस्ताख़ी	{'anypos': ['ambiguous']}
+रैली	{'verb': ['positive']}
+शांत_करना	{'verb': ['neutral']}
+पशु	{'noun': ['negative']}
+सहानुभूति	{'verb': ['positive'], 'noun': ['negative', 'ambiguous']}
+बुरा	{'adj': ['negative', 'ambiguous']}
+गैर_जिम्मेदाराना	{'adv': ['negative']}
+अकृतज्ञ	{'adj': ['negative'], 'anypos': ['ambiguous']}
+दीवाना	{'anypos': ['negative'], 'noun': ['negative']}
+दोगला	{'adj': ['negative']}
+षड्यंत्र	{'noun': ['negative']}
+धूसर	{'adj': ['negative']}
+अति_उत्साही	{'adj': ['negative', 'ambiguous']}
+उपेक्षापूर्ण	{'adj': ['negative']}
+बेहूदा_बात	{'noun': ['negative', 'ambiguous']}
+घबड़ाना	{'verb': ['positive']}
+खंडन_करना	{'verb': ['ambiguous']}
+ज़रूरत	{'verb': ['ambiguous', 'neutral'], 'noun': ['neutral']}
+तारीख	{'noun': ['negative']}
+सेहतमंद	{'adj': ['positive', 'ambiguous']}
+जीतना	{'verb': ['positive'], 'anypos': ['positive']}
+इष्ट	{'adj': ['positive', 'ambiguous']}
+मिलना-जुलना	{'verb': ['positive']}
+घबराना	{'verb': ['ambiguous']}
+रूप_बदलनेवाला_प्राणी	{'noun': ['positive']}
+ठग	{'anypos': ['positive'], 'noun': ['negative']}
+तिमाही	{'noun': ['positive']}
+दबाएँ	{'verb': ['positive']}
+घड़ी	{'verb': ['positive']}
+दर्शाता	{'verb': ['positive']}
+चारा	{'verb': ['positive']}
+आश्चर्य_है	{'anypos': ['positive']}
+चक्रीय	{'adj': ['positive']}
+सुगमता	{'anypos': ['positive', 'ambiguous']}
+अपरिपक्व	{'adj': ['negative']}
+अनुपस्थित_दिमाग	{'adj': ['negative']}
+मजबूर_करना	{'verb': ['ambiguous']}
+प्रचार	{'verb': ['ambiguous', 'neutral'], 'noun': ['negative']}
+स्वगत_भाषण_करना	{'verb': ['neutral']}
+मज़बूत_करना	{'verb': ['positive']}
+मुसकान	{'anypos': ['positive']}
+नक़ब	{'verb': ['ambiguous']}
+असंतुलन	{'noun': ['negative']}
+बड़े	{'adv': ['positive'], 'adj': ['neutral']}
+हां	{'anypos': ['positive']}
+अनिच्छा_से	{'adv': ['negative', 'ambiguous']}
+बीनना	{'verb': ['neutral']}
+नशे_में_न_होना	{'adj': ['negative', 'ambiguous']}
+सादगीपसन्द	{'adj': ['negative', 'ambiguous']}
+सीधा_करना	{'anypos': ['positive']}
+सबसे_मुश्किल	{'anypos': ['positive']}
+पोषण	{'noun': ['positive']}
+धोखा_देती_है	{'anypos': ['negative']}
+कमज़ोर	{'verb': ['positive'], 'adj': ['negative', 'ambiguous']}
+निराकरणकरना	{'verb': ['positive']}
+दिल	{'adj': ['positive'], 'noun': ['ambiguous']}
+परम	{'anypos': ['positive']}
+सामान्यता	{'noun': ['negative']}
+विनियमन	{'noun': ['negative']}
+धोखा_दे	{'anypos': ['negative'], 'adj': ['negative']}
+अनुपयुक्त	{'adv': ['negative', 'ambiguous'], 'noun': ['negative']}
+बच्चेवाली	{'adj': ['negative']}
+विकृति	{'noun': ['negative']}
+बर्बता	{'noun': ['negative', 'ambiguous']}
+ज़िंदादिली	{'noun': ['positive', 'ambiguous']}
+स्तंभित	{'adj': ['negative']}
+चरमराती	{'anypos': ['negative']}
+चकित_करना	{'verb': ['positive']}
+जश्न	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive']}
+स्तुति_करना	{'verb': ['positive']}
+ऊर्जा_की_बचत	{'anypos': ['positive']}
+रणभूमि	{'noun': ['negative']}
+चाल	{'verb': ['neutral'], 'noun': ['negative']}
+हंसी	{'verb': ['positive'], 'noun': ['negative']}
+अपवित्रता_से	{'adv': ['negative']}
+दाँव	{'noun': ['negative']}
+बेबसी	{'noun': ['negative']}
+पॉप	{'verb': ['positive']}
+प्रतिघात	{'verb': ['ambiguous']}
+नाकाम_रहने_के	{'noun': ['negative']}
+दरार	{'anypos': ['negative'], 'noun': ['negative']}
+एनिमेटेड	{'adj': ['positive']}
+तोड़-बिंदु	{'noun': ['negative']}
+अधिनायकवादी	{'adj': ['negative']}
+बेहूदा	{'adj': ['negative']}
+इनाम	{'verb': ['positive'], 'noun': ['negative']}
+घाव	{'noun': ['negative']}
+समान_रूप_से	{'adv': ['positive']}
+टॉनिक	{'adj': ['negative']}
+झुनझुनी	{'verb': ['positive']}
+धन_की_वापसी	{'anypos': ['positive']}
+दीप्तिमान	{'adj': ['positive']}
+थियेटर_का	{'adj': ['negative']}
+नैतिक	{'adj': ['positive', 'ambiguous'], 'noun': ['positive']}
+मास्टरपीस	{'noun': ['positive']}
+अशिष्ट	{'adj': ['negative', 'ambiguous']}
+वापस_लेना	{'verb': ['ambiguous']}
+उच्च	{'adj': ['neutral']}
+नासमझ	{'adj': ['positive'], 'anypos': ['positive']}
+असमानताओं	{'noun': ['negative']}
+भरवां	{'adj': ['neutral']}
+भय_व्याकुलता_से	{'anypos': ['negative']}
+दिल_से	{'adj': ['positive']}
+मुद्दे_से_मुक्त	{'anypos': ['positive']}
+चमकी_का	{'adj': ['negative']}
+भेस_बदले_हुए	{'adj': ['negative']}
+आडू	{'anypos': ['positive'], 'noun': ['negative']}
+तबाही	{'noun': ['negative', 'ambiguous']}
+चुनाव_का	{'adj': ['negative', 'ambiguous']}
+उल्लंघन	{'noun': ['negative']}
+खामियां	{'noun': ['negative']}
+बंदरगाहों	{'noun': ['negative']}
+रहमदिल	{'adj': ['negative']}
+अनुचित_तरीके	{'adv': ['negative']}
+अपराध	{'noun': ['negative', 'ambiguous']}
+आवश्यक	{'adj': ['positive']}
+उबाल	{'noun': ['positive']}
+क्रोधित	{'adj': ['negative']}
+अभिजात_वर्ग	{'anypos': ['positive']}
+अनजाने_से	{'adv': ['negative']}
+पुनर्वासन	{'noun': ['negative']}
+विकट	{'adj': ['negative']}
+प्रहरी	{'noun': ['negative']}
+विनम्र	{'adj': ['negative']}
+कायर	{'anypos': ['ambiguous'], 'noun': ['negative']}
+पक्षपातपूर्ण	{'noun': ['negative']}
+उत्तोलन	{'verb': ['positive']}
+अल्टिमेटम	{'noun': ['negative']}
+परिश्रमी	{'adj': ['positive']}
+सुरुचिपूर्ण_ढंग_से	{'adv': ['positive']}
+सघन	{'adj': ['positive']}
+फ़ुटपाथ	{'adj': ['negative', 'ambiguous']}
+काँटेदार	{'adj': ['positive']}
+लज्जाजनक	{'adj': ['negative', 'ambiguous']}
+निगल_जाना	{'verb': ['positive']}
+ऐंठन	{'anypos': ['negative']}
+रॉक_स्टार	{'anypos': ['positive']}
+चाहे	{'anypos': ['neutral']}
+शक्तिशाली	{'adj': ['positive'], 'noun': ['positive', 'ambiguous']}
+ऊपर_की_ओर	{'adj': ['positive']}
+क्षीणता	{'noun': ['positive']}
+अनुशंसा	{'noun': ['positive']}
+त्याग_करना	{'verb': ['positive']}
+सुख_से	{'adj': ['positive'], 'anypos': ['positive']}
+बुद्धिमान_रूप_से	{'anypos': ['positive']}
+अवैयक्तिक	{'adj': ['negative']}
+बढ़त_बना_ली	{'anypos': ['positive']}
+वाह	{'verb': ['positive'], 'anypos': ['positive']}
+आज्ञा_का_पालन	{'verb': ['positive']}
+नाराज़गी	{'noun': ['negative', 'ambiguous']}
+चुनाव-मेकेनिक	{'noun': ['negative']}
+तैयार_नहीं	{'adj': ['negative']}
+निषेध	{'noun': ['negative', 'ambiguous']}
+उलझन	{'noun': ['negative', 'ambiguous']}
+प्रसिद्धि	{'noun': ['positive']}
+ज़ोर_देना	{'noun': ['neutral']}
+नपुंसक	{'noun': ['negative']}
+प्रवृत्ति	{'noun': ['neutral']}
+गंभीरता	{'noun': ['negative']}
+महंगा	{'anypos': ['negative'], 'adj': ['negative'], 'noun': ['negative']}
+पकना	{'verb': ['ambiguous']}
+सुचना	{'verb': ['positive']}
+एकरसता	{'noun': ['negative', 'ambiguous']}
+उबलना	{'verb': ['ambiguous'], 'adv': ['negative']}
+दयनीय	{'adj': ['negative', 'ambiguous']}
+भव्य	{'verb': ['positive', 'ambiguous'], 'adj': ['positive']}
+माया	{'noun': ['negative', 'ambiguous']}
+ग़लत_व्याख्या	{'noun': ['negative']}
+सिफारिशें	{'noun': ['positive']}
+तेजी_से_बढ़_रही	{'adj': ['positive', 'ambiguous']}
+मनोरंजन_से	{'adv': ['positive']}
+बाँझ	{'adj': ['positive']}
+छू	{'noun': ['neutral']}
+दर्शाती	{'noun': ['neutral']}
+कांटा	{'noun': ['positive']}
+पुराने_ढंग_का	{'adj': ['negative']}
+विद्वत्तापूर्ण	{'adj': ['neutral']}
+ढोंगी	{'anypos': ['negative']}
+हटानेवाला	{'adj': ['negative']}
+मस्त	{'adj': ['negative']}
+बोझ	{'noun': ['negative']}
+धुलाई	{'verb': ['positive']}
+अनुग्रह	{'noun': ['positive']}
+सारहीन	{'adj': ['negative']}
+खीज	{'noun': ['negative', 'ambiguous']}
+हिंसक	{'adj': ['negative', 'ambiguous']}
+दिलेर	{'adj': ['negative', 'ambiguous']}
+अंदर_की_ओर	{'noun': ['positive']}
+विषमताओं	{'noun': ['negative']}
+निरंकुशता	{'noun': ['positive']}
+आवारा	{'adj': ['negative'], 'noun': ['negative', 'ambiguous']}
+नेकनीयत	{'adj': ['positive', 'ambiguous']}
+विधर्मिक	{'adj': ['negative', 'ambiguous']}
+दृढ़ता	{'noun': ['negative', 'ambiguous']}
+पक्षपात_करना	{'verb': ['positive']}
+ग़मगीन	{'adj': ['negative']}
+साबित_करना	{'verb': ['positive'], 'anypos': ['neutral']}
+रन	{'verb': ['positive']}
+चैंपियन	{'noun': ['negative']}
+अशुद्ध_विचार	{'noun': ['negative']}
+मुस्कुरा	{'adj': ['positive']}
+सम्मानित	{'adj': ['positive'], 'anypos': ['positive']}
+शैतानी	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+असुविधाजनक	{'adj': ['negative']}
+सीधे	{'adv': ['negative'], 'adj': ['neutral']}
+ज्ञानविषयक	{'adj': ['positive']}
+काली	{'adj': ['negative']}
+आनंदित	{'anypos': ['positive', 'ambiguous']}
+भय_सहित	{'anypos': ['positive']}
+नकदी_वापस	{'anypos': ['positive']}
+अनुमोदन	{'verb': ['positive'], 'noun': ['positive']}
+दुविधा_में_पड़ा_हुआ	{'adj': ['negative', 'ambiguous']}
+शरण	{'verb': ['positive'], 'noun': ['negative']}
+भटकते_हुए	{'anypos': ['negative']}
+दुर्गन्धि-युक्त	{'adj': ['negative']}
+आश्रित	{'noun': ['neutral']}
+भी_मात	{'anypos': ['positive']}
+अप्रयुक्त	{'adj': ['positive']}
+घोटालों	{'noun': ['negative']}
+दम्भी	{'adj': ['negative']}
+हासकर	{'adj': ['negative']}
+सबसे	{'anypos': ['neutral']}
+रचनात्मक	{'adj': ['positive'], 'noun': ['positive']}
+चहुंमुखी	{'anypos': ['neutral']}
+आंदोलन	{'noun': ['negative']}
+बुनियादी	{'adj': ['positive']}
+सूक्ष्म	{'adj': ['positive', 'ambiguous']}
+उद्देश्य	{'noun': ['neutral']}
+उद्धारक	{'anypos': ['positive']}
+पैंतरेबाज़ी	{'noun': ['negative']}
+पक्ष	{'verb': ['positive'], 'noun': ['negative']}
+पारदर्शक	{'noun': ['ambiguous', 'neutral']}
+हम्म	{'anypos': ['neutral']}
+उच्च_गुणवत्ता_वाला	{'anypos': ['positive']}
+भयंकर	{'anypos': ['negative'], 'adj': ['negative', 'ambiguous']}
+महत्त्वपूर्ण_नतीज_पानेवाला	{'adj': ['neutral']}
+उत्तराधिकारी	{'anypos': ['positive']}
+अत्यंत	{'adv': ['positive'], 'adj': ['negative', 'ambiguous']}
+ओह	{'anypos': ['neutral']}
+कैम	{'anypos': ['negative']}
+गूंजना	{'verb': ['positive']}
+प्रवीणा	{'anypos': ['positive']}
+असामाजिक	{'adj': ['negative']}
+मेल-जोल	{'noun': ['negative']}
+लैस_का	{'adj': ['positive']}
+अहितचिंतन_की_भावना	{'anypos': ['positive']}
+बेचना	{'verb': ['positive']}
+प्रलोभन	{'noun': ['negative']}
+इशारे_से_बुलाया	{'anypos': ['positive']}
+प्रतिज्ञाओं	{'noun': ['positive']}
+विलास_से	{'anypos': ['positive']}
+दिल_तोड़ने	{'noun': ['negative']}
+कंपकंपी	{'verb': ['positive']}
+उद्यमी	{'adj': ['positive', 'ambiguous']}
+संतुलन	{'noun': ['negative']}
+कठोरता_से	{'anypos': ['negative']}
+गोली	{'noun': ['negative']}
+त्रुटिहीन	{'adj': ['positive', 'ambiguous']}
+स्वीकृत	{'adj': ['negative']}
+नुमाइशबाजी	{'noun': ['positive']}
+उपयोगी	{'adj': ['positive']}
+घुला-मिला_लेना	{'verb': ['positive']}
+प्राणपोषक	{'anypos': ['positive']}
+स्तर	{'noun': ['negative']}
+सहज_ज्ञान_युक्त	{'adj': ['positive']}
+कीट	{'noun': ['negative']}
+वैज्ञानिक	{'adj': ['positive']}
+संभव	{'adj': ['positive'], 'anypos': ['neutral'], 'noun': ['positive']}
+आनंद_लेना	{'verb': ['positive']}
+सावधान	{'adj': ['negative']}
+प्रतिज्ञापत्र	{'noun': ['positive']}
+बहाव	{'noun': ['positive']}
+देशभक्तिपूर्ण	{'adj': ['positive']}
+घबरा_देना	{'verb': ['positive']}
+बंधक	{'noun': ['negative']}
+काटकर_अलग_करना	{'adj': ['negative']}
+डरा_हुआ	{'adj': ['negative']}
+चाहते_हैं	{'verb': ['positive']}
+मनोयोग	{'adv': ['positive']}
+नाटकीय	{'adj': ['ambiguous', 'neutral']}
+अनिष्टकारक	{'adj': ['ambiguous']}
+आभारी	{'anypos': ['positive', 'ambiguous']}
+व्याप्त	{'adj': ['negative', 'ambiguous']}
+माद्दा	{'noun': ['positive']}
+दण्ड_से_मुक्ति	{'noun': ['negative']}
+कठिनाइयों	{'noun': ['negative']}
+समर्थन_करना	{'verb': ['positive']}
+उभयवृत्तिता	{'anypos': ['negative', 'ambiguous']}
+बहुत_चमकीला	{'anypos': ['positive']}
+खदबदा	{'adj': ['negative', 'ambiguous']}
+भाग्यवश	{'anypos': ['positive']}
+मनमुटाव	{'verb': ['ambiguous']}
+अवज्ञा	{'noun': ['negative', 'ambiguous']}
+घपलेबज़ी	{'noun': ['negative']}
+हल्का	{'adv': ['positive']}
+बेवक़्त	{'adj': ['negative']}
+प्रसन्न	{'adj': ['positive', 'ambiguous'], 'anypos': ['positive'], 'noun': ['negative', 'ambiguous']}
+मनभावन	{'anypos': ['positive']}
+दण्ड	{'noun': ['negative']}
+पूर्ति	{'noun': ['positive', 'ambiguous']}
+सैद्धांतिक	{'adj': ['positive']}
+कष्टकारक	{'adj': ['ambiguous']}
+की_शिकायत	{'anypos': ['negative']}
+गुप्त_रूप_से_बताना	{'verb': ['neutral']}
+शीघ्र	{'anypos': ['positive'], 'adj': ['neutral']}
+नृशंस	{'adj': ['negative']}
+बाढ़	{'noun': ['negative']}
+सिड़	{'noun': ['negative']}
+ख़तरा	{'noun': ['negative']}
+प्रचुर_करना	{'verb': ['positive']}
+खलनायक	{'noun': ['negative']}
+निस्संदेह	{'adv': ['positive'], 'adj': ['negative']}
+साफ	{'verb': ['positive'], 'adj': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+भूल_से	{'adv': ['negative']}
+संदेह	{'verb': ['positive', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+यों_ही	{'adv': ['positive']}
+बदमाशों	{'noun': ['negative']}
+झूठे	{'noun': ['negative']}
+अपूर्वदृष्ट	{'adj': ['negative', 'ambiguous']}
+छोटी_बात	{'noun': ['negative']}
+जीवन_रक्षक	{'anypos': ['positive']}
+पक्का	{'adj': ['negative']}
+क्रूरता	{'anypos': ['negative'], 'noun': ['negative', 'ambiguous']}
+नायक	{'noun': ['positive', 'ambiguous']}
+खरा	{'adj': ['negative']}
+सुझाव	{'noun': ['positive']}
+काफी	{'adv': ['negative'], 'adj': ['negative'], 'anypos': ['neutral']}
+अप्रतिस्पर्धी	{'adj': ['negative']}
+गेय	{'adj': ['positive']}
+बेतरतीबी	{'noun': ['negative', 'ambiguous']}
+नालायकी	{'adv': ['negative']}
+होते_हैं	{'verb': ['positive']}
+बीमार_इस्तेमाल_किया	{'adj': ['negative']}
+कॉमेडी	{'adj': ['negative']}
+उच्च_गुणवत्ता	{'adj': ['positive']}
+प्रबोधन	{'noun': ['negative']}
+थकाऊ	{'adj': ['negative'], 'noun': ['negative']}
+विफलताओं	{'noun': ['negative']}
+पक्ष_में	{'anypos': ['positive']}
+धैर्य	{'noun': ['negative', 'ambiguous']}
+शानदार_ढंग_से	{'anypos': ['positive', 'ambiguous']}
+पूरक	{'verb': ['positive'], 'anypos': ['positive'], 'noun': ['negative']}
+विवेकी	{'adj': ['positive'], 'anypos': ['positive']}
+डाकू	{'noun': ['negative']}
+रोशनी	{'noun': ['positive']}
+ज़ोर_से_मार	{'adj': ['negative']}
+अंत	{'noun': ['positive']}
+झिलमिलाता	{'anypos': ['positive']}
+संकेत	{'noun': ['neutral']}
+बेडौल	{'adj': ['negative']}
+पुरस्कृत	{'anypos': ['positive']}
+पाप_से_मुक्त_करना	{'verb': ['positive']}
+अदृष्ट	{'adj': ['negative']}
+वाइरस	{'noun': ['negative', 'ambiguous']}
+उदारतावाद	{'noun': ['positive']}
+आगम_करना	{'verb': ['neutral']}
+पुनर्मिलन_करना	{'verb': ['positive']}
+अप्रभावित	{'anypos': ['positive']}
+झूठा_ठहराना	{'verb': ['positive']}
+शीर्षबिंदु	{'noun': ['positive']}
+निडर	{'adj': ['negative']}
+लंगड़ा_बत्तख	{'adj': ['negative']}
+मिलनसार	{'adj': ['positive', 'ambiguous']}
+लोकप्रिय	{'noun': ['positive']}
+समझौते	{'verb': ['positive']}
+पात्रता	{'adj': ['positive']}
+महत्त्व	{'noun': ['positive']}
+बदनामी	{'verb': ['ambiguous'], 'noun': ['negative', 'ambiguous']}
+पतला	{'adj': ['positive']}
+अन्तिम_मांग	{'noun': ['negative']}
+मानमर्दन	{'noun': ['negative']}
+दुश्मनों	{'noun': ['negative']}
+बंदर	{'noun': ['positive']}
+उत्तम	{'verb': ['positive', 'ambiguous']}
+सस्ता	{'anypos': ['positive'], 'adj': ['negative']}
+अस्पष्ट	{'adj': ['negative', 'ambiguous'], 'noun': ['negative', 'ambiguous']}
+शायद_ही	{'adv': ['negative']}
+बढ़ाता	{'anypos': ['positive']}
+उल्लसित	{'verb': ['positive'], 'adj': ['positive', 'ambiguous']}
+मूल_रूप_से	{'anypos': ['neutral']}
+आध्यात्मिक	{'adj': ['positive'], 'noun': ['positive']}
+उद्दाम	{'adj': ['negative']}
+संतोषजनक	{'adj': ['positive', 'ambiguous']}
+हट्टा_कट्टा	{'adj': ['positive', 'ambiguous']}
+दर्द_से_मुक्त	{'anypos': ['positive']}
+बुद्धिमानी_से	{'adv': ['positive']}
+गोलमोल	{'adj': ['negative']}
+सुलझाया	{'adj': ['negative']}
+ग्रहणशील	{'adj': ['positive']}
+लोभी	{'anypos': ['negative', 'ambiguous'], 'adj': ['negative']}
+परम_सुखी	{'adj': ['positive']}
+जुझारू	{'adj': ['negative']}
+विचलन	{'noun': ['negative']}
+अनिर्दिष्ट	{'adj': ['negative']}
+बेतरतीब	{'adj': ['negative', 'ambiguous']}
+अनिश्चित_काल_के_लिए	{'adv': ['negative']}
+शून्यता	{'noun': ['negative']}
+बसना	{'verb': ['positive'], 'adj': ['positive']}
+युद्ध	{'noun': ['negative']}
+प्रकाशयुक्त	{'adj': ['positive']}
+आदर्श	{'anypos': ['positive'], 'noun': ['positive']}
+हड्डी_उखड़	{'adj': ['negative']}
+शायद	{'anypos': ['neutral']}
+मूढ़	{'anypos': ['positive']}
+भय_उत्पन्न_करनेवाला	{'adj': ['negative']}
+आनंद_मिलता_है	{'anypos': ['positive']}
+वास्तविक	{'adv': ['positive'], 'adj': ['positive'], 'anypos': ['neutral']}
+पस्र्ष	{'adj': ['negative', 'ambiguous']}
+विचलित_कर_देने_वाली	{'anypos': ['positive']}
+स्वाद	{'verb': ['ambiguous', 'neutral']}
+अपव्ययी	{'adj': ['negative', 'ambiguous']}
+फ़र्न_का_रूप_का	{'adj': ['positive']}
+असंतोषजनक	{'adj': ['negative']}
+अधिकता	{'adv': ['neutral'], 'noun': ['positive']}
+बासी	{'adj': ['negative']}
+भृत्यभाव	{'noun': ['negative']}
+बच्चे_के_अनुकूल	{'anypos': ['positive']}
+तर्कशीलता	{'noun': ['positive']}
+छोटे_क़द_का	{'adj': ['negative', 'ambiguous']}
+समयोचित	{'adj': ['positive']}
+सहिष्णु	{'adj': ['positive']}
+बख़्तरबंद	{'adj': ['positive']}
+भावना	{'noun': ['neutral']}
+आराध्य	{'adj': ['positive']}
+मेहमाननवाज	{'adj': ['positive']}
+राष्ट्रवाद	{'noun': ['negative']}
+बेरंग	{'adj': ['negative']}
+सशक्त_बनाना	{'verb': ['positive']}
+नवजागरण	{'noun': ['positive']}
+मुद्रास्फीति	{'adj': ['negative', 'ambiguous']}
+आराम_करें	{'verb': ['positive', 'ambiguous']}
+ग़लत	{'adj': ['negative', 'ambiguous']}
+पोर्टेबल	{'adj': ['positive']}
+त्रुटि	{'noun': ['negative']}
+तिरस्कारी	{'anypos': ['negative']}
+तुच्छता	{'adv': ['negative']}
+पंडिताऊ	{'adj': ['negative']}
+गर्वित	{'adj': ['negative', 'ambiguous']}
+प्रलाप	{'noun': ['negative']}
+असामयिक	{'adj': ['negative']}
+परिश्रम	{'adv': ['positive'], 'noun': ['positive']}
+तलरूप	{'noun': ['positive']}
+बढ़_रही_है	{'adj': ['neutral']}
+शपथ_ली	{'adj': ['negative']}
+कट्टरपंथी	{'noun': ['negative']}
+अतिवादी	{'adj': ['negative', 'ambiguous']}
+आरोपण	{'noun': ['negative']}
+गर्म	{'anypos': ['positive']}
+प्यार_किया	{'anypos': ['positive']}
+हद_से_ज़्यादा	{'adj': ['negative', 'ambiguous']}
+व्यक्तिगत	{'anypos': ['positive']}
+अयोग्यता	{'noun': ['negative']}
+घनी	{'adv': ['negative']}
+मेहरबान	{'adj': ['negative']}
+गला_घोंटना	{'verb': ['ambiguous']}
+निंदक	{'adj': ['negative']}
+रोमानी	{'verb': ['positive'], 'anypos': ['positive']}
+ख़ुश_करना	{'verb': ['positive']}
+तल्लीन	{'verb': ['neutral']}
+महत्व	{'anypos': ['positive'], 'noun': ['positive']}
+निराना	{'noun': ['negative']}
+तथ्यों	{'anypos': ['neutral']}
+नम्रता	{'noun': ['negative']}
+नेक्रोमन्ट	{'noun': ['negative']}
+अवैतनिक	{'adj': ['positive']}
+अभाव	{'noun': ['negative']}
+बेदिल	{'adj': ['negative', 'ambiguous']}
+तीखेपन	{'noun': ['positive']}
+निर्लज्जता	{'anypos': ['negative']}
+नवजात	{'adj': ['neutral']}
+उत्प्रेरक	{'noun': ['positive']}
+भाव	{'verb': ['positive'], 'noun': ['ambiguous', 'neutral']}
+रानी	{'noun': ['positive']}
+कसाईखाना	{'noun': ['negative']}
+फ्रैंक	{'adj': ['positive']}
+परदा_डालना	{'verb': ['positive']}
+इतना	{'anypos': ['neutral']}
+प्रशंसकों	{'anypos': ['positive']}
+भावुकतापूर्ण_नाटकीय_ढंग_से	{'adv': ['negative']}
+विकलांग	{'verb': ['positive'], 'adj': ['negative']}
+प्रबंधनीय	{'adj': ['positive']}
+तेल	{'noun': ['negative']}
+आलसी	{'adj': ['negative'], 'noun': ['negative']}
+अभयारण्य	{'noun': ['positive']}
+देवदूत	{'noun': ['positive']}
+अनुपस्थिति	{'noun': ['negative', 'ambiguous']}
+द्रोह	{'anypos': ['ambiguous']}
+नरसंहार	{'noun': ['negative']}
+फाड़ना	{'adj': ['ambiguous']}
+हानिकारक	{'adj': ['negative']}
+पता_चलता_है	{'anypos': ['neutral']}
+तुरंत	{'adv': ['negative'], 'anypos': ['neutral'], 'adj': ['neutral']}
+परिपत्र	{'adj': ['positive']}
+जंगल_वापस	{'anypos': ['negative']}
+बदलना	{'verb': ['positive']}
+गमगीन	{'adj': ['negative']}
+बिंदु	{'noun': ['neutral']}
+चार्ज	{'verb': ['positive']}
+मधुरता	{'noun': ['positive']}
+झक्की	{'adj': ['positive'], 'anypos': ['positive']}
+चिढ़ना	{'verb': ['ambiguous']}
+मातहत	{'adj': ['negative', 'ambiguous']}
+हवा	{'verb': ['neutral']}
+अनुकूली	{'adj': ['positive']}
+सदृश	{'noun': ['neutral']}
+क्षीण	{'anypos': ['positive']}
+अमानवीकरण	{'noun': ['negative']}
+श्रद्धा	{'noun': ['positive']}
+विवेक	{'noun': ['negative', 'ambiguous']}
+नास्तिक	{'noun': ['negative']}
+प्रेमी	{'noun': ['positive', 'ambiguous']}
+तूफ़ानी	{'adj': ['negative', 'ambiguous']}
+सुखप्रद	{'adj': ['positive']}
+अनौचित्य	{'noun': ['negative']}
+मजबूत_बनाने_में	{'noun': ['negative']}
+कर्तव्य	{'noun': ['neutral']}
+बलवान	{'adj': ['negative']}
+बुद्धिसंगत	{'adj': ['positive', 'ambiguous']}
+नायलॉन	{'noun': ['positive']}
+वाहवाही	{'anypos': ['positive'], 'noun': ['negative']}
+अतिशयोक्ति	{'adj': ['positive'], 'noun': ['negative', 'ambiguous']}
+तुच्छ	{'anypos': ['negative', 'ambiguous'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+को_मंजूरी_दे_दी	{'anypos': ['positive']}
+उपाय_कुशलता	{'noun': ['negative']}
+रॉकी	{'adj': ['negative']}
+मांग_करनेवाला	{'adj': ['negative']}
+जख्म	{'adj': ['negative']}
+खुले_तौर_पर	{'adj': ['positive']}
+सराहना	{'verb': ['positive', 'ambiguous'], 'anypos': ['positive', 'ambiguous']}
+सुवक्ता	{'adj': ['positive', 'ambiguous']}
+ड्रोन	{'noun': ['negative']}
+क्षमा	{'verb': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+लड़ाई_का_मैदान	{'noun': ['negative']}
+निंदा_करना	{'noun': ['negative']}
+सर्वनाश	{'adj': ['negative'], 'noun': ['negative']}
+परतदार	{'adj': ['negative']}
+विद्युतीकरण_करना	{'verb': ['positive', 'ambiguous']}
+बहुउद्देश्यीय	{'anypos': ['positive']}
+मज़बूती_से	{'adv': ['positive']}
+देखा_जा_सकता_है	{'anypos': ['positive']}
+क्षुद्र	{'adj': ['negative']}
+रसीद	{'noun': ['positive']}
+दया	{'noun': ['negative']}
+वापस_लेने_योग्य	{'anypos': ['positive']}
+विस्मय	{'noun': ['positive', 'ambiguous']}
+एक_प्रकार_का_जहाज़	{'noun': ['negative']}
+भावुक	{'adj': ['negative', 'ambiguous']}
+इच्छुक	{'anypos': ['positive'], 'noun': ['positive']}
+पिछड़ा	{'adj': ['negative']}
+ताक़त	{'noun': ['negative']}
+ममता	{'noun': ['positive', 'ambiguous']}
+फालतू	{'anypos': ['negative']}
+पहचानने_योग्य	{'anypos': ['neutral']}
+कसूरवार	{'adj': ['negative']}
+चमक_से	{'adv': ['negative']}
+प्रतिद्वंद्वी	{'verb': ['ambiguous']}
+उत्पादक	{'adj': ['positive']}
+बुलंद	{'adj': ['positive']}
+स्तंभ	{'noun': ['positive']}
+वामपंथी_झुकाव	{'adj': ['negative']}
+असंशोधनीय	{'adj': ['negative']}
+कम_जोखिम	{'adj': ['positive']}
+अविश्वसनीय_रूप_से	{'adv': ['negative'], 'anypos': ['positive']}
+मर्मज्ञ	{'adj': ['positive']}
+अनम्य	{'adj': ['negative']}
+आत्म-समालोचना	{'noun': ['negative']}
+नफ़रत_से	{'anypos': ['negative']}
+सीधी	{'anypos': ['positive']}
+त्रासदी	{'noun': ['negative']}
+शोधन	{'noun': ['positive']}
+शोषण	{'noun': ['negative']}
+उथला	{'adj': ['negative']}
+लायक_जबकि	{'adj': ['positive']}
+कुशलता	{'adv': ['positive']}
+प्रतिज्ञान	{'noun': ['positive']}
+निर्दयतापूर्वक	{'adv': ['positive'], 'anypos': ['negative']}
+लाजिमी_है	{'verb': ['positive']}
+कर्कशा	{'noun': ['negative']}
+क्षीणतापूर्वक	{'anypos': ['negative', 'ambiguous']}
+नतीजे_का	{'adj': ['positive']}
+कपटपूर्ण	{'adj': ['negative']}
+चकमा	{'noun': ['negative']}
+विवेचना	{'noun': ['positive']}
+शपथ	{'noun': ['positive']}
+ख़ुशबूदार	{'adj': ['negative']}
+आत्मघात	{'adj': ['negative']}
+चौगुनी	{'noun': ['positive']}
+पूरा_समय	{'noun': ['neutral']}
+मंत्रमुग्ध	{'verb': ['positive'], 'anypos': ['positive']}
+सुराग	{'anypos': ['positive']}
+सोने_का	{'adj': ['negative']}
+वीरतापूर्वक	{'anypos': ['positive']}
+ठीक_है	{'anypos': ['positive']}
+मौन	{'adj': ['negative']}
+झीना	{'adj': ['negative']}
+घटती	{'adj': ['negative'], 'noun': ['negative']}
+बाज़ीगर	{'noun': ['negative']}
+दिलाने	{'verb': ['ambiguous']}
+आस्था	{'noun': ['neutral']}
+पुकारना	{'verb': ['positive']}
+टालमटोल	{'noun': ['negative']}
+अजेय	{'adj': ['negative']}
+प्रकाश	{'noun': ['positive']}
+पीसा_हुआ	{'adj': ['negative']}
+त्याग	{'adj': ['negative'], 'noun': ['negative']}
+अनमोल	{'adj': ['positive', 'ambiguous'], 'noun': ['negative']}
+चक्कर	{'adj': ['negative']}
+प्रभावोत्पादक	{'adj': ['positive']}
+धूल	{'noun': ['positive']}
+अंतर्निहित	{'adj': ['neutral']}
+पुन:_विजय	{'noun': ['positive']}
+प्यार_करता_है	{'anypos': ['positive']}
+डींग_मारने_का	{'adj': ['negative']}
+होड़	{'noun': ['negative']}
+पूर्ण	{'anypos': ['positive'], 'adj': ['neutral']}
+गिरफ्तार	{'adj': ['positive']}
+स्वायत्त	{'adj': ['positive']}
+किशोरों	{'noun': ['neutral']}
+गुस्से_का_आवेश	{'noun': ['negative']}
+चुंबकीय	{'adj': ['positive']}
+कटुतापूर्वक	{'anypos': ['negative']}
+शुक्र	{'anypos': ['positive']}
+तुला	{'adj': ['negative']}
+कान	{'noun': ['negative']}
+पूरित	{'anypos': ['positive']}
+आम_माफ़ी	{'noun': ['positive']}
+कहवा	{'noun': ['positive']}
+ख़फ़ा	{'adj': ['negative', 'ambiguous']}
+लक्ष्यहीन	{'adj': ['negative']}
+आरोप	{'anypos': ['negative'], 'noun': ['negative', 'ambiguous']}
+यथार्थवादी	{'adj': ['positive', 'ambiguous'], 'noun': ['negative']}
+सितारा	{'noun': ['positive']}
+आधार	{'noun': ['positive', 'ambiguous']}
+छिपा_हुआ	{'adj': ['ambiguous']}
+काल	{'adj': ['negative']}
+सभ्य_बनाना	{'verb': ['positive', 'ambiguous']}
+उजाड़	{'adj': ['negative']}
+असुविधा	{'noun': ['negative']}
+तर्कहीन	{'adj': ['negative', 'ambiguous']}
+न्यायसंगत	{'adj': ['positive']}
+परेशान_कर	{'anypos': ['negative']}
+अनुमान_करना	{'verb': ['neutral']}
+कौशल	{'noun': ['positive']}
+ज्यादतियों	{'noun': ['negative']}
+तेज़_बाहर_की_रेखाओंवालअ	{'adj': ['positive']}
+चालाक	{'anypos': ['positive', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+असंतृप्त	{'adj': ['positive']}
+ज़मानत_देना	{'verb': ['positive']}
+मोक्ष	{'noun': ['negative']}
+LED	{'anypos': ['positive']}
+निर्णय	{'noun': ['neutral']}
+प्राप्य	{'adj': ['positive'], 'anypos': ['positive']}
+निश्चितता	{'noun': ['positive']}
+गोल_-_मटोल	{'noun': ['positive']}
+चमक	{'verb': ['positive', 'ambiguous'], 'anypos': ['positive'], 'noun': ['positive', 'ambiguous']}
+नियमविरूद्ध	{'adj': ['negative']}
+घूमना-फिरना	{'verb': ['positive']}
+नेकी	{'adv': ['positive'], 'noun': ['positive']}
+पाधान	{'noun': ['positive']}
+यंत्रणा	{'verb': ['positive']}
+कड़ाही	{'verb': ['ambiguous']}
+भड़कीला	{'adj': ['negative']}
+सांस_लेने_में_तकलीफ	{'noun': ['negative']}
+प्यारी	{'adj': ['positive']}
+फलना	{'verb': ['positive']}
+असहनीय	{'adj': ['negative', 'ambiguous']}
+इलाज	{'anypos': ['positive'], 'noun': ['positive']}
+अनुपलब्ध	{'adj': ['negative', 'ambiguous']}
+भड़काना	{'verb': ['ambiguous']}
+भ्रम	{'anypos': ['negative'], 'noun': ['negative']}
+अमीर	{'anypos': ['positive']}
+प्रचुर	{'adj': ['negative']}
+घटते	{'adj': ['negative']}
+सिसकना	{'verb': ['positive']}
+नाराज़_करना	{'verb': ['positive']}
+अति_क्रुद्ध	{'adj': ['negative', 'ambiguous']}
+धीरे_से_बोलना	{'adj': ['negative']}
+उत्कट	{'adj': ['positive', 'ambiguous']}
+जयकार	{'verb': ['positive']}
+काल_कोठरी	{'noun': ['negative']}
+निरर्थक_व्यापार	{'noun': ['negative']}
+ट्रेंडी	{'adj': ['positive']}
+फिक्सर	{'noun': ['neutral']}
+असंगत	{'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+जघन्य	{'adj': ['negative', 'ambiguous']}
+कांटे	{'noun': ['negative']}
+प्रबुद्ध_करना	{'verb': ['positive']}
+अतिरिक्त	{'verb': ['positive'], 'anypos': ['neutral']}
+लड़ाकू	{'noun': ['negative']}
+और_तेज	{'anypos': ['positive']}
+आडंबरपूर्ण_शैली	{'noun': ['negative']}
+गाली_देना	{'verb': ['ambiguous']}
+भोर	{'verb': ['positive']}
+एकध्रुवीय	{'noun': ['negative']}
+द्वेषपूर्वक	{'anypos': ['positive']}
+साहस	{'anypos': ['negative'], 'noun': ['positive', 'ambiguous']}
+न्युरोटिक	{'adj': ['negative']}
+उपयुक्त	{'adj': ['negative']}
+लोभ	{'noun': ['negative']}
+विवाद	{'verb': ['positive'], 'noun': ['negative']}
+परख	{'noun': ['negative']}
+सहमति	{'verb': ['positive']}
+विप्लव	{'noun': ['negative']}
+प्राणहर	{'adj': ['negative', 'ambiguous']}
+गंदगी_सस्ता	{'anypos': ['positive']}
+भला_करे	{'verb': ['positive', 'ambiguous']}
+मजाक	{'adj': ['negative']}
+जीत	{'verb': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+अवांछनीय	{'adj': ['negative']}
+ढलते	{'noun': ['negative']}
+पाछा_हुआ	{'adj': ['positive']}
+घुसनेवाला	{'noun': ['negative']}
+सम्मेलन	{'noun': ['negative']}
+प्रोत्साहन	{'noun': ['positive', 'ambiguous']}
+वास्तव_में	{'anypos': ['neutral']}
+संक्रामक	{'adj': ['neutral']}
+बेताल	{'adj': ['negative', 'ambiguous']}
+थैला	{'noun': ['positive']}
+जून्की	{'adj': ['negative']}
+सच्चाई	{'adv': ['positive'], 'noun': ['positive', 'ambiguous']}
+सिलेंडर	{'verb': ['positive']}
+साँप	{'noun': ['positive']}
+लक्षण	{'noun': ['negative']}
+अनिष्ट	{'noun': ['negative', 'ambiguous']}
+अरे_नहीं	{'verb': ['ambiguous']}
+अनुकूलनशीलता	{'noun': ['positive']}
+ढीला	{'noun': ['negative']}
+गींजना	{'verb': ['positive']}
+प्रासंगिकता	{'noun': ['positive']}
+शापित	{'anypos': ['negative'], 'adj': ['negative']}
+दु:_ख	{'adj': ['negative'], 'noun': ['negative']}
+अनिवार्यत:	{'adv': ['negative']}
+टिकाऊ	{'adj': ['positive']}
+ग़ुलाम_बनाना	{'verb': ['positive']}
+गुस्सा_दिलाना	{'anypos': ['negative']}
+विरोधी_सफेद	{'noun': ['negative']}
+प्रचंड	{'adj': ['negative', 'ambiguous']}
+नमकहराम	{'adj': ['negative', 'ambiguous']}
+अनंत	{'adj': ['negative']}
+शोर_मचाते_हुए	{'adj': ['negative']}
+गढ़ा	{'noun': ['negative']}
+जीर्णता	{'noun': ['negative']}
+अतिप्रजन_का	{'adj': ['negative']}
+अलग_हटकर	{'anypos': ['positive']}
+संकल्प	{'verb': ['positive'], 'noun': ['negative']}
+साहसी	{'anypos': ['positive'], 'adj': ['negative', 'ambiguous'], 'noun': ['negative']}
+मिलनसारी	{'adv': ['positive']}
+बर्दाश्त	{'verb': ['positive']}
+जीना	{'adj': ['positive']}
+उपद्रवी	{'anypos': ['ambiguous'], 'noun': ['negative']}
+अल्पविकसित	{'adj': ['negative']}
+शिकायत	{'noun': ['negative', 'ambiguous']}
+अनकदी	{'adj': ['negative']}
+फूहड़	{'adj': ['negative']}
+सुविधाजनक_स्थान_पर	{'anypos': ['positive']}
+अमीर_हो	{'noun': ['negative']}
+लगाव	{'noun': ['positive']}
+आह्वान	{'verb': ['positive']}
+प्रत्यक्ष	{'adj': ['neutral']}
+डराना	{'verb': ['positive', 'ambiguous'], 'anypos': ['ambiguous']}
+लुभाने	{'verb': ['positive']}
+स्वीकार_करते_हैं	{'verb': ['positive']}
+अविभाज्य	{'adj': ['positive']}
+अविवेक	{'anypos': ['ambiguous']}
+व्यवसायिक	{'adj': ['positive'], 'anypos': ['positive']}
+मैत्रीपूर्ण	{'adj': ['positive']}
+चेक	{'verb': ['positive']}
+देवता_भेजें	{'anypos': ['positive']}
+शत्रुता	{'noun': ['negative']}
+के_एवज_में	{'verb': ['positive']}
+मूल्य	{'verb': ['positive']}
+विघटन	{'noun': ['negative', 'ambiguous']}
+शक्तिमान	{'anypos': ['positive']}
+तर्कों	{'noun': ['negative']}
+कहे	{'noun': ['positive']}
+चाबुक	{'noun': ['negative']}
+परिवर्तनशील	{'adj': ['negative']}
+विनती_करना	{'verb': ['positive']}
+लुभावनी	{'adj': ['positive', 'ambiguous']}
+संवेदना	{'noun': ['negative']}
+जाहिर_है	{'anypos': ['positive']}
+निवेदन_करना	{'verb': ['positive']}
+अतुलनीय	{'adj': ['positive']}
+प्रशंसापूर्ण	{'adj': ['positive', 'ambiguous']}
+आराम_से	{'adv': ['negative']}
+षड्यंत्रकारी	{'noun': ['negative']}
+जाल	{'noun': ['negative']}
+निर्बल	{'adj': ['negative', 'ambiguous']}
+अंतर	{'noun': ['neutral']}
+सार्थक	{'adj': ['positive']}
+प्रमाणित	{'adj': ['neutral']}
+संपत्ति	{'noun': ['positive']}
+बेढब	{'adj': ['negative', 'ambiguous']}
+सत्यता	{'anypos': ['neutral'], 'noun': ['positive', 'ambiguous']}
+सीधे_खड़े_हो	{'verb': ['positive']}
+उद्वेग_से	{'anypos': ['negative']}
+अंधविश्वास	{'noun': ['negative']}
+गलतफहमी	{'noun': ['negative']}
+बेपरवाह	{'anypos': ['neutral'], 'noun': ['negative']}
+मिलना	{'verb': ['positive']}
+यशस्वी	{'adj': ['positive', 'ambiguous']}
+खंडित	{'adj': ['negative']}
+अच्छी_तरह_से_प्रचारित	{'adj': ['positive']}
+अनिश्चय_से	{'adv': ['negative']}
+तैयार	{'adj': ['negative']}
+सफेद	{'adj': ['positive']}
+व्यसन	{'noun': ['negative']}
+विपत्ति	{'noun': ['negative']}
+बँध	{'anypos': ['positive']}
+निष्ठा	{'noun': ['positive', 'ambiguous']}
+व्यवहार्यता	{'noun': ['positive']}
+बिल्कुल_ठीक	{'anypos': ['positive']}
+अंधापन	{'adj': ['negative']}
+अनुमति_देते_हैं	{'verb': ['positive']}
+दास	{'noun': ['negative']}
+सबसे_महत्वपूर्ण	{'adj': ['positive']}
+हर्षोन्माद	{'anypos': ['positive']}
+वकालत	{'noun': ['positive']}
+मूल_बनाना	{'verb': ['positive']}
+अनुचित	{'adv': ['positive'], 'anypos': ['negative', 'ambiguous'], 'adj': ['negative', 'ambiguous']}
+मूलरूप_में	{'adv': ['neutral']}
+हक	{'adv': ['positive']}
+प्रगति	{'verb': ['positive'], 'noun': ['positive']}
+प्रशंसक	{'noun': ['positive']}
+उचित	{'adj': ['positive'], 'anypos': ['positive'], 'noun': ['positive']}
+प्रतिरोधी	{'noun': ['negative']}
+खुलना	{'verb': ['positive']}
+सुंदरता_से	{'anypos': ['positive']}
+जिम्मेदारी_से	{'adv': ['positive']}
+ढिठाई	{'noun': ['negative']}
+कड़ी_मेहनत	{'verb': ['positive']}
+पेशेवरों	{'anypos': ['positive']}
+मुस्कान	{'verb': ['positive'], 'anypos': ['positive']}
+दर्दरहित	{'adj': ['negative']}
+अप्रसन्न	{'adj': ['negative']}
+सूट	{'verb': ['positive']}
+दमन	{'noun': ['negative', 'ambiguous']}
+विश्वासघात	{'adv': ['negative'], 'noun': ['negative', 'ambiguous']}
+बड़ी_चतुराई_से	{'anypos': ['positive']}
+अहंकारी	{'adj': ['positive']}
+अतिरंजित	{'adj': ['positive']}
+नाजायज	{'adj': ['negative']}
+उत्तेजना	{'noun': ['negative', 'ambiguous']}
+निरादर	{'noun': ['negative']}
+व्यवहार्य	{'adj': ['positive']}
+खुश_थप्पड़	{'adj': ['positive']}
+डमी	{'noun': ['negative']}
+कुरकुरा	{'adj': ['positive', 'ambiguous']}
+सामयिक	{'adj': ['positive']}
+समर्थित	{'anypos': ['positive']}
+निस्सारता	{'noun': ['negative']}
+की_सिफारिश_की	{'anypos': ['positive']}
