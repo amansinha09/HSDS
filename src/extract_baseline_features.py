@@ -8,7 +8,7 @@ from nltk import ngrams, pos_tag
 import numpy as np
 from collections import Counter#collections in python 3
 import vocab_helpers as helper
-#import pre_processing as dproc
+import pre_processing as dproc
 
 
 sample_ = 'Thomas, and @tom you go to bed right now or I will kill you! ;-) #joke'
@@ -30,7 +30,10 @@ def get_features1(tweets, subj_dict):
 	for tweet in tweets:
 		feature_list = [0.0]*6
 		tokens = tknzr.tokenize(tweet)
-		pos = tagger.tag(tokens)
+		try:
+			pos = tagger.tag(tokens)
+		except:
+			pos =[]
 		#print("=>",pos,'\n')
 		pos = [p for p  in pos if 'V' in p[1] or 'NN' in p[1]]
 		#print("==>",pos,'\n')
@@ -188,7 +191,7 @@ def get_ngram_features(tweets, n):
 
 def p(cmd):
 	print(cmd)
-
+'''
 #thing incorporated from utils
 def load_file(filename):
 	file = open(filename, 'r', encoding = 'utf-8')
@@ -197,7 +200,7 @@ def load_file(filename):
 	return text.split('\n')
 
 def get_subj_lexicon(filename):
-	lexicon = load_file(filename)
+	lexicon = utils.load_file(filename)
 	subj_dict = build_subj_dictionary(lexicon)
 	return subj_dict
 
@@ -210,7 +213,7 @@ def build_subj_dictionary(lines):
 		subj_dict[key] = value
 		#print(type(key), type(value))
 	return subj_dict
-
+'''
 #----------------------------
 #def 
 if __name__ == '__main__':
@@ -226,7 +229,7 @@ if __name__ == '__main__':
 	#tag = pos_tag(tokens)
 	#print("Tagger and Tokenizer initialized.")
 	#tags = tagger.tag(tokens)
-	sd = get_subj_lexicon('hindi_lexicon.tff')
+	sd = dproc.get_subj_lexicon('hindi_lexicon.tff')
 
 	sys.stdout = open("output.txt", "a", encoding='utf-8')
 	#print(sd)
