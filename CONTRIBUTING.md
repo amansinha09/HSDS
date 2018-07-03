@@ -1,4 +1,4 @@
-## **Contributing to warehouse-quad**
+## **Contributing to HSDS**
 ___
 In order to contribute please follow this guideline.
 
