@@ -7,9 +7,15 @@ import numpy as np
 from pandas import read_csv
 from numpy.random import seed, shuffle
 from collections import Counter, OrderedDict
+from sklearn import metrics
+from sklearn.feature_extraction import DictVectorizer
+import matplotlib.pyplot as plt
+from numpy.random import seed, shuffle
 
 
-path = '\\'.join((os.getcwd()).split('\\')[:-1])
+
+#path = '\\'.join((os.getcwd()).split('\\')[:-1])#for windows
+path = os.getcwd()[:os.getcwd().rfind('/')] #for unbuntu
 
 #load file@done
 def load_file(filename):
@@ -173,6 +179,11 @@ def get_classes_ratio(labels):
 	print("Class ratio: ", ratio)
 	return ratio
 
+def get_classes_ratio_as_dict(labels):
+	ratio = Counter(labels)
+	ratio_dict = {0: float(max(ratio[0],ratio[1]) /ratio[0]), 1: float(max(ratio[0], ratio[1]) / ratio[1])}
+	print('Class ratio:', ratio_dict)
+	return ratio_dict
 
 #extract feature from dict*
 
@@ -203,20 +214,32 @@ def tweets_to_indices(tweets, word_to_index, max_tweet_len):
 			j = j + 1
 	return tweet_indices
 
-
+#todo
+'''
 #encode text to matrix*
 def encode_text_as_matrix(train_tweets, test_tweets, mode, max_nunm_words=None):
 	#check the tokenizer 
 	tokenizer = pass #keras tokenizer
 	tokenizer.fit_on_texts(train_tweets)
 	x_train = tokenizer.texts_to_sequences(train_tweets)
-	x_test = tokenizer.texts_to_sequences(test_tweets)
+	x_test = tokenizer.texts_to_sequence_tweets)
 	return tokenizer, x_train, x_test
-
+'''
 
 #encode text as word indexes*
 
-#build random word2vec
+#build random word2vec mapping of a mapping
+def build_random_word2vec(tweets, embedding_dim =100, variance =1):
+	print("\n Building random vector of mapping with dimension %d....", %embedding_dim)
+	word2vec_map = {}
+	seed(1457875)
+	words = set((' '.join(tweets)).split())
+	for word in words:
+		embedding_vector = word2vec.get(word)
+		if embedding_vector is None:
+			word2vec_map[word] = np.random.uniform( -variance, variance, size =(embedding_dim,))
+	return word2vec_map
+
 #load vectros
 #get embedding matrix
 #get tweet embedding
@@ -235,13 +258,13 @@ def shuffle_words(tweets):
 
 def get_tf_idf_weights(tweetws, vec_map):
 	df =[]
-	fro tw in tweets:
-	words = set(tw.split())
-	for word in words:
-		if word not in df:
-			df[word] = 0.0
-		df[word] += 1.0
-	idf = OrderedDict()
+	for tw in tweets:
+		words = set(tw.split())
+		for word in words:
+			if word not in df:
+				df[word] = 0.0
+			df[word] += 1.0
+		idf = OrderedDict()
 	for word in  vec_map.keys():
 		n = 1.0
 		if word in df:
@@ -268,6 +291,45 @@ def euclidean_distance(u_vector, v_vector):
 	return distance
 
 #get_similarity measure
+def get_similarity_measure(tweet, vec_map, weighted =False, verbose=True):
+	#filter a bit tweet so that no punctuation and stopwords are present
+	stopwords = dproc.get_stopwords_list()
+	filtered_tweet = list(set([w for w in tweet.split() if w not in stopwords and w in vec_map.keys()]))
+
+	#compute similarity scores btw any 2 words in filtered tweet
+	similarity_scores = []
+	max_words= []
+	min_words =[]
+	max_score =-100
+	min_score = 100
+	for i in range(len(filtered_tweet) -1):
+		wi = filtered_tweet[i]
+		for j in range(len(filtered_tweet) -1):
+			wj =  filtered_tweet[j]
+			similarity = cosine_similarity(vec_map[wi], vec_map[wj])
+			if weighted:
+				similarity/=euclidean_distance(vec_map[wi], vec_map[wj])
+			similarity_scores.append(similarity)
+			if max_score < similarity:
+				max_score = similarity
+				max_words = [wi, wj]
+			if min_score > similarity:
+				min_score = similarity
+				max_score = [wi, wj]
+	if verbose:
+		print("Filtered tweet: ", filtered_tweet)
+		if max_score != -100:
+			print("Maximum similarity is : ", max_score, " between words ", max_words)
+		else:
+			print("No max! Score are:", similarity_scores)
+		if min_score !=100:
+			print("Minimum similarity is",max_score, " between words ", min_words)
+		else:
+			print("No min! Scores are:", similarity_scores)
+	return max_score, min_score
+
+
+
 #f1_score*
 def f1_score(y_true, y_pred):
 	def recall(y_true, y_pred):
@@ -289,7 +351,7 @@ def f1_score(y_true, y_pred):
 #def analyse_mislabelled_data**
 def analyse_mislabelled_exapmles(X_test, y_test, y_pred):
 	for i in range(y_test):
-		if num ! = y_test[i]:
+		if num != y_test[i]:
 			print('Excepted:', y_test[i], ' but predicted ', num)
 			print(x_test[i])
 
@@ -313,6 +375,12 @@ def print_statistics(y, y_pred):
 #print feature value
 #print feature value demo
 #print model title
+def print_model_title(name):
+	print("\n=======================================================")
+	print('{:>20}'.format(name))
+	print("========================================================\n")
+
+
 #print setting
 #initialize writer
 # This allows me to print both to file and to standard output at the same time
@@ -335,8 +403,17 @@ def initialize_writer(to_write_filename):
     print("Current date and time: %s\n" % str(datetime.datetime.now()))
 
 
-#if  __name__ == "__main__":
+if  __name__ == "__main__":
 
 	#tweet_tknzr = TweetTokenizer()#not good for hindi
 	#tokens = tweet_tknzr.tokenize(sample)
 	#tag = pos_tag(tokens)
+
+	datapath = path + "/res/datasets/"
+	train = "train_hn.txt"
+	test = "test_hn.txt"
+	dataset = "//riloff_hn/"
+	train_filename = load_file( datapath + dataset + train)
+	test_filename = load_file( datapath + dataset + test)
+
+
