@@ -11,8 +11,8 @@ from sklearn import metrics
 from sklearn.feature_extraction import DictVectorizer
 import matplotlib.pyplot as plt
 from numpy.random import seed, shuffle
-
-
+import pre_processing as dproc
+import classifiers
 
 #path = '\\'.join((os.getcwd()).split('\\')[:-1])#for windows
 path = os.getcwd()[:os.getcwd().rfind('/')] #for unbuntu
@@ -119,7 +119,7 @@ def load_model(json_model, h5_weights_name, verbose=False):
 
 
 #merge dict
-def merge_dict(*dict_args):
+def merge_dicts(*dict_args):
 	result =  {}
 	for dictionary in dict_args:
 		result.update(dictionary)
@@ -186,6 +186,22 @@ def get_classes_ratio_as_dict(labels):
 	return ratio_dict
 
 #extract feature from dict*
+def extract_features_from_dict(train_features, test_features):
+	#Transform the list of features-valuw mapping to vector
+	m = len(train_features)
+	n = len(test_features)
+	print("Length of train examples: ", m)
+	print("Length of test examples: ", n)
+	vector = DictVectorizer(sparse =False)
+	#learn a list feature from name -> indices mapping and transform X train features
+	x_train_features = vector.fit_transform(train_features).tolist()
+	#just transform th ex_test_feature based on the list fitted on X_train features
+	# disadvantages: name features not encoutered during fit will be silently ignored
+	x_test_features = vector.fit_transform(test_features).tolist()
+	print('Size of features sets: train = ', len(x_train_features[0]), ', test = ', len(x_test_features[0]))
+	return x_train_features, x_test_features
+
+
 
 #feature scaling*
 def feature_scaling(features):
@@ -201,6 +217,16 @@ def feature_scaling(features):
 	return scaled_features
 	
 #run supervised learning*
+def run_supervised_learning_models(train_features, train_labels, test_features, test_labels,
+	make_feature_analysis = False, feature_names =None, top_features =0, plot_name = 'coeff'):
+	
+	class_ratio = get_classes_ratio_as_dict(train_labels)
+	#classifiers.linear_svm_grid(train_features, train_labels, test_features, test_labels, class_ratio, make_feature_analysis, feature_names, top_features, plot_name)
+	#classifiers.logistic_regression_grid(train_features, train_labels, test_features, test_labels, class_ratio, make_feature_analysis, feature_names, top_features, plot_name)
+	classifiers.nonlinear_svm_grid(train_features, train_labels, test_features, test_labels, class_ratio, make_feature_analysis, feature_names, top_features, plot_name)
+
+
+
 
 #tweet to indices*
 def tweets_to_indices(tweets, word_to_index, max_tweet_len):
@@ -230,12 +256,12 @@ def encode_text_as_matrix(train_tweets, test_tweets, mode, max_nunm_words=None):
 
 #build random word2vec mapping of a mapping
 def build_random_word2vec(tweets, embedding_dim =100, variance =1):
-	print("\n Building random vector of mapping with dimension %d....", %embedding_dim)
+	print("\n Building random vector of mapping with dimension %d...." % embedding_dim)
 	word2vec_map = {}
 	seed(1457875)
 	words = set((' '.join(tweets)).split())
 	for word in words:
-		embedding_vector = word2vec.get(word)
+		embedding_vector = word2vec_map.get(word)
 		if embedding_vector is None:
 			word2vec_map[word] = np.random.uniform( -variance, variance, size =(embedding_dim,))
 	return word2vec_map
@@ -280,6 +306,8 @@ def cosine_similarity(u, v):
 	dot = np.dot(u, v)
 	norm_u = np.sqrt(np.sum(u ** 2))
 	norm_v = np.sqrt(np.sum(v ** 2))
+	if(norm_u ==0 or norm_v ==0):
+		return -999
 	cosine_distance = dot / (norm_u * norm_v)
 	return cosine_distance
 
@@ -308,14 +336,17 @@ def get_similarity_measure(tweet, vec_map, weighted =False, verbose=True):
 			wj =  filtered_tweet[j]
 			similarity = cosine_similarity(vec_map[wi], vec_map[wj])
 			if weighted:
-				similarity/=euclidean_distance(vec_map[wi], vec_map[wj])
+				if(euclidean_distance(vec_map[wi], vec_map[wj])==0):
+					similarity =-1
+				else:
+					similarity/=euclidean_distance(vec_map[wi], vec_map[wj])
 			similarity_scores.append(similarity)
 			if max_score < similarity:
 				max_score = similarity
 				max_words = [wi, wj]
 			if min_score > similarity:
 				min_score = similarity
-				max_score = [wi, wj]
+				min_words = [wi, wj]
 	if verbose:
 		print("Filtered tweet: ", filtered_tweet)
 		if max_score != -100:
@@ -349,11 +380,16 @@ def f1_score(y_true, y_pred):
 	return 2 * ((precision*recall)/(precision + recall))
 
 #def analyse_mislabelled_data**
-def analyse_mislabelled_exapmles(X_test, y_test, y_pred):
+def analyse_mislabelled_examples(X_test, y_test, y_pred):
+	#wr_tw =[]
 	for i in range(y_test):
 		if num != y_test[i]:
 			print('Excepted:', y_test[i], ' but predicted ', num)
-			print(x_test[i])
+	#		wr_tw.append(x_test[i])
+	#filename = path + 'wa_'+str(id)+'.txt'
+	#save_file(wr_tw, filename)
+	
+
 
 
 
@@ -372,6 +408,15 @@ def print_statistics(y, y_pred):
 #plot_coefficients
 #box_plot
 #print_ statistics
+#print features
+def print_features(feature_options, feature_names):
+	print("\n============================== FEATURES ===============================\n")
+	for name , value in zip(feature_names, feature_options):
+		line_new ='{:>30} {:>10}'.format(name, value)
+		print(line_new)
+	print("\n=======================================================================\n")
+
+
 #print feature value
 #print feature value demo
 #print model title
@@ -402,6 +447,23 @@ def initialize_writer(to_write_filename):
     sys.stdout = writer(sys.stdout, fout)
     print("Current date and time: %s\n" % str(datetime.datetime.now()))
 
+def extract_features_from_dict1(train_features, test_features):
+	#Transform the list of features-valuw mapping to vector
+	m = len(train_features)
+	n = len(test_features)
+	#print("Length of train examples: ", m)
+	#print("Length of test examples: ", n)
+	vector = DictVectorizer(sparse =False)
+	#learn a list feature from name -> indices mapping and transform X train features
+	features = vector.fit_transform(train_features + test_features).tolist()
+	#print(features)
+	#print("Length of feature vector", len(features))
+	#just transform th ex_test_feature based on the list fitted on X_train features
+	# disadvantages: name features not encoutered during fit will be silently ignored
+	#x_test_features = vector.fit_transform(test_features).tolist()
+	print('Size of features sets: train = ', len(features[0]), ', test = ', len(features[0]))
+	return features[:m], features[m:]
+
 
 if  __name__ == "__main__":
 
@@ -409,11 +471,17 @@ if  __name__ == "__main__":
 	#tokens = tweet_tknzr.tokenize(sample)
 	#tag = pos_tag(tokens)
 
-	datapath = path + "/res/datasets/"
-	train = "train_hn.txt"
-	test = "test_hn.txt"
-	dataset = "//riloff_hn/"
-	train_filename = load_file( datapath + dataset + train)
-	test_filename = load_file( datapath + dataset + test)
+	#datapath = path + "/res/datasets/"
+	#train = "train_hn.txt"
+	#test = "test_hn.txt"
+	#dataset = "//riloff_hn/"
+	#train_filename = load_file( datapath + dataset + train)
+	#test_filename = load_file( datapath + dataset + test)
 
-
+	t = [{'a':2,'b':1,'n': 1},{'v':1}]
+	t1 = [{'s':1,'b': 1},{'a':2}]
+	print("t=>",t)
+	print("t1=>",t1)
+	a,b = 	extract_features_from_dict1(t,t1)
+	print(a)
+	print(b)
